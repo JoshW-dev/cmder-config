@@ -1,0 +1,10000 @@
+git commit -m"cleanup quesiton button"
+git fetch --all
+git checkout demo
+git merge dev
+git commit -m"Revert message display method for blockchain lesson"
+npm install --save react-string-replace
+git add .
+git commit -m"Remove bold tags from description string"
+gpu
+gpl
+vpn-cac-c 
+gs
+git diff
+git stash
+vpn-desk-c
+vpn-cac-c
+vpn-d
+purge
+docker-compose.exe up --build
+cd ..
+cd ibmcoach-ui
+npm-s
+gpl
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+vpn-cac-c
+docker-start 
+cd local-dev\
+docker-compose.exe up --build
+purge
+cd ..
+cd ibmcoach-ui
+gs
+gpl
+npm-s
+vpn-desk-c
+vpn-cac-c
+vpn-d
+purge
+docker-compose.exe up --build
+cd ibmcoach-ui
+npm-s
+cd CAC\IBM_Coach\ibmcoach-deploy\
+desk
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+vpn-cac-c
+docker-start 
+docker-compose.exe 
+git branch demo
+git branch -a
+git checkout demo
+git branch --set-upstream-to=origin/demo
+git fetch demo
+git branch --set-upstream-to=origin/<branch> demo
+gs
+cd ..
+gpl
+cd local-dev\
+docker-compose.exe up --build
+cd CAC\IBM_Coach\ibmcoach-deploy\
+desk
+cd CAC\IBM_Coach\
+vpn-cac-c
+docker-start 
+docker-compose.exe 
+git branch demo
+git branch -a
+git checkout demo
+git branch --set-upstream-to=origin/demo
+git fetch demo
+git branch --set-upstream-to=origin/<branch> demo
+cd local-dev\
+docker-compose.exe up --build
+docker-start
+cd ibmcoach-deploy\
+git stash
+cd ibmcoach-core\
+cd ibmcoach-coach\
+cd ..
+cd ibmcoach-ui
+git commit -m"Make default default user "student" on registration"
+gpl
+git add .
+git commit -m "fix statatistics typo"
+gu
+gpu
+vpn-desk-c
+vpn-d
+gs
+git diff
+cd ibmcoach-ui
+npm-s
+git checkout demo
+git branch --set-upstream-to=origin/demo
+git fetch demo
+git branch --set-upstream-to=origin/<branch> demo
+docker-compose.exe up --build
+desk
+cd CAC\IBM_Coach\ibde
+cd CAC\IBM_Coach\ibmcoach-deploy\
+git checkout dev
+gs
+vpn-ca-c
+vpn-cac-c
+gpl
+cd ..
+cd IBM_Coach\
+cd ibmcoach-de
+cd ibmcoach-deploy\
+cd local-dev\
+docker-compose up --build\
+docker-compose up --build
+cd local-dev\
+docker-compose.exe up --build
+docker-start
+cd ibmcoach-deploy\
+cd ibmcoach-core\
+cd ..
+cd ibmcoach-ui
+git commit -m"Make default default user "student" on registration"
+gpl
+git commit -m "fix statatistics typo"
+gu
+gs
+npm-s
+git checkout demo
+git branch --set-upstream-to=origin/demo
+git fetch demo
+git branch --set-upstream-to=origin/<branch> demo
+docker-compose.exe up --build
+cd CAC\IBM_Coach\ibde
+cd CAC\IBM_Coach\ibmcoach-deploy\
+git checkout dev
+vpn-ca-c
+cd IBM_Coach\
+cd ibmcoach-de
+cd ibmcoach-deploy\
+cd local-dev\
+docker-compose up --build\
+docker-compose up --build
+v
+vpn-desk-
+vpn-desk-c
+desk
+cd "CAC\IBM_Coach\Test Data\
+vim objective.txt
+git stash
+git commit -m"Add end seesion button"
+cd ibmcoach-coach\
+gpl
+cd ..
+cd ibmcoach-ui
+git diff
+vpn-d
+vpn-cac-c
+git commit -m"Return to new way of displaying chat messages"
+git commit -m"Fix video and url link wrapping bug"
+rgs
+gs
+git add .
+git commit -m"Make student tutor card link to CoachAnalytics page"
+gpu
+docker-compose up --build
+cd ibmcoach-ui
+gs
+npm-s
+cd IBM_Coach\
+cd ibmcoach-de
+docker-compose up --build\
+docker-compose up --build
+desk
+cd CAC\IBM_Coach\
+vpn-cac-c
+cd ibmcoach-deploy\
+gpl
+docker-start 
+cd local-dev\
+docker-compose.exe up --build
+cd CAC\IBM_Coach\ibmcoach-ui\
+vpn-d
+vpn-cac-c
+npm-s
+cd ibmcoach-coach\
+gpl
+cd ..
+cd ibmcoach-ui
+vpn-cac-c
+git commit -m"Return to new way of displaying chat messages"
+git commit -m"Fix video and url link wrapping bug"
+rgs
+gs
+git commit -m"Make student tutor card link to CoachAnalytics page"
+docker-compose up --build
+npm-s
+cd IBM_Coach\
+cd ibmcoach-de
+docker-compose up --build\
+docker-compose up --build
+desk
+cd ibmcoach-deploy\
+gpl
+docker-start 
+cd local-dev\
+docker-compose.exe up --build
+cd CAC\IBM_Coach\
+cd ibmcoach-ui
+gl
+git commit -m"Create removeStudent from coach middleware route"
+git commit -m "Add remove student button"
+git commit -m"Add removeStudent functionality to student list"
+git diff
+vpn-desk-c
+vpn-d
+vpn-cac-c
+GS
+git commit -m"fix add/remove student response undefined bug"
+git commit -m"update student list when adding email"
+gs
+git add .
+git commit -m"remove whitespace around email input" 
+gpu
+y
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+docker-start 
+cd local-dev\
+docker-compose.exe up
+y
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+docker-start 
+cd local-dev\
+docker-compose.exe up
+cd ibmcoach-coach\
+cd ibmcoach-ui
+gpl
+gs
+git add .
+git commit -m"Disable input and end session button on goodbye response"
+gpu
+vpn-desk-c
+ vpn-d
+cd ..
+vpn-cac-c
+vpn-d
+cd ..
+cd ibmcoach-ui\
+npm-s
+y
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+vpn-cac-c
+docker-start 
+cd local-dev\
+docker-compose.exe up
+docker-compose.exe up --buil
+docker-compose.exe up --build
+docker-compose.exe up --buil
+docker-compose.exe up --build
+cd ibmcoach-coach\
+cd ..
+cd ibmcoach-ui\
+gs
+gcd
+gpl
+docker-kill 
+vpn-d
+slack-kill 
+cd ibmcoach-ui
+npm-s
+desk
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+vpn-cac-c
+gpl
+cd local-dev\
+docker-start 
+docker-compose.exe up --build
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+gpl
+cd local-dev\
+docker-start 
+docker-compose.exe up --build
+vpn-cac-c
+cd ibmcoach-ui
+git commit -m"Add front end question recognition"
+git add .
+git commit -m"Add yes/no buttons to feedback card"
+gpu
+gs
+vpn-d
+slack-kill 
+cd ibmcoach-ui
+gpl
+npm-s
+5desk
+desk
+cd CAC\IBM_Coach\
+docker-start 
+cd ibmcoach-deploy\
+gpl
+cd local-dev\
+docker-compose.exe up --build
+cd local-dev\
+docker-start 
+docker-compose.exe up --build
+cd ibmcoach-ui
+git commit -m"Add front end question recognition"
+git commit -m"Add yes/no buttons to feedback card"
+slack-kill 
+gpl
+npm-s
+5desk
+desk
+cd CAC\IBM_Coach\
+docker-start 
+cd ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up --build
+cd ibmcoach-coach\
+gpl
+cd ..
+cd ibmcoach-ui
+git commit -m"Display content chatCard on questionResponse call"
+spotify-kill 
+git add .
+git commit -m"Add google result functionality"
+gpu
+vpn-d
+gs
+vpn-cac-c
+cd ..
+cd ibmcoach-ui\
+npm-s
+gpl
+desk
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+gs
+vpn-cac-c
+docker-start 
+cd local-dev\
+docker-compose.exe up
+docker-compose.exe up --build
+alias-v
+docker-compose.exe up --build
+alias-v
+cd ibmcoach-core\
+cd ..
+cd ibmcoach-coach\
+gpl
+cd ..
+cd ibmcoach-ui
+gpl
+gs
+npm-s
+vpn-cac-c
+redis-server --port 26379
+cd CAC\IBM_Coach\
+gs
+vpn-cac-c
+docker-start 
+docker-compose.exe up --build
+alias-v
+checkin
+cd ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up
+purge-hard
+cd ..
+cd ibmcoach-core\
+gpl
+nodemon
+vpn-d
+vpn-desk-c
+chrome-kill 
+explorer-rs 
+cd CAC\IBM_Coach\ibmcoach-ui\
+npm-s
+purge-hard
+vpn-desk-c
+alias
+alias-v
+checkin
+vpn-d
+desk
+vpn-cac-c
+cd CAC\IBM_Coach\ibmcoach-deploy\local-dev\
+docker-start 
+docker-compose.exe up
+gs
+git add .
+git commit -m"remove whitespace around email input" 
+gpu
+y
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+docker-start 
+cd local-dev\
+docker-compose.exe up
+spotify-kill 
+ls
+purge
+purge-hard 
+desk
+git
+slack-kill 
+cd projects\
+tree
+cd ibmcoach-ui
+gs
+npm-s
+cd IBM_Coach\
+cd ibmcoach-de
+docker-compose up --build\
+docker-compose up --build
+desk
+cd CAC\IBM_Coach\
+vpn-cac-c
+cd ibmcoach-deploy\
+gpl
+docker-start 
+cd local-dev\
+docker-compose.exe up --build
+cd CAC\IBM_Coach\ibmcoach-ui\
+vpn-d
+vpn-cac-c
+npm-s
+cd ibmcoach-coach\
+gpl
+cd ibmcoach-ui
+vpn-cac-c
+git commit -m"Return to new way of displaying chat messages"
+git commit -m"Fix video and url link wrapping bug"
+rgs
+gs
+git commit -m"Make student tutor card link to CoachAnalytics page"
+docker-compose up --build
+npm-s
+cd IBM_Coach\
+cd ibmcoach-de
+docker-compose up --build\
+docker-compose up --build
+desk
+cd ibmcoach-deploy\
+docker-start 
+cd local-dev\
+docker-compose.exe up --build
+cd CAC\IBM_Coach\
+cd ibmcoach-ui
+git commit -m"Create removeStudent from coach middleware route"
+git commit -m "Add remove student button"
+git commit -m"Add removeStudent functionality to student list"
+git diff
+vpn-desk-c
+vpn-d
+vpn-cac-c
+GS
+git commit -m"fix add/remove student response undefined bug"
+git commit -m"update student list when adding email"
+git commit -m"remove whitespace around email input" 
+y
+cd CAC\IBM_Coach\ibmcoach-deploy\
+docker-start 
+cd local-dev\
+docker-compose.exe up
+purge-hard
+git
+tree
+alias-v 
+cd projects\
+spotify-kill 
+cd AR_Tilt\
+git branch
+git branch dan_cooking
+git checkout dan_cooking 
+git commit -m"Create branch for recipe reading stuff"
+git checkout master
+git push origin dan_cooking
+git branch -a
+gpl
+git commit -m"Remove cooking logic and buttons"
+alias-v
+git commit -m"Update main activity layout"
+git diff Android\app\src\main\res\string
+git stashgit stash
+git stash
+g
+cd Android\
+cd ..
+cd "Program Files
+cd Java\jre1.8.0_191\
+cd bin\
+ls
+keytool -exportcert -alias androiddebugkey -keystore %HOMEPATH%\.android\debug.keystore -list -v | grep SHA1
+desk
+cd projects\AR_Tilt\
+git add .
+git commit -m"Add gs"
+git reset
+git reset --soft HEAD^
+gpu
+gs
+gl
+cd "Program Files
+cd Java\jre1.8.0_191\
+cd bin\
+ls
+keytool -exportcert -alias androiddebugkey -keystore %HOMEPATH%\.android\debug.keystore -list -v | grep SHA1
+desk
+cd projects\AR_Tilt\
+git commit -m"Add gs"
+git reset
+git reset --soft HEAD^
+cd ..
+cd ibmcoach-ui
+gpl
+git commit -m"Add resource feedback call"
+git diff
+git add .
+git commit -m"Add response messages for question result feedback"
+gpu
+gs
+npm update
+gl
+purge
+git reset --soft HEAD^
+gpu
+gs
+gl
+cd ..
+cd ibmcoach-ui
+npm install 
+npm-s
+gl
+"desk
+check
+checkin
+cd ibmcoach-deploy\local-dev\
+docker-start 
+docker-compose.exe up
+npm install 
+npm-s
+gl
+"desk
+check
+checkin
+cd ibmcoach-deploy\local-dev\
+docker-start 
+docker-compose.exe up
+cd ibmcoach-ui
+cd ibmcoach-core\
+cd ibmcoach-objective\
+git stash
+gs
+cd ibmcoach-coach\
+cd ..
+cd ibmcoach-instructor\
+gpl
+cd ibmcoach-instructor\
+gpl
+steam-kill 
+gs
+vpn-d
+cd ibmcoach-deploy\local-dev\
+docker-start 
+docker-compose.exe up
+cd ibmcoach-ui
+gl
+gpl
+npm install 
+o
+npm-s
+cd ibmcoach-deploy\local-dev\
+docker-start 
+desk
+checkin
+cd ibmcoach-deploy\
+docker-compose.exe up
+cd ..
+gpl
+cd local-dev\
+docker-compose.exe up --build
+cd ibmcoach-ui
+gs
+gl
+alias-v
+:
+eq
+alias-v
+C:\Program Files\EqualizerAPO\editor.exe
+alias
+"C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Equalizer APO 1.2.1\Configuration Editor.exe"
+"C:\Program Files\EqualizerAPO\Editor.exe"
+purge-hard
+cd /*ui
+cd *ui
+npm-s
+desk
+cd CAC\IBM_Coach\
+ls
+tree
+cd ibmcoach-deploy\
+docker-start 
+cd local-dev\
+docker-compose.exe up
+docker-compose.exe up
+cd ..
+cd ibmcoach-ui
+gl
+gs
+vpn-d
+purge-hRD
+purge-hard
+docker-compose.exe up
+cd ..
+cd ibmcoach-ui
+gs
+npm-s
+docker-start 
+desk
+alias-v
+checkin
+cd ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up
+netstat
+vpn-desk-c
+vpn-d
+purgw
+purge
+purge-hard 
+desk
+cd projects\
+cd AR_Tilt\
+gs
+git stash
+cd projects\
+cd AR_Tilt\
+cd ..
+cd ibmcoach-ui
+git stash
+gpl
+gs
+npm-s
+cd ..
+cd ibmcoach-ui
+gs
+npm-s
+docker-start 
+desk
+alias-v
+checkin
+cd ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up
+netstat
+vpn-desk-c
+vpn-d
+purgw
+purge
+purge-hard 
+desk
+cd projects\
+cd AR_Tilt\
+gs
+git stash
+cd projects\
+cd AR_Tilt\
+npm-s
+cd ..
+cd ibmcoach-ui
+git diff
+git stash
+git commit -m"Clean generated questions panel"
+git commit -m"Replace questionsPanel with ObjectiveQuestionsPanel"
+git commit -m"remove deprecated panel" 
+gpl
+git commit -m"Fix delete button for text and image"
+gs
+git add .
+git commit -m"Fix delete button"
+gpu
+vpn-d
+purge-hRD
+purge-hard
+docker-compose.exe up
+gs
+desk
+alias-v
+checkin
+cd ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up
+netstat
+vpn-desk-c
+vpn-d
+purgw
+purge
+purge-hard 
+desk
+cd projects\
+cd AR_Tilt\
+git stash
+docker start
+docker-start 
+git commit -m"Make student list table scrollable"
+cd ibmcoach-coach\
+cd ibmcoach-
+git add .
+git commit -m"Clean panel and make scrollable" 
+gpu
+cd ibmcoach-analytics\
+gpl
+gl
+npm install 
+cd ..
+cd ibmcoach-ui
+gs
+npm-s
+gs
+git stash
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+vpn-cac-c
+gpl
+cd local-dev\
+docker-compose.exe up --build
+docker-compose.exe up --build
+npm-s
+cd ..
+cd ibmcoach-ui
+git add .
+git commit -m"Add edit buttons to content panels"
+gpu
+gs
+vpn-cac-c
+docker-start 
+cd ..
+cd ibmcoach-ui\
+npm-s
+docker-compose.exe up --build
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up
+git add .
+git commit -m"Clean panel and make scrollable" 
+gpu
+cd ibmcoach-analytics\
+gpl
+npm install 
+cd ..
+cd ibmcoach-ui
+gs
+npm-s
+gs
+git stash
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+vpn-cac-c
+cd local-dev\
+docker-compose.exe up --build
+docker-compose.exe up --build
+npm-s
+cd ..
+git commit -m"Add edit buttons to content panels"
+docker-start 
+cd ..
+cd ibmcoach-ui\
+npm-s
+docker-compose.exe up --build
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up
+cd ibmcoach-ui
+git add client\src\components\util\Cards\QuestionCard\
+git commit -m"Fix bug showing MC with null options"
+git diff client\src\components\util\Panels\
+git commit -m"Change short answer to true/false"
+git commit
+git commit -m"change sa to tf"
+gpl
+git commit -m"Started fixing Cooper's broken code"
+gl
+git commit -m"Finished fixing Cooper's broken code"
+git add .
+git commit -m "Change mention of short answer to "True/False""
+gpu
+vpn-cac-c
+vpn-d
+gs
+y
+docker-compose.exe up
+cd ibmcoach-ui
+gpl
+npm-s
+desk
+cd CAC\IBM_Coach\
+vpn-cac-c
+cd ibmcoach-deploy\local-dev\
+docker-start 
+docker-compose.exe up
+purge
+vpn-d
+purge
+vpn-d
+desk
+del josh_Morales_transcript.pdf 
+ls
+banner banner
+banner hello
+cd C:
+cd C:\
+cd AR_Tilt\
+git stash
+docker start
+docker-start 
+git commit -m"Make student list table scrollable"
+cd ibmcoach-coach\
+cd ibmcoach-
+git add .
+git commit -m"Clean panel and make scrollable" 
+gpu
+cd ibmcoach-analytics\
+gpl
+gl
+npm install 
+cd ..
+cd ibmcoach-ui
+gs
+npm-s
+gs
+git stash
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+vpn-cac-c
+gpl
+cd local-dev\
+docker-compose.exe up --build
+docker-compose.exe up --build
+npm-s
+cd ..
+cd ibmcoach-ui
+git add .
+git commit -m"Add edit buttons to content panels"
+gpu
+gs
+vpn-cac-c
+docker-start 
+cd ..
+cd ibmcoach-ui\
+npm-s
+docker-compose.exe up --build
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up
+desk
+vpn-d
+docker-kill 
+alias
+cd projects\
+cd testing\
+touch printLoop.sh
+bash printLoop.sh 
+vim printLoop.sh 
+goof.py
+vim goof.py
+python goof.py clc
+cls
+ls
+vim goof.py 
+python goof.py 
+desk
+netstat
+goof.py
+vim goof.py
+python goof.py clc
+cls
+ls
+vim goof.py 
+python goof.py 
+desk
+netstat
+ lo
+cd CAC\IBM_Coach\ibmcoach-ui
+gs
+cd ibmcoach-coach\
+cd ..
+cd ibmcoach-ui
+gpl
+vpn-cac-c
+curl
+curl --help
+clear
+curl http://cluster-elearning-shadi.us-south.containers.appdomain.cloud/
+curl http://cluster-elearning-shadi.us-south.containers.appdomain.cloud/students
+vpn-d
+vpn-desk-c
+curl -H "Content-Type: application/json" -X POST -d '{"question":"What are dogs?","student":"5d543ec1a276bd0c24033981"}' http://cluster-elearning-shadi.us-south.containers.appdomain.cloud/coach/5d543615ee2da44194dcded6/discovery
+curl --header "Content-Type: application/json" --request POST   --data '{"question":"what are dogs?","student":"5d543ec1a276bd0c24033981"}' http://cluster-elearning-shadi.us-south.containers.appdomain.cloud/coach/5d543615ee2da44194dcded6/discovery
+cd CAC\IBM_Coach\ibmcoach-ui\
+gpl
+npm-s 
+desk
+vpn-cac-c
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+gpl
+cd local-dev\
+docker-start 
+docker-compose.exe up
+purge-hard
+slack-kill 
+purge-hard
+slack-k
+alias
+alias-v
+slack-kill
+alias-v
+slack-kill
+cd CAC\IBM_Coach\ibmcoach-ui\
+gpl
+npm-s
+python goof.py clc
+cls
+vim goof.py 
+python goof.py 
+desk
+netstat
+ lo
+cd ibmcoach-coach\
+gpl
+vpn-cac-c
+curl
+curl --help
+clear
+curl http://cluster-elearning-shadi.us-south.containers.appdomain.cloud/
+curl http://cluster-elearning-shadi.us-south.containers.appdomain.cloud/students
+vpn-desk-c
+curl -H "Content-Type: application/json" -X POST -d '{"question":"What are dogs?","student":"5d543ec1a276bd0c24033981"}' http://cluster-elearning-shadi.us-south.containers.appdomain.cloud/coach/5d543615ee2da44194dcded6/discovery
+curl --header "Content-Type: application/json" --request POST   --data '{"question":"what are dogs?","student":"5d543ec1a276bd0c24033981"}' http://cluster-elearning-shadi.us-south.containers.appdomain.cloud/coach/5d543615ee2da44194dcded6/discovery
+cd CAC\IBM_Coach\ibmcoach-ui\
+gpl
+npm-s 
+desk
+cd CAC\IBM_Coach\
+cd local-dev\
+docker-start 
+docker-compose.exe up
+purge-hard
+slack-kill 
+purge-hard
+slack-k
+alias
+alias-v
+slack-kill
+cd CAC\IBM_Coach\ibmcoach-ui
+gp
+gcm
+vpn--d
+git commit -m"Disable question generation"
+git status
+vpn-d
+vpn-cac-c
+git pull --rebase
+git pull --rebase origin master
+git push origin master
+git push -f origin master
+git stash
+gcd
+spotify-kill 
+git commit -m"Fix question generation https bug"
+git commit -m"Add link from objective edit to parent coach edit page"
+git commit -m"Add content number number indicator on content panel"
+git add .
+git commit -m"Add title length limit and popever to content cards"
+gpu
+ls
+cd ibmcoach-deploy\
+gpl
+cd ..
+cd ibmcoach-ui
+gs
+slack-kill
+desk
+alias
+alias-v
+checkin 
+cd ibmcoach-deploy\local-dev\
+gpl
+docker-compose.exe up --build
+y
+docker-kill 
+alias
+alias-v
+checkin 
+cd ibmcoach-deploy\local-dev\
+docker-compose.exe up --build
+y
+docker-kill 
+cd CAC\IBM_Coach\
+gs
+git clone http://joshua@172.28.49.153:7990/scm/ic/ibmcoach-response-extractor.git
+cd ibmcoach-response-extractor\
+git pull
+cd ibmcoach-core\
+cd ibmcoach-coach\
+cd ..
+cd ibmcoach-objective\
+gpl
+vpn-desk-c
+desk
+cd projects\
+ls
+cd ChromeExtension\
+touch manifest.json
+touch popup.html
+touch popup.js
+touch getPageSource.js
+vpn-d
+vpn-cac-c
+docker-kill 
+cd CAC\IBM_Coach\ibmcoach-ui\
+npm-s
+gs
+git diff
+git stash
+docker-kill 
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+checkin 
+cd ibmcoach-deploy\local-dev
+gs
+docker-compose.exe up
+docker-compose.exe up --build
+vpn-d
+docker-kill 
+cd CAC\IBM_Coach\ibmcoach-ui\
+npm-s
+gs
+git stash
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+checkin 
+cd ibmcoach-deploy\local-dev
+docker-compose.exe up
+docker-compose.exe up --build
+cd ibmcoach-response-extractor\
+git checkout dev
+cd ..
+cd ibmcoach-ui
+git commit -m"Reduce collapse title length"
+git diff
+gs 
+git add .
+git commit -m"Change image sizing/cropping"
+gpu
+gpl
+gs
+docker-kill 
+purge
+vpn-cac-c
+purge-hard
+cd ibmcoach-ui\
+gpl
+npm-s
+docker-compose.exe up
+desk
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+gpl
+cd local-dev\
+docker-compose.exe up --build
+cd ibmcoach-deploy\
+gpl
+cd local-dev\
+docker-compose.exe up --build
+desk
+cd projects\python\
+vim prefixScore.py 
+ls
+vim matching.py
+docker-compose.exe up --build
+cd ibmcoach-ui
+gpl
+npm-s
+gs
+git diff
+git stash
+docker-kill 
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+checkin 
+cd ibmcoach-deploy\local-dev
+gs
+docker-compose.exe up
+docker-compose.exe up --build
+docker-kill 
+npm-s
+gs
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+checkin 
+cd ibmcoach-deploy\local-dev
+docker-compose.exe up
+docker-compose.exe up --build
+cd ibmcoach-response-extractor\
+git checkout dev
+git commit -m"Reduce collapse title length"
+gs 
+git commit -m"Change image sizing/cropping"
+gpl
+docker-kill 
+purge
+purge-hard
+cd ibmcoach-ui\
+gpl
+npm-s
+docker-compose.exe up
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up --build
+cd ibmcoach-objective\
+cd ibmcoach-admin\
+cd ibmcoach-analytics\
+cd ibmcoach-instructor\
+cd ibmcoach-core\
+vpn-desk-c
+cd ibmcoach-coach\
+vpn-d
+vpn-cac-c
+gpl
+cd ..
+cd ibmcoach-ui
+git stash
+git add .
+git commit -m"Display saved conversation id"
+gpu
+cd projects\
+cd python\
+ls
+vim substring.py
+python substring.py 
+vim prefixScore.py
+python prefixScore.py 
+python matching.py 
+desk
+cd CAC\IBM_Coach\ibmcoach-ui\
+gs
+git diff
+vpn-cac-c
+purge-hard
+cd ibmcoach-ui\
+gpl
+npm-s
+docker-compose.exe up
+cd local-dev\
+desk
+cd CAC\IBM_Coach\
+checkin
+cd ibmcoach-deploy\
+cd ibmcoach-coach\
+ls
+cd ibmcoach-instructor\
+cd ..
+cd ibmcoach-deploy\local-dev\
+gpl
+docker-compose.exe up --build
+desk
+cd projects\
+cd ..
+cd CAC\IBM_Coach\
+purge
+cd ibmcoach-ui
+npm-s
+desk
+checkin
+cd ibmcoach-deploy\local-dev\
+docker-compose.exe up
+cd C:/
+clear
+clear
+cd ibmcoach-ui
+gs
+npm-s
+cd ibmcoach-ui
+gs
+purge-hard
+clear
+checkin
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up
+docker-compose.exe up
+cd ibmcoach-ui\
+npm-s
+desk
+checkin
+cd ibmcoach-deploy\local-dev\
+docker-compose.exe up
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up
+vpn-cac-c
+vpn-d
+vpn-desk-c 
+cd ibmcoach-core\
+gs
+purge-hard
+checkin
+cd ibmcoach-deploy\local-dev\
+docker-compose.exe up
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up
+cd ibmcoach-core\
+purge-hard
+cd ibmcoach-ui
+vpn-desk-c 
+cd ..
+cd "IBM_Coach\ibmcoach-core\
+gs
+git stash
+vpn-cac-c
+vpn-d
+vpn-desk-c
+gpl
+purge-hard
+cd ..
+cd ibmcoach-ui
+npm-s
+gs
+purge-hard
+desk
+checkin
+cd ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe 
+docker-compose.exe up
+docker-compose.exe up--build
+docker-compose.exe up --build
+slac-ki
+slack-kill 
+docker-compose.exe up
+docker-compose.exe up--build
+docker-compose.exe up --build
+slac-ki
+slack-kill 
+vpn-desk-c 
+vpn-cac-c
+vpn-desk-c
+vpn-d
+cd ..
+cd ibmcoach-ui
+vpn-cac-c 
+gpl
+git add .
+git commit -m"Change instances of tutor to coach"
+gpu
+gs
+purge
+purge-hard 
+cd ..
+cd ibmcoach-ui
+gs
+npm-s
+slack-kill 
+checkin
+cd ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up
+checkin
+cd ibmcoach-deploy\
+gs
+gpl
+cd local-dev\
+alias-c
+alias-v
+cd ibmcoach-ui
+git add .
+git commit -m"Change instances of tutor to coach"
+gs
+purge
+purge-hard 
+cd ..
+cd ibmcoach-ui
+gs
+npm-s
+slack-kill 
+checkin
+cd ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up
+checkin
+cd ibmcoach-deploy\
+cd local-dev\
+alias-c
+alias-v
+cd ibmcoach-ui
+edsk
+cd "Queens Stuff\School\MINE 472\
+git stash
+git stash pop
+git add Phase-1\mine472-project-phase1.pdf
+git reset
+git add Phase-1\MINE472-Project-Phase1.pdf 
+git add README.md 
+git commit -m"Add phase 1 resources"
+cd "projects\
+cd QSAT\
+cd ADCS-Simulink-Simulation\
+git branch -a
+git checkout Dev 
+gpl
+desk
+cd "Queens Stuff\School\
+cd "MINE 472\
+cd mine472-project\
+ls
+git add Phase-1\mine472-project-phase1.ipynb 
+git commit -m"Started part 1"
+gpu
+git diff
+gs
+purge-hard
+npm-s
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\local-dev\
+dcu
+purge
+purge-hard 
+cd ..
+cd ibmcoach-ui
+npm-s
+slack-kill 
+checkin
+cd ibmcoach-deploy\
+cd local-dev\
+docker-compose.exe up
+desk
+cd projects\
+cd QSAT\
+ls
+cd ADCS-Simulink-Simulation\
+gcm
+git stash
+git branch -ca
+git branch -a
+git checkout calDev
+gs
+gp
+gpl
+cd ibmcoach-ui
+npm-s
+cd ibmcoach-ui
+gl
+gl
+vpn-d
+purge
+gs
+gs
+gp
+gpl
+checkin
+cd ibmcoach-deploy\
+cd local-dev\
+dcub
+vim user_aliases.cmd 
+find cmder
+dir
+l
+ls
+alias
+alias-v
+purge
+desk
+cd "Queens Stuff\School\MINE 472\mine472-project\
+gs
+git diff
+vim user_aliases.cmd 
+find cmder
+dir
+l
+alias
+alias-v
+desk
+dr
+cd "Queens Stuff\School\MINE 472\
+cd mine472-project\
+ls
+git commit -m"Update pt 1 more"
+gs
+git add .
+git commit -m"Finished pt1.2"
+gpu
+alias-v
+purge
+desk
+cd "Queens Stuff\School\MINE 472\mine472-project\
+gs
+git diff
+vim user_aliases.cmd 
+find cmder
+dir
+l
+alias
+alias-v
+desk
+dr
+cd "Queens Stuff\School\MINE 472\
+cd mine472-project\
+ls
+git commit -m"Update pt 1 more"
+git commit -m"Finished pt1.2"
+cd ibmcoach-co
+cd ibmcoach-core\
+cd ibmcoach-ui
+cd ibmcoach-objective\
+vpn-desk-c 
+cd ..
+c ibmcoach-ui
+cd ibmcoach-ui\
+vpn-d
+vpn-cac-c 
+git commit -m"Display new format of generatd questions"
+git add .
+git commit -m"Randomize mc options"
+gpu
+gpl
+gs
+purge-hard 
+gpu
+cd ibmcoach-ui\
+gpl
+npm-s 
+checkin 
+cd ibmcoach-deploy\
+cd local-dev\
+gpl
+dcu
+git commit -m"Update pt 1 more"
+git commit -m"Finished pt1.2"
+cd ibmcoach-co
+c ibmcoach-ui
+cd ibmcoach-ui\
+git commit -m"Display new format of generatd questions"
+git commit -m"Randomize mc options"
+gpu
+gpl
+purge-hard 
+cd ibmcoach-ui\
+gpl
+npm-s 
+checkin 
+cd ibmcoach-deploy\
+cd local-dev\
+dcu
+cd ibmcoach-core\
+cd ibmcoach-objective\
+git add .
+git commit -m"Add editContent route"
+vpn-cac-c 
+gpu
+cd ..
+cd ibmcoach-ui
+vpn-desk-c 
+gs
+vpn-d
+vpn-cac-c
+purge
+dek
+desk
+cd "Queens Stuff\School\MINE 472\mine472-project\
+gpl
+purge-hard
+gpl
+dcu
+cd ibmcoach-ui
+gs
+npm-s
+gpl
+desk
+checkin 
+cd ibmcoach-deploy\
+gs
+cd local-dev\
+dcu
+dcub
+desk
+cd "Queens Stuff\School\MINE 472\mine472-project\
+gs
+gok
+gpl
+desk
+cd CAC\IBM_Coach\
+checkin 
+cd ibmcoach-deploy\
+gpl
+alias-v
+gs
+gok
+cd ibmcoach-coach\
+cd ibmcoach-core\
+gpl
+cd ..
+cd ibmcoach-ui
+gpl
+gpl
+ibm_pull 
+alias-v
+ibm_pull 
+ibm_pull 
+ibm_pull 
+gpl
+alias-v
+gok
+cd ibmcoach-coach\
+cd ibmcoach-core\
+gpl
+gpl
+ibm_pull 
+alias-v
+ibm_pull 
+ibm_pull 
+git add client\src\components\util\Panels\GeneratedQuestionsPanel\
+git commit -m "Fix crashing when generatedQuestions array is null"
+ibm_pull 
+git stash
+cd ibmcoach-response-extractor\
+cd ..
+cd ibmcoach-ui
+git add .
+git commit -m"Make images expandable"
+gpu
+gs
+gpl
+desk
+date
+echo hello
+echo $PATH
+ibm_pull 
+ibm_pull 
+ibm_pull 
+npm-s
+gok
+cd ibmcoach-coach\
+cd ibmcoach-core\
+gpl
+cd ..
+cd ibmcoach-ui
+gpl
+gpl
+ibm_pull 
+docker-compose.exe up --build
+dcub 
+alias-v
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd local-dev\
+dcub
+echo hello
+echo $PATH
+git stash
+gpl
+gs
+purge-hard 
+cd local-dev\
+dcub
+echo hello
+echo $PATH
+gpl
+purge-hard 
+git diff
+alias
+cd ibmcoach-response-extractor\
+git checkout 9e53387596c
+git checkout dvev
+git checkout dev
+cd ibmcoach-ui
+git add .
+git commit -m"Resume questions after answering student"
+gpu
+`1`1234r5tyu
+cd ..
+cd ibmcoach-core\
+gs
+git stash
+vpn-d
+vpn-desk-c 
+purge
+gpl
+purge-hard 
+cd ..
+cd ibmcoach-ui\
+gs
+npm-s
+echo $PATH
+git stash
+gpl
+purge-hard 
+checkin 
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+gs
+dcub
+dcub
+purge
+vpn-desk-c 
+ls
+vpn-cac-c
+git clone http://joshua@172.28.49.153:7990/scm/ic/ibmcoach-conversation-generation.git
+cd ibmcoach-conversation-generation\
+gpl
+gs
+vpn-d
+vpn-desk-c
+ibm_pull 
+history
+cd ibmcoach-ui
+gl
+npm-s
+vpn-d
+vpn-desk-c 
+gs
+checkin 
+alias
+alias-v
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\local-dev\
+checkin
+cd ibmcoach-deploy\local-dev\
+dcu
+dcub
+dcub
+purge
+vpn-cac-c
+checkin
+cd ibmcoach-deploy\local-dev\
+dcu
+dcub
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+gok
+cd ..
+cd ibmcoach-ui
+gs
+gpl
+gpl
+vpn-d
+cd ..
+cd ibmcoach-ui\
+gs
+gpl
+cd ..
+cd ibmcoach-ui\
+npm-s
+purge-hard 
+checkin
+dcu
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+cd ibmcoach-ui
+git add .
+git commit -m"Add new question format routes" -m"Does not work for manually created questions yet"
+vpn-cac-c
+gpu
+gd
+vpn-d
+gs
+purge
+cd ibmcoach-u
+cd ibmcoach-ui\
+ns
+gs
+npm-s
+cd ibmcoach-deploy\local-dev\
+dcub
+desk
+checkin
+gpl
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+dcu
+cd ibmcoach-ui
+ls
+gs
+npm-s
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+dcu
+cd ibmcoach-ui\
+vpn-desk-c 
+vpn-desk-c
+vpn-d
+vpn-cac-c 
+gs
+git add .
+git commit -m"Change displayed objective questions to new format"
+gpu
+purge-hard 
+checkin 
+cd ibmcoach-deploy\
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+cd ibmcoach-ui
+gs
+git add .
+git commit -m "Clean up displayed questions" 
+gpu
+cd ibmcoach-ui
+npm-s
+dcub
+checkin 
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+dcub 
+purge
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+dcub 
+cd ibmcoach-ui
+git diff
+git add .
+git commit -m"Change add question format"
+gpu
+gs
+purge
+cd ibmcoach-ui\
+gs
+npm-s
+checkin
+cd ibmcoach-deploy\local-dev\
+dcu
+dcub
+checkin 
+cd ibmcoach-deploy\
+cd local-dev\
+dcub
+dcub
+checkin 
+cd ibmcoach-deploy\
+cd local-dev\
+dcub
+cd ..
+cd ibmcoach-ui
+gl
+git add .
+git commit -m "Fix bug with setting questionMC state"
+gpu
+gd
+gs
+purge
+purge-hard 
+dcub
+cd ..
+cd ibmcoach-ui
+gs
+npm-s
+checkin 
+cd ibmcoach-deploy\
+cd local-dev\
+dcub
+gs
+purge
+purge-hard 
+dcub
+npm-s
+checkin 
+cd ibmcoach-deploy\
+cd local-dev\
+dcub
+cd ibmcoach-ui
+cd Mohawk\
+git clone https://github.com/TeHikuMedia/corpora.git
+ls
+cd corpora\
+gpl
+cd ..
+cd IBM_Coach\ibmcoach-ui
+git diff
+gs
+git add .
+git commit -m "Update Add question UI"
+gpu
+cd ibmcoach-ui\
+npm-s
+ls
+virtualenv env
+purge
+purge
+dcub
+cd ibmcoach-ui
+npm-s
+dcub
+checkin 
+cd ibmcoach-deploy\
+cd local-dev\
+dcu
+cd Mohawk\
+gs
+cd corpora\
+python -m pip install Django
+python -m pip install --upgrade pip
+python -m django --version
+la
+ls
+cd ..
+desk
+purge-hard 
+cd ibmcoach-ui
+npm-s
+cd ..
+desk
+cd ibmcoach-ui\
+git add .
+git commit -m "Fix question display for qGen v3"
+vpn-cac-c
+gpu
+gs
+vpn-d
+purge-hard 
+virtualenv env
+purge
+dcub
+cd ibmcoach-ui
+npm-s
+cd local-dev\
+dcu
+cd Mohawk\
+python -m pip install Django
+python -m pip install --upgrade pip
+python -m django --version
+la
+purge-hard 
+checkin
+cd ibmcoach-deploy\
+purge
+desk
+cd CAC\Mohawk\
+gpl
+git branch -a
+git checkout mohawk
+py manage.py runserver
+python manage.py runserver
+gs
+pip install
+pip help
+pip help install
+pip install -r requirement.txt
+pip install -r requirements.txt
+ls
+cd corpora\
+python manage.py runserver 8080
+checkin 
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+alias-v
+cd local-dev\
+dcu
+cd Mohawk\
+python -m pip install Django
+python -m pip install --upgrade pip
+python -m django --version
+la
+purge-hard 
+checkin
+cd ibmcoach-deploy\
+desk
+cd CAC\Mohawk\
+git branch -a
+git checkout mohawk
+py manage.py runserver
+python manage.py runserver
+pip install
+pip help
+pip help install
+pip install -r requirement.txt
+pip install -r requirements.txt
+ls
+cd corpora\
+python manage.py runserver 8080
+checkin 
+cd ibmcoach-deploy\local-dev\
+dcub
+alias-v
+git commit -m"Add falsehood enum to objectiveQuestion model"
+nodemon
+vpn-cac-c
+vpn-
+vpn-desk-c
+steam-kill 
+ibm_pull 
+vpn-desk-c 
+vpn-d
+vpn-cac-c 
+cd ibmcoach-core\
+cd ibmcoach-objective\
+gpl
+cd ..
+cd ibmcoach-ui
+git add .
+git commit -m"Fix new generated question format (again)"
+gpu
+gs
+gd
+purgw
+purge
+pip install -r requirement.txt
+pip install -r requirements.txt
+ls
+cd corpora\
+python manage.py runserver 8080
+checkin 
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcub
+alias-v
+gl
+cd ibmcoach-core
+vpn-cac-c
+gpl
+nodemon
+cd ..
+cd ibmcoach-ui
+gs
+npm-s
+ls
+cd corpora\
+python manage.py runserver 8080
+checkin 
+alias-v
+checkin
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+cd ibmcoach-deploy\local-dev\
+dcub
+alias-v
+gl
+cd ibmcoach-core
+vpn-cac-c
+nodemon
+cd ..
+npm-s
+python manage.py runserver 8080
+checkin 
+alias-v
+checkin
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcub
+cd ibmcoach-core\
+git commit -m "Add analytics model"
+cd ..
+cd ibmcoach-ui
+alias
+git commit -m"update new question format display"
+history
+clear
+gd
+git add .
+git commit -m"Fix logic for adding questions manually"
+gpu
+purge
+desk
+cd CAC\Mohawk\
+ls
+cd corpora\
+git stash
+gpl
+gs
+git pull
+dcub
+cd ibmcoach-ui
+gs
+npm-s
+checkin
+ibm_pull 
+cd ..
+checkin 
+cd ibmcoach-deploy\local-dev\
+dcub
+dcu
+desk
+cd CAC\Mohawk\
+cd corpora\
+vim docker-compose.yml 
+docker-compose.exe 
+
+docker-compose.exe up --build
+python - m django --version
+ls
+docker-start 
+vim docker-compose.yml 
+docker-compose.exe 
+docker-compose.exe up --build
+python - m django --version
+docker-start 
+cd projects\
+git clone https://github.com/qwackathon/qwacks-website.git
+ls
+cd qwacks-website\
+npm install 
+npm install -g gatsby-cli
+gatsby develop
+gs
+git stash
+gpl
+desk
+cd CAC\Mohawk\corpora\
+docker
+docker images
+docker port
+docker port --help
+docker --help
+docker network
+docker network inspect
+docker network ls
+docker network ls
+pip install --upgrade setuptools
+pip install -r requirements.txt
+checkin
+cd ..
+cd Mohawk\corpora\
+docker build . -t corpora
+docker run -it --env-file=local.env --mount type=bind,source="$(pwd)"/corpora,target=/webapp/corpora/corpora corpora /bin/bash
+dcub
+cd ibmcoach-ui
+npm-s
+checkin
+ibm_pull 
+cd ..
+checkin 
+cd ibmcoach-deploy\local-dev\
+dcu
+cd CAC\Mohawk\
+cd corpora\
+vim docker-compose.yml 
+docker-compose.exe 
+docker-compose.exe up --build
+python - m django --version
+deks
+desk
+cd CAC\Mohawk\corpora\
+docker
+docker-start
+docker-compose.exe up
+ls
+purgw
+purge
+docker-start 
+git checkout docker
+docker-compose build
+dcub
+git branch mohawk
+alias
+git checkout mohawk
+docker build . -t corpora
+docker-compose up
+gs
+gpl
+vpn-d
+vpn-cac-c
+purge-hard 
+vpn-cac-c
+purge-hard 
+cd CAC\Mohawk\corpora\
+gs
+desk
+cd projects\
+cd qwacks-website\
+ls
+gpl
+gatsby develop
+ibm_pull 
+cd ..
+cd ibmcoach-core\
+gs
+gl
+gpl
+gatsby develop
+vpn-d
+ls --help
+-l
+ls -l
+desk
+cd projects\
+l
+ls
+purge
+docker-start
+docker-compose.exe up
+ls
+purgw
+purge
+git branch mohawk
+alias
+docker build . -t corpora
+docker-compose up
+vpn-d
+purge-hard 
+vpn-cac-c
+cd CAC\Mohawk\corpora\
+git checkout docker
+docker-start 
+docker-compose build
+dcub
+docker build-compose build
+git checkout mohawk
+gpl
+docker pull tehiku/corpora:local-dev
+docker-compose up web
+docker-compose.exe build
+cd projects\qwacks-website\
+gl
+gs
+git add .
+git commit -m"Add monkey with abana svg"
+gpu
+desk
+checkin
+gs
+git add .
+git commit -m"Add monkey with abana svg"
+gpu
+checkin
+desk
+cd "Queens Stuff\School\
+cd "mthe 393\
+cd Lab3\
+vim Lab3_Group2.slx
+cd ..
+cd LAB4\
+ls
+vim lab4
+vim lab4.m
+cd ibmcoach-ui\
+npm-s
+desk
+cd projects\
+cd ..
+cd CAC\Mohawk\
+cd corpora\
+gpl
+cd "mthe 393\
+cd Lab3\
+vim Lab3_Group2.slx
+cd LAB4\
+vim lab4
+vim lab4.m
+checkin 
+cd ibmcoach-deploy\
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcub
+desk
+cd CAC\Mohawk\corpora\
+ls
+docker pull tekihu/corpora:local-dev
+docker pull tehiku/corpora:local-dev
+curl -L -o wahi_korero.tar.gz https://github.com/TeHikuMedia/wahi-korero/archive/v0.5.1.tar.gz
+docker-compose up web
+git checkout mohawk
+docker-compose up --build
+npm install --help
+npm install -help
+npm install 
+npm install -g
+git stash
+cd ..
+cd corpora\
+git checkout docker
+gs
+git pull
+git checkout mohawk 
+gpl
+purge-hard 
+npm install --help
+npm install -help
+npm install 
+npm install -g
+cd corpora\
+git checkout docker
+git pull
+git checkout mohawk 
+ibm_pull 
+desk
+cd projects\qwacks-website\
+git commit -m"fix banana monkey proportions"
+gpl
+gatsby develop
+git add .
+git commit -m"Change monkey type to banana"
+gpu
+cd ..
+cd CAC\IBM_Coach\
+cd ibmcoach-ui
+gs
+git stash
+purge-hard 
+ls
+cd CAC\IBM_Coach\ibmcoach-ui\
+npm-s
+desk
+vpn-cac-c
+cd projects\qwacks-website\
+gs
+gatsby develop
+checkin
+cd ibmcoach-deploy\
+cd local-dev\
+dcu
+alias
+slack-kill 
+slack-kill 
+cd ibmcoach-ui
+gs
+npm-s
+purge-hard 
+ls
+cd CAC\IBM_Coach\ibmcoach-ui\
+npm-s
+desk
+vpn-cac-c
+cd projects\qwacks-website\
+gatsby develop
+checkin
+cd ibmcoach-deploy\
+cd local-dev\
+dcu
+alias
+slack-kill 
+cd ibmcoach-ui
+git commit -m"Add c-design banner"
+git stash
+git stashgs
+git commit -m"started setting coach positions"
+git commit -m"finish CoachProfile look"
+gpl
+gs
+git add .
+git commit -m"Add Coach title and description"
+gpu
+purge
+checkin
+cd ibmcoach-deploy\local-dev\
+docker-compose.exe up
+docker-compose.exe up
+desk
+cd projects\
+cd QSAT\
+cd ADCS-Simulink-Simulation\
+rm cntrl.c~
+ls
+slack-kill 
+git commit -m"Add c-design banner"
+git stash
+git stashgs
+git commit -m"started setting coach positions"
+git commit -m"finish CoachProfile look"
+git commit -m"Add Coach title and description"
+purge
+checkin
+cd ibmcoach-deploy\local-dev\
+docker-compose.exe up
+docker-compose.exe up
+desk
+cd projects\
+cd QSAT\
+cd ADCS-Simulink-Simulation\
+rm cntrl.c~
+git add client\src\components\util\Cards\QuestionCard\QuestionCardNew.js 
+git commit -m "fix mc duplicate options" -m"made selection of generated options more simple"
+npm install jquery
+"gs
+git commit -m"Add new learning objectives components"
+git add .
+git commit -m"create content panel"
+gpu
+gpl
+cd ..
+ls
+gs
+purge-hard
+checkin 
+cd ibmcoach-ui
+rm cntrl.c~
+ls
+cd ibmcoach-ui
+npm-s
+rm cntrl.c~
+ls
+checkin 
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcu
+dcub
+checkin 
+cd ibmcoach-ui
+rm cntrl.c~
+ls
+cd ..
+cd ibmcoach-ui
+npm-s
+git commit -m"Add new learning objectives components"
+git commit -m"create content panel"
+ls
+purge-hard
+checkin 
+cd ibmcoach-ui
+rm cntrl.c~
+ls
+npm-s
+cd ..
+cd ibmcoach-ui
+vpn-d
+npm install 
+vpn-cac-c
+gs
+git add .
+git commit -m"Add more design visuals"
+gpu
+gpl
+purge-hard 
+desk
+cd projects\qwacks-website\
+ls
+gs
+git add .
+git commit -m"add banana monkey"
+gpu
+vpn-d
+npm install 
+vpn-cac-c
+git commit -m"Add more design visuals"
+cd ibmcoach-ui
+git add .
+git commit -m"Fix coach profile height bug"
+gpu
+gs
+desk
+cd projects\qwacks-website\
+gcm
+gpl
+gatsby develop
+purge-hard 
+cd ..
+cd IBM_Coach\ibmcoach-ui
+gs
+gpl
+npm-s
+purge-hard 
+checkin
+cd ibmcoach-deploy\
+cd local-dev\
+dcu
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+deks
+desk
+tree
+alais
+alias
+checkin 
+cd ibmcoach-deploy\local-dev\
+dcub
+purge
+desk
+cd projects\
+cd ibmcoach-deploy\
+cd local-dev\
+dcu
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcub
+alias-v
+vpn-cac-c
+vpn-desk-c
+vpn-d
+desk
+cd "projects\IoT Hackathon\pill-o-talk\
+cat README.md 
+cd ..
+cd qwacks-website\
+ls
+gs
+git add .
+git commit -m"Open applications"
+gpu
+purge-hard 
+dcu
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+deks
+desk
+tree
+alais
+alias
+checkin 
+cd ibmcoach-deploy\local-dev\
+dcub
+purge
+desk
+cd projects\
+cd ibmcoach-deploy\
+cd local-dev\
+dcu
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcub
+alias-v
+vpn-cac-c
+vpn-desk-c
+vpn-d
+desk
+cd "projects\IoT Hackathon\pill-o-talk\
+cat README.md 
+cd ..
+cd qwacks-website\
+ls
+git commit -m"Open applications"
+cd ibmcoach-ui
+npm install 
+git diff
+git commit -m"Set up coach editting routes"
+gl
+git commit -m"Fix header styling and stuff"
+git commit -m"Add header functionality"
+git add .
+git commit -m"Fix footer placement"
+gpu
+gpl
+gplgs
+gs
+purge-hard 
+git commit -m"Open applications"
+gpu
+purge-hard 
+cd ibmcoach-ui
+gs
+npm-s
+git add .
+git commit -m"Open applications"
+gpu
+purge-hard 
+checkin 
+imb_pu
+dcub
+docker-kill 
+docker-start 
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcu
+purge-hard 
+npm-s
+git commit -m"Open applications"
+checkin 
+imb_pu
+dcub
+docker-kill 
+docker-start 
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcu
+cd ibmcoach-ui
+git commit -m"Finish COach profile functionality"
+git commit -"Make sure at least one qType is selected"
+git commit -m"Make sure at least one qType is selected"
+gpl
+git commit -m"Map objective names properly"
+cd ..
+cd ibmcoach-core\
+gs
+git add .
+git commit -m"Add objectiveContent Id hierarchy model"
+gpu
+vpn-d
+vpn-desk-c
+slack-kill 
+purge-hard 
+dcu
+cd ..
+cd ibmcoach-ui
+npm-s
+checkin 
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+dcu
+vpn-d
+vpn-desk-c
+purge
+purge-hard 
+cd ibmcoach-ui
+gs
+gpl
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+checkin
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcu
+cd ibmcoach-deploy\
+cd local-dev\
+checkin
+cd ibmcoach-deploy\local-dev\
+dcu
+ndoemon
+cd ibmcoach-ui\
+npm-s
+cd ..
+cd ibmcoach-objective\
+nodemon
+purge
+checkin 
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+dcu
+vpn-d
+vpn-desk-c
+purge
+purge-hard 
+cd ibmcoach-ui
+gs
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+checkin
+npm install 
+gpl
+gl
+nodmeon
+nodemon
+ibm_pull 
+dcu
+cd ibmcoach-deploy\local-dev\
+cd ..
+cd ibmcoach-core\
+nodemon.cmd 
+imb_pu
+dcub
+docker-kill 
+docker-start 
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcu
+purge-hard 
+npm-s
+git commit -m"Open applications"
+checkin 
+imb_pu
+dcub
+docker-kill 
+docker-start 
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcu
+cd ibmcoach-ui
+git commit -m"Finish COach profile functionality"
+git commit -"Make sure at least one qType is selected"
+git commit -m"Make sure at least one qType is selected"
+gpl
+git commit -m"Map objective names properly"
+cd ..
+gs
+git commit -m"Add objectiveContent Id hierarchy model"
+vpn-d
+vpn-desk-c
+purge-hard 
+dcu
+cd ..
+cd ibmcoach-ui
+npm-s
+checkin 
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+dcu
+vpn-desk-c
+purge
+purge-hard 
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+checkin
+cd ibmcoach-deploy\local-dev\
+dcu
+ls
+cd "Queens Stuff\School\MINE 472\mine472-project\
+git stash
+vpn-desk-c 
+desk
+cd CAC\IBM_Coach\ibmcoach-core\
+gpl
+vpn-d
+vpn-cac-c
+git reset .
+git add index.js 
+git add config\redis
+git add config\redis.js 
+git commit -m"Remove redis requirements to run"
+git add 
+git commit -m"Add objectiveContents CRD"
+git commit -m"add objectiveContents update route"
+git commit -m"Add add/remove content id routes"
+cd ibmcoach-ui
+git commit -m"Add generate conversation button"
+slack-kill 
+cd ibmcoach-core\
+git add .
+git commit -m"Fix add/remove id bugs"
+gpu
+cd ..
+cd ibmcoach-ov
+cd ibmcoach-objective\
+gs
+git diff
+cd ibmcoach-objective\
+git diff
+desk
+cd "Queens Stuff\School\MINE 472\mine472-project\
+ls
+rm Phase-2\blasthole_drill_error.PNG 
+git checkout joshBranch
+git checkout -b joshBranch
+gs
+git add .
+git commit -m"Start sim shit"
+gpu
+git push --set-upstream origin joshBranch
+gpl
+slack-kill 
+git diff
+ls
+rm Phase-2\blasthole_drill_error.PNG 
+git checkout joshBranch
+git checkout -b joshBranch
+git commit -m"Start sim shit"
+git push --set-upstream origin joshBranch
+gpl
+slack-kill 
+desk
+cd "Queens Stuff\School\MINE 472\mine472-project\
+git commit -m "Add good pattern tracking"
+git commit -m"Add noisy pattern tracking"
+git add .
+git commit -m"Add noise blurb at bottom"
+git add Phase-2\
+gs
+git commit -m"Clean up"
+gpu
+gl
+gs
+git add index.js 
+git add config\redis
+git add config\redis.js 
+git commit -m"Remove redis requirements to run"
+git add 
+git commit -m"Add objectiveContents CRD"
+git commit -m"add objectiveContents update route"
+git commit -m"Add add/remove content id routes"
+git commit -m"Add generate conversation button"
+slack-kill 
+git add .
+git commit -m"Fix add/remove id bugs"
+gpu
+cd ibmcoach-ov
+cd ibmcoach-objective\
+gs
+git diff
+git diff
+desk
+cd "Queens Stuff\School\MINE 472\mine472-project\
+ls
+rm Phase-2\blasthole_drill_error.PNG 
+git checkout joshBranch
+git checkout -b joshBranch
+gs
+git add .
+git commit -m"Start sim shit"
+gpu
+git push --set-upstream origin joshBranch
+gpl
+slack-kill 
+git diff
+ls
+rm Phase-2\blasthole_drill_error.PNG 
+git checkout joshBranch
+git checkout -b joshBranch
+git commit -m"Start sim shit"
+git push --set-upstream origin joshBranch
+git commit -m "Add good pattern tracking"
+git commit -m"Add noisy pattern tracking"
+git commit -m"Add noise blurb at bottom"
+git add Phase-2\
+gs
+git commit -m"Clean up"
+gl
+git commit -m"Change add/remove content id routes to PUT to fix bug with sending body with DELETE"
+git reset
+git commit -m"clean"
+git commit -m"Fix edit objectivesContents saving"
+cd "Queens Stuff\School\MINE 472\mine472-project\
+desk
+cd CAC\IBM_Coach\ibmcoach-core\
+git commit -m"Add edit button dropdown"
+git commit -m"Add add objective functionality"
+git stash pop
+git commit -m"Add create/remove objective functionality"
+cd ibmcoach-objective\
+nodemon
+git add .
+git commit -m"Add get all contentObjectives route"
+gpu
+slack-kill 
+cd ibmcoach-core\
+gs
+gd
+git stash
+cd ..
+cd ibmcoach-ui
+gpl
+git commit -m"Start sim shit"
+git push --set-upstream origin joshBranch
+slack-kill 
+desk
+cd "Queens Stuff\School\MINE 472\mine472-project\
+git commit -m "Add good pattern tracking"
+git commit -m"Add noisy pattern tracking"
+git add .
+git commit -m"Add noise blurb at bottom"
+git add Phase-2\
+git commit -m"Clean up"
+gpu
+cd ibmcoach-coach\
+gpl
+gd
+npm-s 
+cd ibmcoach-objective\
+gs
+cd ibmcoach-core\
+nodemon
+cd ..
+cd ibmcoach-ui\
+npm-s
+purge
+git push --set-upstream origin joshBranch
+gpl
+slack-kill 
+cd "Queens Stuff\School\MINE 472\mine472-project\
+git commit -m "Add good pattern tracking"
+git commit -m"Add noisy pattern tracking"
+git add .
+git commit -m"Add noise blurb at bottom"
+git add Phase-2\
+git commit -m"Clean up"
+gpu
+desk
+ibm_pull 
+purge
+docker-start 
+checkin
+gl
+nodemon
+cd ibmcoach-core\
+cd ibmcoach-objective\
+gs
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+clear
+cd C:/
+clear; echo Hello
+echo hello
+netstat
+netsh wlan show profile WiFi-name key=clear
+netsh wlan show profile QueensuSecure_WP2A key=clear
+netsh wlan show profile QueensuSecure_WPA2 key=clear
+netsh wlan show profile QueensuSecure_WPA2 key=clear
+desk
+cd projects\
+cd python\
+ls
+vim matching.py 
+vim guiexample.py 
+python guiexample.py 
+python
+gs
+git add .
+git commit -m"update numbers"
+gpu
+gpu
+cd ..
+cd ibmcoach-objective\
+nodemon
+nodemon
+cd ..
+cd ibmcoach-objective\
+nodemon.cmd 
+cd projects\
+cd python\
+ls
+vim matching.py 
+vim guiexample.py 
+python guiexample.py 
+python
+cd projects\qwacks-website\
+gatsby develop
+vpn-d
+cd ..
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+git commit -m"ContentPanel improvements"
+vpn-cac-c
+git commit -m"Map questions functionality"
+gs
+git add .
+git commit -m"Fully map questions"
+gpu
+gpl
+purge-hard 
+cd projects\
+cd python\
+ls
+vim matching.py 
+vim guiexample.py 
+python guiexample.py 
+python
+cd ..
+cd ibmcoach-ui\
+gd
+git stash
+gpl
+git stash pop
+gs
+npm install 
+npm-s
+cd C:/
+clear; echo Hello
+echo hello
+netstat
+netsh wlan show profile WiFi-name key=clear
+netsh wlan show profile QueensuSecure_WP2A key=clear
+netsh wlan show profile QueensuSecure_WPA2 key=clear
+netsh wlan show profile QueensuSecure_WPA2 key=clear
+cd projects\
+cd python\
+ls
+vim matching.py 
+vim guiexample.py 
+python guiexample.py 
+python
+desk
+cd CAC\IBM_Coach\
+ibm_pull 
+cd ibmcoach-deploy\
+cd ibmcoach-core\
+gs
+nodemon
+cd ibmcoach-deploy\local-dev\
+dcu
+cd ..
+cd local-dev\
+dcub
+dcu
+cd ..
+cd local-dev\
+dcub
+desk
+cd CAC\IBM_Coach\
+cd ibmcoach-ui
+gd
+git commit -m"Add read more/less"
+y
+gs
+git add .
+git commit -m"Add attach modal"
+gpu
+gpl
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+npm-s
+python
+cd ..
+gd
+git stash
+gpl
+git stash pop
+gs
+npm install 
+npm-s
+cd C:/
+clear; echo Hello
+echo hello
+netstat
+netsh wlan show profile WiFi-name key=clear
+netsh wlan show profile QueensuSecure_WP2A key=clear
+netsh wlan show profile QueensuSecure_WPA2 key=clear
+netsh wlan show profile QueensuSecure_WPA2 key=clear
+cd projects\
+cd python\
+ls
+vim matching.py 
+vim guiexample.py 
+python guiexample.py 
+python
+desk
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+gs
+nodemon
+cd ibmcoach-deploy\local-dev\
+dcu
+cd ..
+cd local-dev\
+dcub
+dcu
+cd local-dev\
+dcub
+desk
+cd CAC\IBM_Coach\
+git commit -m"Add read more/less"
+y
+git commit -m"Add attach modal"
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+npm-s
+cd ibmcoach-ui\
+git commit -m"Add addContentObject functionality"
+git commit -m "Add question gen"
+git commit -m"Display gen q"
+git commit -m"fix viewcoach footer height"
+git commit -m"Fix qgen button placement"
+git commit -m"Add toggleType button"
+ibm_pull 
+cd ibmcoach-core\
+git commit -m"Remove redis calls"
+cd ibmcoach-objective\
+cd ..
+cd ibmcoach-ui
+git commit -m"Add addcontentId functionality"
+gpl
+git add .
+gs
+gd
+git commit -m"clean up"
+gpu
+purge-hard 
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+cd ..
+cd ibmcoach-ui
+gs
+npm-s
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+npm-s
+checkin
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+cd CAC\IBM_Coach\ibmcoach-ui
+npm-s
+cd ..
+cd ibmcoach-ui
+gd
+gs
+y
+cd CAC\IBM_Coach\ibmcoach-ui
+purge-hard 
+vpn-desk-s
+cd ..
+cd ibmcoach-ui
+npm-s
+vpn-desk-s
+cd ..
+cd ibmcoach-ui
+gs
+npm-
+npm-s
+cd ibmcoach-objective\
+clear
+cd C:/
+clear; echo Hello
+echo hello
+netstat
+netsh wlan show profile WiFi-name key=clear
+netsh wlan show profile QueensuSecure_WP2A key=clear
+netsh wlan show profile QueensuSecure_WPA2 key=clear
+netsh wlan show profile QueensuSecure_WPA2 key=clear
+cd python\
+vim matching.py 
+vim guiexample.py 
+python guiexample.py 
+python
+purgw
+checkin 
+cd projects\qwacks-website\
+cd projects\
+gs
+cd QSAT\
+ls
+cd ADCS-Simulink-Simulation\
+git stash
+gpl
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd ibmcoach-ui\
+gl
+cd IBM_Coach\ibmcoach-deploy\local-dev\
+purge-hard 
+vpn-desk-c 
+alias
+vpn-si
+vpn-cac-c
+vpn-desk-c
+vpn-d
+checkin
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+purge
+purge
+cd ..
+cd ibmcoach-objective\
+gs
+nodemon
+netsh wlan show profile QueensuSecure_WP2A key=clear
+netsh wlan show profile QueensuSecure_WPA2 key=clear
+netsh wlan show profile QueensuSecure_WPA2 key=clear
+cd python\
+vim matching.py 
+vim guiexample.py 
+python guiexample.py 
+python
+purgw
+checkin 
+cd projects\qwacks-website\
+cd projects\
+cd QSAT\
+cd ADCS-Simulink-Simulation\
+git stash
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd IBM_Coach\ibmcoach-deploy\local-dev\
+alias
+vpn-si
+vpn-desk-c
+checkin
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcub
+purge
+vpn-desk-c 
+vpn-d
+vpn-cac-c
+cd ibmcoach-ui\
+gl
+gd
+git commit -m"Add image upload"
+git commit -m"Add edit contentObject"
+git commit -m"Add video upload"
+ls
+cd ibmcoach-response-extractor\
+npm install 
+"nodemon
+nodemon
+cd ..
+cd ibmcoach-ui
+"gs
+git commit -m"Add url adding"
+gpl
+gs
+git add .
+git commit -m"Add tooltip to content blocks"
+gpu
+purge-hard 
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcub
+purge
+cd IBM_Coach\ibmcoach-ui\
+cd ibmcoach-objective\
+nodemon
+cd ..
+cd ibmcoach-ui
+gs
+npm-s
+vpn-desk-c
+vpn-d
+checkin
+ibm_pull 
+purge
+checkin 
+docker-compose.exe up --build
+cd ibmcoach-core\
+nodemon
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+nodemon
+checkin
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+cd ibmcoach-deploy\local-dev\
+dcub
+cd ..
+cd ibmcoach-ui
+npm-s
+cd ibmcoach-ui\
+gd
+git commit -m"Add image upload"
+git commit -m"Add edit contentObject"
+git commit -m"Add video upload"
+ls
+cd ibmcoach-response-extractor\
+npm install 
+"nodemon
+nodemon
+cd ..
+cd ibmcoach-ui
+"gs
+git commit -m"Add url adding"
+gs
+git commit -m"Add tooltip to content blocks"
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcub
+purge
+cd IBM_Coach\ibmcoach-ui\
+nodemon
+cd ..
+npm-s
+vpn-desk-c
+checkin
+checkin 
+docker-compose.exe up --build
+cd ibmcoach-core\
+nodemon
+cd ibmcoach-deploy\local-dev\
+dcub
+git commit -m"Add remove content functionality"
+cd ibmcoach-objective\
+git commit -m"Remove upload url bug"
+vpn-d
+vpn-cac-c
+git commit -m"Fix contentObject adding" -m"Also other cleanup"
+git stah
+git stash
+gl
+slack-kill 
+ibm_pull 
+cd ..
+cd ibmcoach-ui
+gs
+git add .
+git commit -m"Implement manual question adding"
+gpl
+gpu
+purgw
+purge
+
+sadasd
+checkin 
+gpl
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+cd ibmcoach-objective\
+git commit -m"Remove upload url bug"
+vpn-d
+vpn-cac-c
+git commit -m"Fix contentObject adding" -m"Also other cleanup"
+git stah
+git stash
+gl
+ibm_pull 
+gs
+git add .
+git commit -m"Implement manual question adding"
+gpl
+gpu
+purgw
+sadasd
+cd ibmcoach-ui
+slack-kill 
+purge
+desk
+cd Users\user\
+cd Videos\
+cd movies\
+cd Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO[TGx]\
+rm Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO.nfo 
+cd ..
+rm Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO[TGx]\
+rm -r Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO[TGx]\
+ls
+sadasd
+cd ..
+cd ibmcoach-ui
+npm-s
+sadasd
+checkin 
+gpl
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+cd ibmcoach-objective\
+git commit -m"Remove upload url bug"
+vpn-d
+git commit -m"Fix contentObject adding" -m"Also other cleanup"
+git stah
+git stash
+git commit -m"Implement manual question adding"
+purgw
+sadasd
+cd ibmcoach-ui
+slack-kill 
+purge
+desk
+cd Users\user\
+cd Videos\
+cd movies\
+cd Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO[TGx]\
+rm Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO.nfo 
+cd ..
+rm Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO[TGx]\
+rm -r Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO[TGx]\
+ls
+sadasd
+npm-s
+vpn-cac-c
+git commit -m"Add remove contentObject functionality"
+git commit -m"Add clean question deletion"
+ibm_pull 
+cd ..
+cd ibmcoach-ui
+gl
+git commit -m"update questions on addquestion"
+git commit -m"Add clean content deletion"
+git commit -m"minor cleanup"
+git commit -m"Make edit objective button outline learning objectives"
+git commit -m"Add clean objective deletion"
+gd
+gpl
+git commit -m"cleanup"
+gs
+git add .
+git commit -m"Add add student by email functionality"
+gpu
+purge-hard 
+cd ibmcoach-ui
+ibm_pull 
+cd ..
+cd ibmcoach-ui\
+npm-s
+cd ibmcoach-ui
+npm-s
+checkin
+cd ibmcoach-deploy\local-dev\
+dcub
+cd Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO[TGx]\
+rm Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO.nfo 
+cd ..
+rm Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO[TGx]\
+rm -r Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO[TGx]\
+ls
+sadasd
+cd ..
+cd ibmcoach-ui
+npm-s
+sadasd
+checkin 
+gpl
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+git commit -m"Remove upload url bug"
+vpn-d
+git commit -m"Fix contentObject adding" -m"Also other cleanup"
+git stah
+git stash
+git commit -m"Implement manual question adding"
+purgw
+sadasd
+cd ibmcoach-ui
+slack-kill 
+purge
+desk
+cd Users\user\
+cd Videos\
+cd movies\
+cd Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO[TGx]\
+rm Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO.nfo 
+cd ..
+rm Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO[TGx]\
+rm -r Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO[TGx]\
+sadasd
+npm-s
+vpn-cac-c
+git commit -m"Add remove contentObject functionality"
+git commit -m"Add clean question deletion"
+ibm_pull 
+cd ..
+cd ibmcoach-ui
+gl
+git commit -m"update questions on addquestion"
+git commit -m"Add clean content deletion"
+git commit -m"minor cleanup"
+git commit -m"Make edit objective button outline learning objectives"
+git commit -m"Add clean objective deletion"
+gd
+git commit -m"cleanup"
+git commit -m"Add add student by email functionality"
+purge-hard 
+cd ibmcoach-ui
+npm-s
+npm-s
+checkin
+cd ibmcoach-deploy\local-dev\
+dcub
+git commit -m"Update objectives list on add/delete"
+git commit -m"Add removestudent functionality"
+ggs
+git commit -m"update add/remove objective contents routes"
+git commit -m"Update for core change in add/remove objective contents routes"
+cd ibmcoach-ui\
+git commit -m"update add objectiveContent discovery route"
+ls
+cd ibmcoach-response-extractor\
+nodemon
+c ibmcoach-core\
+git commit -m"Add get contentObjects functions"
+ibm_pull 
+cd ibmcoach-ui
+git checkout .
+git add .
+git commit -m"Add edit question functionality" -m"There's actually no backend routes for editing the new type of questions. Right now it just adds a new question and deletes the old one" 
+gpl
+gpu
+cd ibmcoach-core\
+gs
+cd ..
+cd ibmcoach-objective\
+alias
+gpl
+git commit -m"cleanup"
+git add .
+git commit -m"Add add student by email functionality"
+gpu
+purge-hard 
+cd ibmcoach-ui
+ibm_pull 
+cd ibmcoach-ui\
+npm-s
+checkin
+cd ibmcoach-deploy\local-dev\
+dcub
+npm=s
+cd ibmcoach-objective\
+nodemon
+git stash
+cd ibmcoach-core\
+cd ..
+cd ibmcoach-ui
+gs
+y
+npm-s
+ibm_pull 
+cd ..
+cd ibmcoach-ui
+gl
+git commit -m"update questions on addquestion"
+git commit -m"Add clean content deletion"
+git commit -m"minor cleanup"
+git commit -m"Make edit objective button outline learning objectives"
+git commit -m"Add clean objective deletion"
+gd
+gpl
+git commit -m"cleanup"
+gs
+git add .
+git commit -m"Add add student by email functionality"
+gpu
+purge-hard 
+cd ibmcoach-ui
+cd ibmcoach-ui\
+npm-s
+cd ibmcoach-ui
+npm-s
+checkin
+ibm_pull 
+nodemon.cmd 
+cd ibmcoach-deploy\local-dev\
+d ibmcoach-core\
+cd ibmcoach-co
+cd ibmcoach-core\
+nodemon
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+dcub
+alias
+taskkil /F /IM mongo.exe
+taskkill /F /IM mongo.exe
+taskkill /F /IM mongodb.exe
+taskkill /F /IM MongoDBCompass.exe
+alias-v
+purge-hard 
+taskkill /F /IM MongoDBCompass.exe
+alias
+ls
+alias-v
+alias-v
+gs
+git add .
+git commit -m"Fixed questionadding mc bug"
+gpl
+gpu
+docker-kill 
+cd ibmcoach-ui
+npm-s
+checkin
+cd ibmcoach-deploy\
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+purge
+dcub
+cd ibmcoach-ui
+git add .
+git commit -m"Reflect true number of objectives and questions on coach profile"
+gpu
+gs
+purge
+purge
+cd ibmcoach-ui
+npm-s
+checkin
+cd  ibmcoach-deploy\
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+purge
+purge
+cd ibmcoach-ui
+npm-s
+checkin
+cd  ibmcoach-deploy\
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcub
+desk
+cd CAC\
+gs
+mkdir virusProject
+cd virusProject\
+node -v && npm -v
+npx create-react-app DiseaseTracker
+npx create-react-app disease-tracker
+cd ..
+ls
+cd disease-tracker\
+npm-s 
+npm install node-sass
+cd ibmcoach-ui
+npm-s
+checkin
+cd  ibmcoach-deploy\
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcub
+mkdir virusProject
+cd virusProject\
+node -v && npm -v
+npx create-react-app DiseaseTracker
+npx create-react-app disease-tracker
+npm-s 
+npm install node-sass
+desk
+cd CAC\disease-tracker\
+purge-hard 
+slack-kill 
+vpn-cac-c
+vpn-cac-d
+vpn-d
+cd ppr
+cd projects\
+cd qwacks-website\
+gpl
+gatsby develop
+purge
+cd CAC\
+git clone https://github.com/JoshW7/disease-tracker.git
+ls
+cd disease-tracker\
+git init
+git add .
+git commit -m"Initial commit"
+gpu
+git push disease-tracker
+git remote add origin git@github.com:JoshW7/disease-tracker
+git push -u origin master
+git rset
+git reset
+gs
+git info
+git user
+git help
+cd ..
+cd disease-tracker\
+npm-s 
+npm install node-sass
+desk
+cd projects\qwacks-website\
+git commit -m"Update numbers and stuff"
+gs
+git add .
+git commit -m"Update app # to 138"
+gpu
+vpn-c
+vpn-cac-c 
+vpn-cac-c 
+vpn-d
+gs
+git add .
+git commit -m"Add d3 line graph example"
+gpu
+gpu
+vpn-c
+vpn-cac-c 
+cd CAC\
+git clone https://github.com/sxywu/react-d3-example.git
+ls
+cd react-d3-example\
+npm install 
+npm-s
+cd ..
+git reset
+gs
+git info
+git user
+git help
+npm-s 
+npm install node-sass
+cd projects\qwacks-website\
+git commit -m"Update numbers and stuff"
+git commit -m"Update app # to 138"
+vpn-cac-c
+desk
+cd CAC\disease-tracker\
+gpl
+vpn-c
+vpn-cac-c 
+git clone http://joshua@172.28.49.153:7990/scm/idd/infectious-diseases-dashboard.git
+cd infectious-diseases-dashboard\
+cd ..
+cd disease-tracker\
+git remote set-url origin http://joshua@172.28.49.153:7990/scm/idd/infectious-diseases-dashboard.git
+git push -u origin master
+ls
+vim README.md 
+git commit -m"update readme"
+gs
+git branch
+git branch dev
+git checkout dev
+git add .
+git commit -m"Create dev branch"
+gpu
+gcm
+git push origin dev
+git branch -a
+gcd
+vpn-d
+npm-s
+vpn-cac-c 
+git add .
+git commit -m"Add d3 line graph example"
+gpu
+vpn-c
+cd CAC\
+git clone https://github.com/sxywu/react-d3-example.git
+cd react-d3-example\
+npm install 
+npm-s
+cd ..
+vpn-cac-c
+git push --set-upstream origin dev
+desk
+cd "Queens Stuff\School\MINE 472\mine472-project\
+del Mine472_Phase_2_JoshCooper.7z 
+ls
+gpl
+purge
+vpn-cac-c 
+vpn-d
+git add Phase-3\
+git commit -m"init phase 3"
+gpu
+gs
+git stash .
+git stash 
+vpn-d
+git stash 
+vpn-cac-c 
+desk
+cd CAC\disease-tracker\
+gs
+gpl
+npm-s
+vpn-d
+desk
+vpn-d
+vpn-cac-c
+purge
+gpu
+gs
+git stash .
+git stash 
+git stash 
+vpn-cac-c 
+gpl
+desk
+purge
+cd CAC\disease-tracker\
+vpn-cac-c
+vpn-d
+npm d3
+npm -g
+npm list -g
+npm list
+npm i –SE d3-scale
+npm i -SE d3-scale
+npm i -SE d3-shape
+npm i -SE d3-svg-legend
+npm i -SE d3-geo
+npm i -SE d3-transition
+gs
+npm-s
+npm i –SE d3-selection
+npm i -SE d3-selection
+npm i -SE d3-axis
+gs
+npm i –SE d3-array
+npm i -SE d3-array
+npm i -SE d3-brush
+vpn-cac-c
+gs
+git add .
+git commit -m"Add data and dependencies"
+gpu
+purge
+purge-hard 
+desk
+cd "Queens Stuff\School\MINE 472\
+touch ukf_example.ipynb
+vim ukf_example.ipynb 
+vpn-cac-c
+vpn-cac-c
+desk
+cd CAC\disease-tracker\
+gs
+gpl
+npm-s
+checkin
+slack-kill 
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+npm-s
+purge
+gpu
+purge-hard 
+cd "Queens Stuff\School\MINE 472\
+touch ukf_example.ipynb
+vim ukf_example.ipynb 
+npm i -SE semiotic
+desk
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcub
+cmdgs
+cd ..
+cd disease-tracker\
+gs
+vpn-cac-c
+purge
+slack-kill 
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+npm-s
+purge
+git commit -m"Add semiotic d3 component"
+gs
+git add 
+git add .
+git commit -m "Make semiotic chart responsive"
+gpu
+npm-s
+vpn-d
+npm-s
+purge-hard 
+vpn-cac-c
+desk
+cd CAC\disease-tracker\
+gpl
+ql
+gl
+npm-s
+purge-hard 
+vpn-d
+npm-s
+ql
+gl
+cd CAC\disease-tracker\
+vpn-cac-c
+purge-hard 
+desk
+cd "Queens Stuff\School\MINE 472\mine472-project\
+gpl
+gs
+git add Phase-3\
+git commit -m"Finish estimator"
+gpu
+vpn-d
+gpu
+npm-s
+gpl
+gl
+vpn-cac-c
+purge
+slack-kill 
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+npm-s
+purge
+git commit -m"Add semiotic d3 component"
+gs
+git add 
+git commit -m "Make semiotic chart responsive"
+gpu
+npm-s
+vpn-d
+npm-s
+purge-hard 
+vpn-cac-c
+desk
+cd CAC\disease-tracker\
+gpl
+ql
+gl
+npm-s
+purge-hard 
+vpn-d
+npm-s
+ql
+cd "Queens Stuff\School\MINE 472\mine472-project\
+git commit -m"Finish estimator"
+cd CAC\disease-tracker\
+vpn-cac-c
+desk
+cd "Queens Stuff\minmin
+cd "Queens Stuff\School\MINE 472\
+cd mine472-project\
+git commit -m"Finish pseudollites m = 2/5/20 tests"
+git add Phase-3\
+git commit -m "start pt 2"
+git reset
+git commit -m"Add more controller stuff"
+git commit -m"Got it working i think"
+git commit -m "Suck it Josh Marshall"
+purgw-h
+git stash
+gpl
+gs
+git add .
+git commit -m"touch up"
+gpu
+gl
+purge-hard 
+steam-kill 
+discord-kill 
+slack-kill 
+purge-hard 
+steam-kill 
+alias-v
+purge-hard 
+taskkill /F /IM zoom.exe
+alias-v 
+zoom-kill 
+slack-kill 
+steam-kill 
+alias-v
+taskkill /F /IM zoom.exe
+alias-v 
+zoom-kill 
+ql
+gl
+git commit -m"Set up new data with semiotic"
+vpn-d
+slack-kill 
+git commit -m"Add responsive data changing" -m"Changed semiotic graph to act like a normal react component. On updating props, it will responsively update its data"
+vpn-cac-c
+gs
+git add .
+git commit -m"Add all states"
+gpu
+purge-hard 
+slack-kill 
+vpn-cac-c
+desk
+cd CAC\disease-tracker\
+gpl
+gs
+gd
+npm-s
+purge-h
+purge-hard 
+purge
+steam-kill 
+purge
+desk
+cd "Queens Stuff\School\MINE 472\
+mkdir notes
+ls
+cd notes\
+steam-kill 
+purge-hard 
+discord-kill 
+discord-kill 
+purge-hard 
+purge-hard 
+vpn-cac-c
+desk
+cd CAC\disease-tracker\
+gpl
+git branch -a
+npm-s
+purgw
+purge
+cd notes\
+purge-hard 
+discord-kill 
+discord-kill 
+purge-hard 
+steam-kill 
+vpn-d
+npm install --save react-google-maps
+vpn-cac-c
+zoom-kill 
+purge-hard 
+discord-kill 
+purgw
+purge
+cd notes\
+purge-hard 
+discord-kill 
+discord-kill 
+purge-hard 
+steam-kill 
+vpn-d
+npm install --save react-google-maps
+zoom-kill 
+purge-hard 
+discord-kill 
+desk
+vpn-cac-c
+cd CAC\disease-tracker\
+git stash
+gpl
+git checkout .
+npm init
+cd client\
+gs
+ls
+npm install 
+npm-s
+purge-hard 
+steam-kill 
+vpn-cac-c
+zoom-kill 
+purge-hard 
+discord-kill 
+ls
+git add .
+git commit -m"update readme"
+gs
+cd ..
+cd disease-tracker\
+gcd
+git checkout master 
+gpl
+git merge dev
+gpu
+vpn-d
+npm install --save google-maps-react
+npm uninstall google-maps-react
+npm install --save react-google-maps
+cd notes\
+purge-hard 
+discord-kill 
+discord-kill 
+purge-hard 
+steam-kill 
+vpn-d
+npm install --save react-google-maps
+vpn-cac-c
+zoom-kill 
+purge-hard 
+discord-kill 
+git checkout .
+git checkout 1a4fe5e2646
+git pull
+git checkout dev
+ls
+npm install 
+cd ..
+gl
+gs
+gpu
+gpl
+gcd
+cd server\
+npm-s
+purgw
+purge
+zoom-kill l
+net start
+tasklist
+purge-hard 
+steam-kill 
+purge-hard 
+cd server\
+npm-s
+purge-hard 
+ls
+cd client\
+npm-s
+npm-s
+purgw
+purge
+zoom-kill l
+net start
+tasklist
+purge-hard 
+steam-kill 
+purge-hard 
+cd CAC\disease-tracker\
+git commit -m"Add temporary map container"
+vpn-cac-c
+gpl
+slack-kill 
+gs
+git add .
+git commit -m"Add hardcoded legend"
+gpu
+vpn-d
+desk
+clear
+clear
+npm install react-leaflet
+npm i leaflet 
+gs
+git checkout .
+vpn-cac-c
+cd client\
+npm-s
+vpn-cac-c
+slack-kill 
+git commit -m"Add hardcoded legend"
+clear
+desk
+cd CAC\disease-tracker\
+gpl
+vpn-cac-c 
+npm uninstall react-google-maps
+vpn-d
+gs
+git add .
+git commit -m "Add OpenStreetMap centered on Kingston"
+gpu
+purge-hard 
+purge-hard 
+cd CAC\disease-tracker\server\
+cd ..
+gpl
+gl
+purge-hard 
+cd CAC\disease-tracker\
+cd client\
+npm-s
+purge-hard 
+gpu
+purge-hard 
+purge-hard 
+desk
+vpn-cac-c
+vpn-desk-c 
+vpn-d
+steam-kill 
+clear
+purge
+zoom-kill 
+cd CAC\disease-tracker\server\
+cd ..
+gl
+purge-hard 
+cd CAC\disease-tracker\
+purge-hard 
+gpu
+purge-hard 
+vpn-desk-c 
+steam-kill 
+clear
+cd "Queens Stuff\School\MINE 472\mine472-project\
+edesk
+desk
+vpn-d
+zoom-kill 
+slack-kill 
+discord-kill 
+purge
+vpn-cac-c
+cd CAC\id
+cd CAC\
+cd disease-tracker\
+gs
+gpl
+cd client\
+npm-s
+purge-hard 
+discord-kill 
+purge-hard 
+cd client\
+npm-s
+purge-hard 
+zoom-kill 
+slack-kill 
+discord-kill 
+purge
+cd CAC\id
+cd CAC\
+cd disease-tracker\
+npm-s
+purge-hard 
+discord-kill 
+purge-hard 
+desk
+cd CAC\disease-tracker\
+gpl
+cd client\
+npm install antd
+npm install  moment
+cd ..
+git commit -m"Add antd date range picker"
+vpn-d
+vpn-cac-c
+gs
+git add .
+git commit -m"Add date range functionality"
+gpu
+gs
+git add .
+git commit -m"Add date range functionality"
+gpu
+cd CAC\IBM_Coach\
+ibm_pull 
+vpn-cac-c
+vpn-d
+explorer.exe 
+purge-hard 
+desk
+cd CAC\disease-tracker\
+vpn-cac-c 
+cd lc
+cd client\
+npm-s
+purge
+purge
+purge
+cd ..
+cd ibmcoach-ui
+npm-s
+vpn-d
+cd lc
+cd client\
+npm-s
+purge
+vpvpn-cac-c
+vpn-cac-c 
+desk
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\local-dev\
+docker
+docker-start 
+dcub
+purge-hard 
+vpn-cac-c 
+ibm_pull 
+vpn-d
+purge-hard 
+purge-hard 
+cd ..
+cd ibmcoach-ui\
+npm-s
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd local-dev\
+dcub
+dcub
+desk
+cd CAC\disease-tracker\
+cd client\
+npm-s
+cd ..
+cd server\
+ls
+purge-hard 
+steam-kill 
+steam-kill 
+https://docs.google.com/document/d/1lCoI1w3zlyOgADMTgGVA0OK2j2fZV3FJTdkhlzigLWE/edit?usp=sharing
+https://docs.google.com/document/d/1lCoI1w3zlyOgADMTgGVA0OK2j2fZV3FJTdkhlzigLWE/edit?usp=sharing
+purge-hard 
+cd ..
+cd ibmcoach-ui
+purge-hard 
+cd ..
+cd ibmcoach-deploy\local-dev\
+docker-start 
+dcub
+vpn-d
+steam-kill 
+vpn-cac-c
+vpn-d
+purge-hard 
+taskkill /F /IM docker.exe
+list
+processes
+tasks
+ls tasks
+alias-v
+taskkill /F /IM microsoftteams.exe
+taskkill /F /IM teams.exe
+teams-kill 
+purge-hard 
+alias-v
+taskkill /F /IM microsoftteams.exe
+taskkill /F /IM teams.exe
+teams-kill 
+purge-hard 
+desk
+cd CAC\disease-tracker\
+vpn-d
+vpn-cac-c
+gpl
+gl
+gs
+git add .
+git commit -m"minor visual cleanup"
+gpu
+npm leaflet
+taskkill /F /IM microsoftteams.exe
+taskkill /F /IM teams.exe
+teams-kill 
+cd server\
+npm-s
+purge-hard 
+vpn-cac-c
+cd client\
+npm-s
+vpn-cac-s
+alias-v
+purge
+purge-hard 
+chrome.exe
+cd server\
+npm-s
+purge-hard 
+cd client\
+npm-s
+vpn-cac-s
+alias-v
+chrome.exe
+desk
+vpn-cac-c
+vpn-d
+alias
+clear
+pu
+purge
+purge-hard 
+cd CAC\disease-tracker\
+cd CAC\disease-tracker\
+vpn-cac-c
+gpl
+npm-d
+cd client\
+npm-s
+cd ..
+ls
+gs
+git add client\
+git commit -m"Fix bug causing crash on picking state before date range"
+gpu
+purge-hard 
+pu
+purge
+purge-hard 
+desk
+vpn-cac-c
+vpn-cac-c
+status 
+title
+hostname
+clear
+battery
+powercfg/energy
+WMIC PATH Win32_Battery Get EstimatedChargeRemaining
+echo ""
+echo /n
+echo 
+echo off
+echo
+status 
+echo
+rotue
+route
+ipconfig
+WMIC
+cd C:/
+dir /s
+Write-Host("hello")
+ver
+status 
+print(hello)
+echo hello
+purge
+purge-hard 
+vpn-cac-c
+desk
+status
+date
+hostname
+tasklist
+time
+date/T
+alias-v
+status 
+vol
+ping google.com
+netstat -b
+netstat -n
+netstat /?
+netstat -t
+status 
+powercfg/energy
+powercfg/energy
+alias-v
+powercfg/energy
+purge-hard 
+status 
+deks
+desk
+alias-v
+status 
+clea
+clear
+purge-hard 
+status
+vpn-cac-c
+vpn-d
+clea
+clear
+purge-hard 
+status
+alais
+alias
+alias-v
+desk
+cd CAC\IBM_Coach\
+dir
+cd ..
+ls
+status 
+desk
+cd CAC\disease-tracker\
+vpn-cac-c
+gpl
+purge-hard 
+gpl
+purge-hard 
+stat
+status 
+steam-kill 
+status
+purge-hard 
+desk
+alias-v
+status 
+clea
+clear
+purge-hard 
+status
+vpn-cac-c
+clea
+purge-hard 
+alais
+alias
+desk
+cd CAC\IBM_Coach\
+dir
+cd ..
+status 
+gpl
+purge-hard 
+gpl
+git stash
+gs
+vim my_prompt.lua 
+cd CAC\disease-tracker\
+npm install 
+npm-s
+tasklist
+status
+alias-v
+vpn-cac-c
+desk
+clear
+cd CAC\
+ls
+vpn-d
+purge-hard 
+purge
+gpl
+purge-hard 
+gpl
+purge-hard 
+stat
+status 
+status
+purge-hard 
+desk
+alias-v
+status 
+clea
+clear
+purge-hard 
+status
+vpn-cac-c
+clea
+purge-hard 
+alais
+desk
+cd CAC\IBM_Coach\
+dir
+cd ..
+gpl
+purge-hard 
+gpl
+git stash
+gs
+vim my_prompt.lua 
+cd CAC\disease-tracker\
+npm install 
+npm-s
+cd CAC\
+ls
+vpn-d
+taskkill /F \
+netstat
+vpn-cac-c
+alais-v
+alias-v 
+tasklist
+steam-kill 
+status 
+purge-hard 
+purge
+slack-kill 
+status
+(curl http://wttr.in/?Q0 -UserAgent "curl" ).Content
+(curl http://wttr.in/NewYork -UserAgent "curl" ).Content
+(curl http://wttr.in/:help -UserAgent "curl" ).Content
+clear
+desk
+alias
+alias-v
+curl -4 wttr.in/Madison
+curl -4 wttr.in
+ConEmuC -CheckUnicode
+finger city@graph.no 
+finger los_angeles@graph.no 
+curl wttr.in.Content
+(curl wttr.in).Content
+curl wttr.in
+curl wttr.in/Toronto
+────
+chcp utf8
+────
+chcp utf8
+desl
+desk
+set LANG=C.UTF-8
+set LANG=C.UTF-16
+curl wttr.in
+set LANG=C.UTF-8
+set LANG=C.UTF-16
+curl wttr.in
+desk
+curl wttr.in
+curl wttr.in
+alias-v
+alias-v
+weather
+alias-v 
+ls
+desk
+status 
+weather
+alias-v 
+desk
+alias-v
+alias-v 
+desk
+alias-v
+alias-v
+wthr 
+status 
+status
+weather
+alias-v 
+desk
+alias-v
+weather-TO
+weather-KI
+curl wttr.in/kingston/k7l
+curl wttr.in/kingston/telnet rainmaker.wunderground.comk7l
+telnet rainmaker.wunderground.com
+weather
+curl wttr.in/Nuremberg?format=3
+curl wttr.in/Nuremberg?format=4
+curl wttr.in/Nuremberg?format=5
+curl wttr.in/Nuremberg?format=1
+curl wttr.in/Nuremberg?format=2
+curl wttr.in/Nuremberg?format=6
+curl wttr.in/Nuremberg?format=7
+curl wttr.in/Nuremberg?format=
+curl wttr.in/Nuremberg?format=8
+curl wttr.in/Nuremberg?format=9
+curl wttr.in/Nuremberg?format=10
+curl v2.wttr.in/
+alias-v
+curl wttr.in/Nuremberg?format=10
+curl v2.wttr.in/
+weather-de
+weather-data 
+curl wttr.in/Moon
+curl wttr.in/?format=%m
+~CN+Tower
+curl wttr.in/~CN+Tower
+curl wttr.in/~Kingston+General+Hospital
+curl wttr.in/~Kingston+Ontario
+curl wttr.in/~KingstonOntario
+:wq
+weather
+alias-v
+weather-kingston 
+alias-v
+weather-kingston 
+weather-toronto 
+alias-v 
+weather-kingston 
+curl wttr.in/London?format="%l:+%c+%t"
+curl wttr.in/London?format="%F"
+curl wttr.in/London%F
+curl wttr.in/London
+curl wttr.in/?F
+curl wttr.in/?0
+weather
+curl wttr.in/toronto?0
+alias-v
+curl wttr.in/toronto?0
+weather-toronto 
+weather-kingston 
+wthr
+alias
+alias-v
+curl wttr.in/?0
+curl wttr.in/?1
+curl wttr.in/?2
+curl wttr.in/?A
+curl wttr.in/?n
+curl wttr.in/?q
+curl wttr.in/?q?F
+curl wttr.in/?q?F?T
+weather
+curl wttr.in/?q?F?T
+wthr
+weather
+alias-v
+weather
+curl wttr.in/?q
+curl wttr.in/?n
+curl wttr.in/?n?q
+curl v2.wttr.in/
+curl v2.wttr.in/?F
+curl v2.wttr.in/?F?q
+curl wttr.in/?F
+curl wttr.in/?F?n
+curl wttr.in/?F?n?q
+curl wttr.in/?format=3
+curl wttr.in/?0
+curl wttr.in/?0?q
+alias-v 
+alias-v
+weather
+weather-toronto 
+status
+weather-small 
+weather-data 
+weather
+alias-v
+alias-v
+weather
+weather-full 
+weather-kingston 
+clear
+status
+alias-v
+wifi
+(netsh wlan show interfaces) -Match '^\s+Signal' -Replace '^\s+Signal\s+:\s+',''
+netsh wlan show interfaces -Match '^\s+Signal' -Replace '^\s+Signal\s+:\s+',''
+netsh wlan show interfaces '^\s+Signal' -Replace '^\s+Signal\s+:\s+',''
+clear
+status
+weather-full 
+weather
+steam-kill 
+netsh interface show interface | findstr /C:"Wireless" /C:"Name"
+netsh
+netsh wlan show all
+netsh wlan
+netsh wlan show
+netsh wlan show networks
+netsh wlan show profiles
+netsh wlan show drivers
+netsh wlan show interfaces
+network
+desk
+netsh wlan show interfaces '^\s+Signal' -Replace '^\s+Signal\s+:\s+',''
+weather-min 
+weather-small 
+weather-full 
+weather
+weather-toronto 
+alias-v
+wthr
+wthr
+alias
+:
+clear
+wthr kingston
+wthrkingston
+alias-v
+alias-v
+wther
+weather
+status
+wineg++ spotify_cmd.cpp -o spotify_cmd.exe 
+spotify-kill 
+slack-kill 
+purge-hard 
+slack-kill 
+purge-hard 
+desk
+status
+weather-small 
+clear
+weather
+weather-min 
+status 
+weather-min 
+status 
+desk
+weather
+clear
+status
+alias-v
+status
+weather
+weather-data 
+status
+weather
+weather-data 
+desk
+cd projects\
+cd BostonHacks_Bose\
+ls
+cd ..
+cd AR-Tilt\
+gpl
+gs
+git branch -a
+git branch -a
+cd ..
+cd ibmcoach-ui
+gpl
+npm-s
+purge
+gpl
+purge
+cd ibmcoach-coach\
+cd ..
+ls
+dir
+cd ibmcoach-objective\
+npm-s
+vpn-cac-c
+dir
+cd ibmcoach-objective\
+npm-s
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+git add client\src\components\pages\
+ls
+gs
+git add .
+git commit -m"change coach intro for interns"
+git push
+git status
+git checkout  837c7a387cf
+gl
+gs
+cd
+cd ibmcoach-objective\
+cd ..
+cd ibmcoach-ui
+npm-s
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+git add .
+git commit -m"change coach intro for interns"
+git push
+git status
+git checkout  837c7a387cf
+gl
+cd
+cd ibmcoach-objective\
+gs
+npm start
+cd ibmcoach-deploy\
+dir
+ls
+cd local-dev\
+cd ..
+cd ibmcoach-ui
+npm start 
+docker-kill 
+npm-s
+curl wttr.in/?2
+curl wttr.in/?A
+curl wttr.in/?n
+curl wttr.in/?q
+curl wttr.in/?q?F
+curl wttr.in/?q?F?T
+weather
+curl wttr.in/?q?F?T
+wthr
+weather
+alias-v
+weather
+curl v2.wttr.in/?F?q
+curl wttr.in/?F
+curl wttr.in/?F?n
+curl wttr.in/?F?n?q
+curl wttr.in/?0?q
+alias-v 
+alias-v
+weather
+weather-toronto 
+status
+weather-small 
+weather-data 
+weather
+alias-v
+alias-v
+weather
+weather-full 
+weather-kingston 
+clear
+status
+alias-v
+(netsh wlan show interfaces) -Match '^\s+Signal' -Replace '^\s+Signal\s+:\s+',''
+netsh wlan show interfaces -Match '^\s+Signal' -Replace '^\s+Signal\s+:\s+',''
+netsh wlan show interfaces '^\s+Signal' -Replace '^\s+Signal\s+:\s+',''
+clear
+status
+weather-full 
+weather
+steam-kill 
+netsh interface show interface | findstr /C:"Wireless" /C:"Name"
+netsh
+netsh wlan show all
+netsh wlan
+netsh wlan show
+netsh wlan show networks
+netsh wlan show profiles
+netsh wlan show drivers
+netsh wlan show interfaces
+network
+desk
+netsh wlan show interfaces '^\s+Signal' -Replace '^\s+Signal\s+:\s+',''
+weather-min 
+weather-small 
+weather
+weather-toronto 
+alias-v
+wthr
+wthr
+:
+clear
+wthr kingston
+wthrkingston
+alias-v
+alias-v
+wther
+weather
+status
+wineg++ spotify_cmd.cpp -o spotify_cmd.exe 
+spotify-kill 
+slack-kill 
+purge-hard 
+purge-hard 
+desk
+status
+clear
+weather
+weather-min 
+status 
+weather-min 
+status 
+desk
+weather
+status
+status
+weather
+weather-data 
+cd projects\
+cd BostonHacks_Bose\
+cd AR-Tilt\
+git branch -a
+curl wttr.in
+curl wttr.in/?n
+curl wttr.in/?q
+curl wttr.in/?n?q
+curl wttr.in/?0
+curl wttr.in/?format=0
+curl wttr.in/format=0
+curl wttr.in/format?0
+curl wttr.in/?format=3
+weather-full 
+curl wttr.in/?1
+curl wttr.in/?1?F
+curl wttr
+curl wttr.in/?1?F?q
+curl v2.wttr.in/
+curl v2.wttr.in/?F
+vpn-d
+weather-small 
+weather-min
+weather-data 
+curl wttr.in/34,43
+vpn-cac-c
+cd CAC\IBM_Coach\ibmcoach-deploy\
+docker-start 
+dcub
+npm-s
+nodemon
+alais
+cd games\
+mkdir delete
+rm delete\
+del delete\
+cd delete\
+rm -rf delete\
+slack-kill 
+cd ibmcoach-ui
+cd ibmcoach-objective\
+git add .env 
+cd ibmcoach-core\
+cd ibmcoach-co
+cd ibmcoach-coach\
+git add .
+git commit -m"add .env (temporary)"
+gpu
+gcm
+gpl
+ibm_pull 
+cd ibmcoach-student\
+gcd
+cd ibmcoach-admin\
+git status
+git checkout dev
+cd ..
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+ls
+cd local-dev\
+docker-compose up --build
+docker-compose up
+clea
+desk
+clear
+alias
+cd CAC\IBM_Coach\ibmcoach-ui
+gs
+gl
+status
+weather
+weather-data
+alias-v
+wifi
+purge-h
+purge-hard 
+purge
+zoom-kill 
+alias-v
+alias-v
+cd server\
+npm install 
+yarn start
+vpn-d
+cd ..
+git checkout .
+gs
+gpl
+git checkout dev
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+cd local-dev\
+docker-compose up --build
+docker-compose up
+clea
+desk
+clear
+alias
+cd CAC\IBM_Coach\ibmcoach-ui
+gl
+weather-data
+alias-v
+wifi
+purge-h
+purge
+zoom-kill 
+alias-v
+weather
+weather-small 
+vpn-cac-c
+cd CAC\
+git clone http://joshua@172.28.49.153:7990/scm/kw/kingstonhub.git
+cd kingstonhub\
+gs
+npm-i 
+ls
+scoop
+yarn --version
+scoop install yarn
+scoop update yarn
+scoop install nodejs
+cd ..
+npm install yarn -g
+yarn
+cd client\
+npm start
+npm install --dotenv-extended
+npm install --dotenv-epanded
+npm install dotenv-expand --save
+npm install webpack
+npm install --save-dev webpack-dev-server
+npm install --save-dev react-dev-utils 
+npm install autoprefixer
+npm install 
+yarn start
+purge-hard 
+status
+wusa /uninstall /kb:4552152
+purge-hard 
+status
+weather
+weather-full 
+purge-hard 
+status
+wusa /uninstall /kb:4552152
+purge-hard 
+weather-full 
+status
+weather
+clear
+desk
+cd CAC\disease-tracker\
+gs
+gpl
+vpn-cac-c
+vpn-d
+echo $path
+echo $PATH
+echo hello
+echo Hello\ World
+echo Hello World
+desk
+which echo
+pwd
+cd -
+cd -
+desk
+cd cd CAC\IBM_Coach\ibmcoach-ui
+cd CAC\IBM_Coach\ibmcoach-ui\
+gs
+cd ..
+cd ibmcoach-coach\
+cat README.md 
+slack-kill 
+git branch -a
+wifi
+purge-h
+purge
+zoom-kill 
+alias-v
+weather
+weather-small 
+vpn-cac-c
+cd CAC\
+git clone http://joshua@172.28.49.153:7990/scm/kw/kingstonhub.git
+cd kingstonhub\
+gs
+npm-i 
+ls
+scoop
+yarn --version
+scoop install yarn
+scoop update yarn
+scoop install nodejs
+cd ..
+npm install yarn -g
+yarn
+cd client\
+npm start
+npm install --dotenv-extended
+npm install --dotenv-epanded
+npm install dotenv-expand --save
+npm install webpack
+npm install --save-dev webpack-dev-server
+npm install --save-dev react-dev-utils 
+npm install autoprefixer
+npm install 
+yarn start
+purge-hard 
+status
+wusa /uninstall /kb:4552152
+purge-hard 
+status
+weather
+weather-full 
+purge-hard 
+status
+wusa /uninstall /kb:4552152
+purge-hard 
+weather-full 
+status
+weather
+clear
+desk
+cd CAC\disease-tracker\
+gs
+vpn-d
+echo $path
+echo $PATH
+echo hello
+echo Hello\ World
+echo Hello World
+desk
+which echo
+pwd
+cd -
+cd -
+desk
+cd cd CAC\IBM_Coach\ibmcoach-ui
+cd CAC\IBM_Coach\ibmcoach-ui\
+cd ..
+cd ibmcoach-coach\
+cat README.md 
+slack-kill 
+vpn-cac-c
+git commit -m"Change headers and editcoach page to match queens VI guide"
+git checkout -b dev_ben
+git push origin dev_ben
+git branch -a
+git checkout -b dev_connor
+git push origin dev_connor
+gcd
+git checkout dev_queens 
+git commit -m"Fix favicon to queens icon"
+git commit -m"made logo bigger"
+git commit -m"Change banner image"
+git stash pop
+git commit -m"change analytics logos"
+git commit -m"minor speech bubble adjustments"
+git commit -m"change gradient"
+git gs
+git reset
+git stash
+git merge --abort
+git checkout .
+git commit
+gs
+git add .
+git commit -m"fix merge"
+gpu
+gpl
+zoom-kill 
+vpn-d
+npm-s
+weather
+weather-full 
+purge-hard 
+status
+wusa /uninstall /kb:4552152
+weather
+desk
+echo $path
+echo $PATH
+echo hello
+echo Hello\ World
+echo Hello World
+which echo
+pwd
+cd -
+vpn-desk-c 
+vpn-d
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+dugl
+gl
+cd ibmcoach-ui
+ql
+ls
+cat README.md 
+status
+weather-full 
+clear
+vpn-cac-c
+cd CAC\disease-tracker\
+cd client\
+npm-s
+cd IBM_Coach\ibmcoach-ui
+git pull
+git checkout dev_queens 
+git diff
+git checkout .
+gpl
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+gs
+docker-start 
+slack-kill 
+dcub
+purge-hard 
+taskkill /F /IM Code.exe
+alias-v
+alias-v
+status
+slack-kill 
+weather
+weather-small 
+qbit-kill 
+desk
+ls
+ls *.ini
+purge-h
+purge-hard 
+purge-hard 
+weather-full 
+qbit-kill 
+desk
+ls
+ls *.ini
+purge-h
+purge-hard 
+weather-full 
+weather
+clea
+clear
+alias-v
+status
+purge-hard 
+purge-hard 
+steam-kill 
+cd ..
+cd ibmcoach-ui
+npm-s
+desk
+ls
+ls *.ini
+purge-h
+purge-hard 
+weather-full 
+clea
+alias-v
+tasklist
+clear
+weather
+cler
+status
+purge-hard 
+vpn-d
+vpn-cac-c
+cd CAC\IBM_Coach\
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+clea
+alias-v
+cd ibmcoach-ui
+gcd
+slack-kill 
+cd ..
+ls
+purge-hard 
+clear
+status
+cd ..
+ls
+clear
+status
+purge-hard 
+desk
+vpn-cac-c
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+cd local-dev\
+dcub
+status
+vpn-d
+cd ..
+cd ibmcoach-ui
+gs
+gd
+git stash
+npm-s
+clear
+status
+vpn-d
+vpn-cac-c
+cd ..
+ls
+cd ibmcoach-conversation-generation\
+git pull
+npm install 
+npm install 
+cd ..
+cd ibmcoach-ui
+npm-s
+vpn-d
+cd ..
+cd ibmcoach-ui
+gd
+git stash
+npm-s
+clear
+status
+cd ..
+ls
+cd ibmcoach-conversation-generation\
+git pull
+npm install 
+npm install 
+cd ..
+cd ibmcoach-ui
+npm-s
+cd CAC\disease-tracker\
+git commit -m"update us covid data"
+vpn-d
+vpn-cac-c
+git commit -m"Add seperate tabs"
+git commit -m"clean up annotation tooltip"
+git add .
+git commit -m "Add hardcoded sample components"
+gpu
+gs
+cd CAC\disease-tracker\
+cd server\
+npm start 
+cd ..
+ls
+purge-hard 
+clear
+status
+cd ..
+ls
+clear
+status
+vpn-cac-c
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+cd local-dev\
+status
+vpn-d
+cd ..
+cd ibmcoach-ui
+gd
+git stash
+npm-s
+clear
+cd ..
+cd ibmcoach-conversation-generation\
+git pull
+npm install 
+pu-h
+slack-kill 
+qbit-kill 
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\local-dev\
+dcub
+purge-h
+purge
+cd projects\
+cd testing\
+vim goof.py 
+python goof.py 
+ls
+vim file.txt 
+vim test.md
+status
+vpn-d
+cd CAC\disease-tracker\
+gs
+gpl
+v[n-cac-c
+vpn-cac-c
+cd client\
+nodemon
+npm start 
+purge-hard 
+weather
+npm-s 
+weather-small 
+purge-hard 
+steam-kill 
+status
+curl wwttr.in
+curl wttr.in
+curl wttr.in/?1
+alias-v
+weather-today 
+clear
+purge
+purge-hard 
+cd ..
+cd server\
+gs
+npm-s
+purge-hard 
+desk
+cd CAC\disease-tracker\
+cd client\
+npm-s
+weather-today 
+clear
+purge
+purge-hard 
+cd ..
+git commit -m"add upload component to main page"
+vpn-d
+vpn-cac-c
+gs
+git add .
+git commit -m"Create UI wireframe for main page"
+gpu
+y
+1y
+purge-hard 
+cd ..
+cd server\
+gs
+npm-s
+purge-hard 
+cd CAC\disease-tracker\
+cd client\
+npm-s
+weather-today 
+clear
+purge
+git commit -m"add upload component to main page"
+vpn-d
+vpn-cac-c
+gs
+git add .
+git commit -m"Create UI wireframe for main page"
+gpu
+y
+1y
+purge-hard 
+vim ~/.vimrc
+find vim
+grep vim
+ls -a
+cd projects\
+cd testing\
+vim -help
+vim --version
+choco install vim
+yarn install vim
+vim
+cd ..
+cd Downloads\
+ls
+vim vimrc 
+desk
+cd projects\testing\
+vim file.txt 
+desk
+cd projects\testing\
+vim file.txt 
+ls
+vim quatTest.java 
+vim lec3.md
+vim file.txt 
+gs
+npm-s
+purge-hard 
+desk
+cd CAC\disease-tracker\
+cd client\
+npm-s
+weather-today 
+clear
+purge
+purge-hard 
+cd ..
+git commit -m"add upload component to main page"
+vpn-d
+vpn-cac-c
+gs
+git add .
+git commit -m"Create UI wireframe for main page"
+gpu
+y
+1y
+purge-hard 
+cd ..
+cd server\
+gs
+npm-s
+purge-hard 
+cd CAC\disease-tracker\
+cd client\
+npm-s
+weather-today 
+clear
+purge
+git commit -m"add upload component to main page"
+vpn-d
+vpn-cac-c
+gs
+git add .
+git commit -m"Create UI wireframe for main page"
+gpu
+y
+1y
+purge-hard 
+vim ~/.vimrc
+find vim
+grep vim
+ls -a
+cd projects\
+vim -help
+vim --version
+choco install vim
+yarn install vim
+vim
+cd Downloads\
+ls
+vim vimrc 
+desk
+cd projects\testing\
+vim file.txt 
+desk
+cd projects\testing\
+vim file.txt 
+vim quatTest.java 
+vim lec3.md
+vim file.txt 
+mkdir data
+cd data
+pip install pynput
+vim keypress.py 
+cat screenshot
+cat screenshot.py 
+python screenshot.py 
+vim screenshot.py 
+pip install Pillow
+l
+python convertPngPdf.py 
+vim convertPngPdf.py
+vim mergePdf.py
+vim pdf
+pip install PyPDF2
+python mergePdf.py 
+vim mergePdf.py 
+vim convertPngPdf.py 
+cd tes
+cd testing\
+vim currentDir.py
+python currentDir.py 
+cd ..
+cd screenshot_script\
+cat convertPngPdf.py 
+cat mergePdf.py 
+del page9.pdf 
+del *.pdf 
+vim screenshot_keypress.py 
+ls
+python screenshot_keypress.py 
+del *.pdf
+python screenshot_keypress.py 
+python mergePdf.py 
+python mergePdf.py 
+cd ..
+cd screenshot_script\
+del *.pdf
+ls
+cat mergePdf.py 
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\
+cd local-dev\
+status
+vpn-d
+cd ..
+cd ibmcoach-ui
+gd
+git stash
+npm-s
+clear
+cd ..
+cd ibmcoach-conversation-generation\
+git pull
+npm install 
+pu-h
+slack-kill 
+qbit-kill 
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\local-dev\
+dcub
+purge-h
+purge
+cd projects\
+cd testing\
+python goof.py 
+ls
+vim file.txt 
+vim test.md
+status
+vpn-d
+cd CAC\disease-tracker\
+gs
+v[n-cac-c
+vpn-cac-c
+cd client\
+nodemon
+npm start 
+purge-hard 
+weather
+npm-s 
+weather-small 
+purge-hard 
+steam-kill 
+curl wwttr.in
+curl wttr.in
+curl wttr.in/?1
+alias-v
+weather-today 
+clear
+purge
+purge-hard 
+cd ..
+cd server\
+gs
+npm-s
+purge-hard 
+desk
+cd CAC\disease-tracker\
+cd client\
+npm-s
+weather-today 
+clear
+purge
+purge-hard 
+cd ..
+git commit -m"add upload component to main page"
+vpn-d
+vpn-cac-c
+gs
+git add .
+git commit -m"Create UI wireframe for main page"
+gpu
+y
+1y
+purge-hard 
+cd ..
+cd server\
+gs
+npm-s
+purge-hard 
+cd CAC\disease-tracker\
+cd client\
+npm-s
+git commit -m"add upload component to main page"
+vpn-d
+vpn-cac-c
+git commit -m"Create UI wireframe for main page"
+y
+1y
+vim ~/.vimrc
+find vim
+grep vim
+ls -a
+vim -help
+vim --version
+choco install vim
+yarn install vim
+vim
+cd Downloads\
+ls
+vim vimrc 
+desk
+cd projects\testing\
+vim file.txt 
+cd projects\testing\
+vim quatTest.java 
+vim lec3.md
+desk
+cd projects\testing\ 
+vim file.txt 
+vim run.sh 
+vim goof.py 
+vm readme.md 
+vim readme.md 
+purge
+purge-hard 
+cd projects\
+mkdir screenshot_script
+pip install pyautogui
+pip install --upgrade pip
+vim screenshot.py
+python keypress.py 
+vim keypress.py
+vim screenshot_keypress.py
+python screenshot.py 
+vim keypress.py 
+status
+weather-to
+weather-today 
+cd projects\screenshot_script\
+clear
+python screenshot_keypress.py 
+cd testing\
+vim appendArray.py
+python appendArray.py 
+cd screenshot_script\
+cat mergePdf.py 
+cat convertPngPdf.py 
+vim convertPngPdf.py 
+python convertPngPdf.py 
+python mergePdf.py 
+vim screenshot_keypress.py 
+cd ..
+git clone https://github.com/JoshW7/screenshot-pdf-converter.git
+cd screenshot
+cd screenshot-pdf-converter\
+gpl
+vim mergePdf.py 
+vim delTest.py
+python delTest.py 
+del *.pdf
+vim clea.py
+vim clean.py
+python clean.py 
+gs
+ls
+git add .
+git commit -m"fixed merging" 
+gpu
+cd projects\testing\
+vim file.txt 
+vim quatTest.java 
+vim lec3.md
+vim file.txt 
+mkdir data
+cd data
+pip install pynput
+vim keypress.py 
+cat screenshot
+cat screenshot.py 
+python screenshot.py 
+vim screenshot.py 
+pip install Pillow
+l
+python convertPngPdf.py 
+vim convertPngPdf.py
+vim mergePdf.py
+vim pdf
+pip install PyPDF2
+python mergePdf.py 
+vim mergePdf.py 
+vim convertPngPdf.py 
+cd tes
+cd testing\
+vim currentDir.py
+python currentDir.py 
+cd ..
+cd screenshot_script\
+cat convertPngPdf.py 
+cat mergePdf.py 
+del page9.pdf 
+del *.pdf 
+ls
+python screenshot_keypress.py 
+del *.pdf
+python mergePdf.py 
+python mergePdf.py 
+cd ..
+cd screenshot_script\
+cat mergePdf.py 
+git add .
+git commit -m"init commit"
+gpu
+del *.pdf
+del mergePdf.py 
+del delTest.py 
+status
+vpn-cac-c
+ibm_pull 
+cd CAC\disease-tracker\
+cd client\
+npm-s
+purge-hard 
+desk
+cd projects\
+cd screenshot
+cd screenshot-pdf-converter\
+vim screenshot_keypress.py 
+python screenshot_keypress.py 
+python clean.py 
+ls
+gs
+gs
+cd ..
+cd ibmcoach-ui
+npm-s
+gs
+weather
+clear
+weather-full 
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\local-dev\
+vpn-cac-c
+zoom-kill 
+discord-kill 
+python clean.py 
+ls
+gs
+docker-start 
+dcu
+purge-hard 
+desk
+cd CAC\disease-tracker\client\
+npm-s
+steam-kill 
+npm-s
+steam-kill 
+python screenshot_keypress.py 
+python clean.py 
+desk
+cd projects\testing\
+python goof.py 
+cd client\
+npm-s
+desk
+cd screenshot
+python screenshot_keypress.py 
+python clean.py 
+gs
+gs
+cd ibmcoach-ui
+npm-s
+weather
+clear
+weather-full 
+cd CAC\IBM_Coach\ibmcoach-deploy\local-dev\
+zoom-kill 
+discord-kill 
+git commit -m"Create data and filter canvases"
+vpn-d
+vpn-cac-c
+git commit -m"Fix date range slider"
+spotify-kill 
+git add .
+git commit -m"complete view canvas frame"
+gpu
+gs
+purge-hard 
+desk
+cd projects\screenshot
+cd projects\
+cd screenshot-pdf-converter\
+del result.pdf 
+vim screenshot_keypress.py 
+cd ..
+cd testing\
+ls
+vim goof.py 
+vim goof.py 
+desk
+cd projects\
+cd testing\
+vim python test.py
+vim test.py
+del result.pdf 
+vim screenshot_keypress.py 
+cd ..
+cd testing\
+ls
+vim goof.py 
+python test.py
+python test.py
+purge-hard 
+vpn-cac-c
+purge-hard 
+cd CAC\IBM_Coach\ibmcoach-ui\
+npm-s
+vim test.py
+del result.pdf 
+vim screenshot_keypress.py 
+cd testing\
+ls
+vim goof.py 
+python test.py
+desk
+qbit-kill 
+purge-hard 
+docker-start 
+cd CAC\IBM_Coach\ibmcoach-deploy\local-dev\
+ibm_pull 
+cd ibmcoach-core\
+nodemon
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcu
+cd ibmcoach-deploy\local-dev\
+dcu
+cd ibmcoach-coach\
+gs
+nodemon
+cd ..
+cd ibmcoach-ui
+npm-s
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcu
+cd ibmcoach-deploy\local-dev\
+dcu
+cd ibmcoach-coach\
+nodemon
+cd ibmcoach-ui
+cd server\
+npm-s
+git add .
+git commit -m"Add data folder to git ignore"
+vpn-cac-c
+cd ..
+git add .gitignore 
+git commit -m"fix"
+gpu
+git checkout .
+gs
+gs
+cd ..
+cd server\
+npm-s
+git add .gitignore 
+git commit -m"fix"
+git checkout .
+cd ..
+gs
+git add .
+git commit -m"fix server/data gitignore"
+gpu
+cd server\data\
+ls
+vpn-cac-c
+zoom-kill 
+vpn-d
+vim screenshot_keypress.py 
+cd testing\
+vim goof.py 
+python test.py
+qbit-kill 
+docker-start 
+cd CAC\IBM_Coach\ibmcoach-deploy\local-dev\
+ibm_pull 
+cd ibmcoach-core\
+dcu
+cd CAC\IBM_Coach\ibmcoach-core\
+nodemon
+cd ibmcoach-deploy\local-dev\
+docker-compose up
+ls
+cd ..
+desk
+purge-hard 
+cd CAC\disease-tracker\
+gs
+gpl
+vpn-cac-c
+vpn-d
+cd client\
+npm-s
+purge
+slack-kill 
+slack-kill 
+npm-s
+gpl
+cd ..
+ls
+cd ibmcoach-ui
+gcd
+gs
+dcu
+cd CAC\IBM_Coach\ibmcoach-core\
+nodemon
+cd ibmcoach-deploy\local-dev\
+docker-compose up
+ls
+cd ..
+desk
+purge-hard 
+cd CAC\disease-tracker\
+vpn-cac-c
+vpn-d
+cd client\
+npm-s
+purge
+slack-kill 
+git pull dev_ben
+git fetch --all
+git-pull(1)
+git pull <remote> dev_ben
+git pull <remote repo>
+git pull ibmcoach-ui
+git checkouot --track origin/dev_ben
+git checkout --track origin/dev_ben
+git branch --set-upsteam-to=origin/dev_ben dev_ben
+git checkout dev
+gl
+git fetch origin
+git reset --hard origin/master
+gcm
+git pull
+git reset
+git reset --hard origin/master 
+git pull origin master 
+gs
+git branch -a
+git checkout dev_ben
+gpl
+git checkout dev_ben
+gs
+gl
+git branch --set-upstream-to=origin dev_ben
+gpl
+vpn-d
+zoom-kill 
+vpn-cac-c
+purge
+slack-kill 
+npm-s
+gs
+git add .
+git commit -m"fix server/data gitignore"
+gpu
+cd server\data\
+ls
+vpn-cac-c
+zoom-kill 
+vpn-d
+vim screenshot_keypress.py 
+cd testing\
+vim goof.py 
+python test.py
+qbit-kill 
+cd CAC\IBM_Coach\ibmcoach-deploy\local-dev\
+ibm_pull 
+cd ibmcoach-core\
+cd CAC\IBM_Coach\ibmcoach-core\
+nodemon
+docker-compose up
+ls
+purge-hard 
+purge
+slack-kill 
+docker-kill 
+docker-start 
+cd CAC\IBM_Coach\
+gl
+cd ibmcoach-conversation-generation\
+vpn-d
+vpn-cac-c
+git show c37923d69a1
+dcub
+git remote update
+gcd
+cd ibmcoach-ui
+git checkout dev_ben
+gpl
+git pull origin dev_ben
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcu
+desk
+cd CAC\disease-tracker\
+gs
+cd client\
+npm-s
+cd client\
+cd ..
+cd server\
+npm-s
+desk
+cd CAC\disease-tracker\server\
+npm-s
+nodemon
+gpl
+git pull origin dev_ben
+cd ibmcoach-deploy\local-dev\
+dcu
+desk
+cd CAC\disease-tracker\
+cd client\
+npm-s
+cd ..
+gl
+vpn-cac-c
+git checkout .
+git add .
+git commit -m"Add upload dragger componen"
+git reset
+gpu
+gs
+cd client\
+npm-s
+desk
+cd CAC\disease-tracker\server\
+cd server\
+npm install 
+nodemon
+npm-s
+cd ..
+desk
+cd CAC\disease-tracker\
+gs
+mkdir server
+cd server\
+npm init -y
+mkdir server
+cd server\
+npm init -y
+desk
+cd CAC\disease-tracker\
+npm-s
+cd ..
+gs
+ls
+cd client\
+nodemon
+npm start 
+mkdir server
+cd server\
+npm init -y
+cd ..
+git commit -m"add express server"
+cd client\
+npm i axios
+slack-kill 
+gs
+git add .
+git commit -m"remove uneeded files"
+gpu
+git checkout .
+git commit -m"Add upload dragger componen"
+git reset
+gs
+cd client\
+npm-s
+desk
+cd CAC\disease-tracker\server\
+cd server\
+npm install 
+nodemon
+npm-s
+desk
+cd CAC\disease-tracker\
+mkdir server
+npm init -y
+npm i
+cd ..
+git checkout -b refactor
+git add .gitignore 
+git commit -m"refactor init commit"
+git push --set-upstream origin refactor 
+git add server\.gitignore 
+git commit -m"add server gitignore:
+git commit -m"add server gitignore"
+git commit -m"remove vestigial node files in root and restart work on express server"
+git add .
+git commit -m"add vscode settings to gitignore"
+gpu
+gs
+ls
+cd server\
+npm start
+git checkout -b refactor
+git add .gitignore 
+git commit -m"refactor init commit"
+git push --set-upstream origin refactor 
+git add server\.gitignore 
+git commit -m"add server gitignore:
+git commit -m"add server gitignore"
+git commit -m"remove vestigial node files in root and restart work on express server"
+git add .
+git commit -m"add vscode settings to gitignore"
+gpu
+gs
+ls
+cd server\
+npm start
+curl wttr.in
+clear
+slack-kill 
+vpn-cac-c
+vpn-d
+weather
+weather-today 
+weather-full 
+status
+spotify-kill 
+purge-hard 
+gpl
+gs
+purge
+spotify-kill 
+purge-hard 
+cd ..
+cd ibmcoach-ui
+git checkout ben_dev
+gs
+gpl
+vpn-cac-c
+npm-s
+gpl
+vpn-cac-c
+npm-s
+purge-hard 
+cd projects\
+apt-vim install -y https://github.com/preservim/nerdtree.git
+cd ~
+cd ~/.
+cd ..
+cd user\
+ls
+vim _vimrc 
+desk
+vim _vimrc 
+desk
+cd projects\
+cd testing\
+ls
+git clone https://github.com/preservim/nerdtree.git ~/.vim/bundle/nerdtree
+vim file.txt 
+ls
+desk
+cd ..
+vim _vimrc 
+desk
+vim _vimrc 
+desk
+cd projects\
+cd testing\
+ls
+git clone https://github.com/preservim/nerdtree.git ~/.vim/bundle/nerdtree
+desk
+cd projects\testing\
+vim file.txt 
+cd.vim
+cd ..
+ls
+vim _vimrc 
+vim
+cd ~
+dir
+wkdir
+echo dir
+echo $dir
+alias-v
+echo dir
+echo $dir
+alias
+cd ~
+alias-v
+alias-v
+cd CAC\disease-tracker\client\
+npm-s
+alias-v
+cd CAC\disease-tracker\server\
+npm-s
+desk
+cd projects\testing\
+vim file.txt 
+cd.vim
+vim _vimrc 
+vim
+cd ~
+dir
+wkdir
+echo dir
+echo $dir
+alias-v
+echo dir
+echo $dir
+alias
+cd ~
+alias-v
+~
+clear
+purge0ha
+status
+explorer.exe 
+purge
+weather
+cd CAC\disease-tracker\
+git reset
+git add.
+git add .
+git commit -m"Set up file upload in front/backend" -m"Upload component on UI allows for .xls/.xlsx. Backend route for file upload send new file to client/public/uploads"
+vpn-cac-c
+gpu
+cd server\
+cd ..
+cd client\
+ls
+gs
+spotify-kill 
+vpn-d
+purge-hard 
+spotify-kill 
+vpn-d
+purge-hard 
+cd server\
+cd "IBM_Coach\ui assets\
+cd ..
+cd ibmcoach-ui
+npm-s
+gcd
+teams-kill 
+teams-kill 
+cd ..
+cd server\
+gs
+npm-s
+echo $dir
+alias
+cd ~
+alias-v
+~
+clear
+purge0ha
+status
+explorer.exe 
+purge
+weather
+git reset
+git add.
+git add .
+git commit -m"Set up file upload in front/backend" -m"Upload component on UI allows for .xls/.xlsx. Backend route for file upload send new file to client/public/uploads"
+vpn-cac-c
+gpu
+cd server\
+spotify-kill 
+vpn-d
+chrome.exe
+cd IBM_Coach\ibmcoach-deploy\local-dev\
+dcu
+purge-hard 
+cd projects\
+cd webapp\
+slack-kill 
+desk
+cd CAC\disease-tracker\
+python --version
+pip --version
+mkdir backend
+cd backend\
+py -3 -m venv venv
+pip install --user pipenv
+python3 -m venv venv
+cd venv\
+cd Scripts\
+activate
+venv\Scripts\activate
+pip install Flask
+cd ..
+ls
+git checkout .
+gs
+cd client\
+npm-s
+clear
+purge0ha
+explorer.exe 
+purge
+weather
+cd CAC\disease-tracker\
+git add.
+git commit -m"Set up file upload in front/backend" -m"Upload component on UI allows for .xls/.xlsx. Backend route for file upload send new file to client/public/uploads"
+cd server\
+cd ..
+cd client\
+spotify-kill 
+vpn-d
+purge-hard 
+spotify-kill 
+cd server\
+cd "IBM_Coach\ui assets\
+cd ibmcoach-ui
+npm-s
+git commit -m"Set up front/backend data comms" -m"On file upload, an .xlsx will be converted to a json which is sent to front end"
+git commit -m"remove gen data"
+git add .
+git commit -m"add server/uploads to .gtignore"
+gpu
+status
+purge-hard 
+cd CAC\IBM_Coach\ibmcoach-ui
+git checkout dev_ben
+git branch -a
+git reset
+git reset --hard HEAD^
+git reset --hard HEAD
+gpl
+gl
+gcd
+vpn-d
+teams-kill 
+vpn-cac-c
+ls
+cd ibmcoach-core\
+gs
+git checkout .
+alias
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcu
+teams-kill 
+cd ..
+cd server\
+npm-s
+vpn-d
+cd ibmcoach-core\
+gs
+git checkout .
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcu
+status
+cd CAC\disease-tracker\
+cd client\
+npm-s
+vpn-cac-c
+purge-hard 
+vpn-d
+purge
+spotify-kill 
+teams-kill 
+alias
+alias-v
+spotify-kill 
+teams-kill 
+alias
+alias-v
+desk
+cd "Queens Stuff\QSAT\2020\
+git clone https://github.com/queens-satellite-team/project_planning.git
+ls
+cd project_planning\
+mkdir Datasheets
+git commit -m"Add ADCS component datasheets and schematics"
+gs
+git add .
+git commit -m"Remove old handdrawn controller schematic"
+gpu
+tree
+desk
+weather-full 
+tree
+gpu
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\local-dev\
+tree
+docker-start 
+dcub
+docker-kill 
+cd ..
+cd ibmcoach-u
+cd ibmcoach-ui\
+gl
+teams-kill 
+cd ..
+cd server\
+npm-s
+vpn-d
+cd ibmcoach-core\
+git checkout .
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcu
+cd CAC\disease-tracker\
+cd client\
+npm-s
+spotify-kill 
+alias
+status 
+purge
+cd "Queens Stuff\QSAT\
+cd 2020\
+cd project_planning\
+ls
+vim Subsystems.md
+code Subsystems.md 
+git add .
+git commit -m"Create subsystem general info doc" 
+gpu
+gs
+clear
+purge-hard 
+status
+vpn-cac-c
+vpn-d
+teams-kill 
+alias-v
+cd CAC\disease-tracker\server\
+npm-s
+status
+alias-v
+zoom-kill 
+teams-kill 
+npm install moment --save
+vpn-d
+cd ..
+gs
+git add .
+git commit -m"add functionality to total cases and daily tests"
+vpn-cac-c
+gpu
+purge-hard 
+status
+alias-v
+npm install moment --save
+git commit -m"add functionality to total cases and daily tests"
+purge-hard 
+cd ..
+ssh
+grep
+purge
+slack-kill 
+zoom-kill 
+teams-kill 
+gs
+git add .
+git commit -m"Set up logic for daily cases graph"
+vpn-cac-c
+gpu
+vpn-d
+purge-hard 
+npm-s
+vpn-cac-c
+vpn-d
+alias-v
+desk
+clear
+cd CAC\disease-tracker\
+gs
+cd client\
+teams-kill 
+cd ..
+cd server\
+npm-s
+purge-hard 
+cd ..
+cd server\
+npm-s
+purge-hard 
+cd CAC\disease-tracker\
+cd client\
+npm install react-plotly.js plotly.js
+node
+npm install node
+gs
+npm uninstall d3
+npm install
+npm uninstall semiotic
+teams-kill 
+node --version
+npm cache clean -f
+npm install -g n
+npm install -g npm stable 
+npm install -g node 
+node --v
+node -v
+cd CAC\disease-tracker\
+gs
+cd client\
+teams-kill 
+cd ..
+cd server\
+purge-hard 
+cd CAC\disease-tracker\client\
+npm install 
+npm-s
+node --version
+vpn-cac-c
+purge-hard 
+npm-s
+alias-v
+desk
+clear
+cd CAC\disease-tracker\
+gs
+cd client\
+cd server\
+vpn-d
+teams-kill 
+explorer.exe 
+alias
+slack-kill 
+zoom-kill 
+status
+e
+e.
+vpn-cac-c
+purge-hard 
+cd CAC\disease-tracker\server\
+npm-s
+cd ..
+e
+e.
+cd CAC\disease-tracker\server\
+purge-hard 
+desk
+cd CAC\
+vpn-cac-c
+git clone http://joshua@172.28.49.153:7990/scm/idd/infectious-diseases-dashboard.git
+cd infectious-diseases-dashboard\
+ls
+npm install 
+cd ..
+git checkout refactor 
+gpl
+vpn-d
+cd client\
+npm install
+npm audit fix
+npm-s
+npm r semiotic
+npm-s
+npm install react-plotly.js plotly.js
+npm audit fix
+npm list
+npm r plotly.js
+npm r plotly
+purge-hard 
+ls
+cd ..
+vpn-d
+npm install
+desk
+cd CAC\
+vpn-cac-c
+git clone http://joshua@172.28.49.153:7990/scm/idd/infectious-diseases-dashboard.git
+cd infectious-diseases-dashboard\
+git checkout refactor 
+gpl
+cd client\
+gs
+npm install 
+npm audit fix
+npm-s
+desk
+cd CAC\
+git clone http://joshua@172.28.49.153:7990/scm/idd/infectious-diseases-dashboard.git
+cd infectious-diseases-dashboard\
+git checkout refactor 
+gpl
+cd client\
+gs
+npm install 
+npm audit fix
+npm-s
+cd infectious-diseases-dashboard\
+git checkout refactor 
+gpl
+npm install 
+npm audit fix
+gs
+git add .
+git commit -m"Remove D3, semiotic"
+gpu
+cd client\
+npm install react-vis --save
+cd ..
+cd server\
+npm install
+npm-s
+npm audit fix
+npm-s
+vpn-d
+teams-kill 
+slack-kill 
+vpn-d
+teams-kill 
+slack-kill 
+openVPN --local host
+openVPN --remote host
+openVPN --dev
+cd Resources\
+ls
+cd ..
+WeVPN-Service.exe --help
+WeVPN-Service.exe
+cd infectious-diseases-dashboard\
+git checkout refactor 
+gpl
+npm install 
+npm audit fix
+gs
+git add .
+git commit -m"Remove D3, semiotic"
+gpu
+cd client\
+npm install react-vis --save
+cd server\
+npm install
+npm-s
+npm audit fix
+npm-s
+vpn-d
+teams-kill 
+slack-kill 
+desk
+cd "Program Files
+cd WeVPN\
+WeVPN.exe --conntect
+openvpn.exe 
+openvpn.exe --help
+openvpn.exe -c
+openvpn.exe connect 
+WeVPN.exe --help
+cd ..
+WeVPN.exe connect
+cd OpenVPN\
+ls
+openvpn --show-net
+openvpn show-net
+openvpn --help
+alias
+alias-v
+npm install react-vis --save
+cd ..
+npm install
+npm-s
+npm audit fix
+teams-kill 
+slack-kill 
+cd "Queens Stuff\QSAT\2020\project_planning\
+ls
+git add .
+git commit -m"add exec applcation .docx file"
+gpu
+vpn-cac-c
+vpn-d
+purge-hard 
+desk
+cd CAC\infectious-diseases-dashboard\
+cd server\
+npm install 
+gs
+npm-s
+cd CAC\infectious-diseases-dashboard\
+cd client\
+npms-s
+npm-s
+npm-s
+cd CAC\infectious-diseases-dashboard\
+vpn-cac-c
+cd server\
+npm install moment --save   # npm
+npm install moment --save
+vpn-d
+slack-kill 
+teams-kill 
+vpn-d
+slack-kill 
+teams-kill 
+purge-hard 
+desk
+cd ..
+cd "Program Files
+cd WeVPN\
+cd OpenVPN\
+openvpn.exe --remote host
+openvpn.exe --help
+alias
+dir
+wd
+wdr
+wkdr
+alias-v
+ls
+vim user_aliases.cmd -u NONE
+vpn-d
+slack-kill 
+teams-kill 
+desk
+cd ..
+cd "Program Files
+cd WeVPN\
+ls
+ls
+vpn-we 
+alias-v
+vpn-kill 
+purge-hard 
+vpn-we 
+ls
+vim user_aliases.cmd -u NONE
+desk
+cd "Program Files
+cd WeVPN\
+ls
+ls
+vpn-we 
+vpn-kill 
+purge-hard 
+vpn-we 
+cd ..
+git commit -m"Add data process logic to backend"
+teams-kill 
+git commit -m"Add logic for filling missing days"
+slack-kill 
+gs
+git add server\
+vpn-cac-c
+git add .
+git commit -m"Fix date formatting with moment"
+gpu
+vpn-d
+alias-v
+vpn-kill 
+vpn-we 
+purge-hard 
+slack-kill 
+teams-kill 
+desk
+cd CAC\infectious-diseases-dashboard\
+cd client\
+npm-s
+git add .
+git commit -m"Fix date formatting with moment"
+vpn-d
+alias-v
+cd ..
+vpn-cac-c
+ga.
+gs
+git commit -m"Add demographic chart"
+gpu
+slack-kill 
+slack-kill 
+npm install 
+npm audit fix
+git branch -a
+git stash
+git checkout dev_oliver
+purge
+cd ibmcoach-ui
+npm-s
+vpn-we 
+alias-v
+vpn-kill 
+vpn-we 
+cd server\
+npm-s
+purge-hard 
+vpn-cac-c
+desk
+cd CAC\IBM_Coach\
+ibm_pull 
+cd ..
+cd ibmcoach-deploy\local-dev\
+dcub
+cd server\
+npm-s
+desk
+cd CAC\infectious-diseases-dashboard\
+cd client\
+npm-s
+git add .
+git commit -m"Fix date formatting with moment"
+vpn-d
+alias-v
+cd ..
+vpn-cac-c
+git commit -m"Add demographic chart"
+slack-kill 
+git stash
+git checkout dev_oliver
+purge
+cd ibmcoach-ui
+npm-s
+vpn-we 
+vpn-kill 
+vpn-we 
+cd server\
+npm-s
+desk
+dcub
+cd server\
+npm-s
+cd CAC\infectious-diseases-dashboard\
+cd client\
+npm-s
+purge-hard 
+cd "Queens Stuff\QSAT\2020\project_planning\
+gs
+ga.
+git commit -m"replace old application form"
+gpu
+slack-kill 
+teams-kill 
+cd CAC\IBM_Coach\
+alias-v
+desk
+cd CAC\IBM_Coach\ibmcoach-conversation-generation\
+vpn-cac-c
+ibm_pull 
+cd ibmcoach-analytics\
+cd ibmcoach-coach\
+cd ibmcoach-core\
+gpl
+git branch -a
+cd ibmcoach-instructor\
+npm install 
+npm audit fix
+cd ..
+ls
+cd ibmcoach-deploy\local-dev\
+docker-start 
+docker-kill 
+npm install 
+cd ibmcoach-instructor\
+npm install 
+npm audit fix
+ls
+cd ibmcoach-deploy\local-dev\
+docker-start 
+docker-kill 
+npm install 
+teams-kill 
+cd ..
+gl
+vp-cac-c
+alias
+gc -m"Handle demographic data"
+git commit -m"Handle demographiic data"
+vpn-d
+slac
+slack-kill 
+vpn-cac-c
+ga.
+git commit -m"Complete demographic graph functionality"
+gpu
+gs
+purge-hard 
+vpn-we 
+alias-v
+vpn-kill 
+vpn-we 
+cd server\
+npm-s
+vpn-cac-c
+desk
+cd CAC\IBM_Coach\
+ibm_pull 
+cd ibmcoach-deploy\local-dev\
+dcub
+cd server\
+npm-s
+cd ibmcoach-ui\
+git branch -a
+git checkout
+git checkout dev_new_interns 
+npm install
+cd ibmcoach-student\
+cd ibmcoach-response-extractor\
+gpl
+ls
+cd ibmcoach-objective\
+npm install 
+npm audit fix
+vpn-d
+cd ..
+cd ibmcoach-ui
+git checkout .
+git checkout dev_oliver 
+slack-kill 
+teams-kill 
+purge-hard 
+desk
+cd CAC\infectious-diseases-dashboard\
+cd client\
+npm-s
+purge-hard 
+desk
+cd CAC\infectious-diseases-dashboard\
+cd client\
+npm-s
+npm-s
+vpn-d
+curl 'geocode.xyz/Hauptstr.,+57632+Berzhausen?json=1'
+curl 'https://geocode.xyz/Hauptstr.,+57632+Berzhausen?json=1'
+cd ibmcoach-ui
+git checkout .
+git checkout dev_oliver 
+slack-kill 
+teams-kill 
+cd CAC\infectious-diseases-dashboard\
+cd client\
+cd server\
+npm-s
+desk
+cd "Queens Stuff\QSAT\
+cd 2020
+cd project_planning\
+ls
+e .
+e.
+cd ..
+zoom-kill 
+pu-h
+purge-hard 
+zoom-kill 
+pu-h
+purge-hard 
+desk
+cd CAC\infectious-diseases-dashboard\
+cd client\
+cd src\
+cd data\
+ls
+vim ontaioCities.json 
+cd infectious-diseases-dashboard\server\
+npm-s
+npm-s
+desk
+cd "Queens Stuff\QSAT\
+cd 2020
+cd project_planning\
+ls
+e .
+e.
+cd ..
+zoom-kill 
+pu-h
+purge-hard 
+slack-kill 
+teams-kill 
+cd infectious-diseases-dashboard\
+git commit -m"Add area graph and start logic"
+git commit -m"Set up logic to work with area graph"
+git add .
+git commit -m"Add hardcoded ontario city coordinates"
+vpn-d
+vpn-cac-c
+ga.
+git commit -m"Add functional map component"
+gpu
+gs
+npm install -g win-node-env
+vim ontaioCities.json 
+cd infectious-diseases-dashboard\server\
+npm-s
+npm-s
+desk
+cd "Queens Stuff\QSAT\
+cd 2020
+cd project_planning\
+ls
+e .
+e.
+zoom-kill 
+pu-h
+purge-hard 
+slack-kill 
+teams-kill 
+cd infectious-diseases-dashboard\
+git commit -m"Add area graph and start logic"
+git commit -m"Set up logic to work with area graph"
+git add .
+git commit -m"Add hardcoded ontario city coordinates"
+vpn-d
+vpn-cac-c
+ga.
+git commit -m"Add functional map component"
+gpu
+gs
+npm install 
+git checkout demo 
+gcd
+cd ..
+gpl
+git branch -a
+git stash
+git checkout test_env 
+cd local-dev\
+npm test
+cd ..
+cd server\
+npm-s
+cd ..
+cd ibmcoach-ui
+git checkout .
+git checkout dev_oliver 
+slack-kill 
+teams-kill 
+purge-hard 
+desk
+cd CAC\infectious-diseases-dashboard\
+cd client\
+npm-s
+purge-hard 
+desk
+cd CAC\infectious-diseases-dashboard\
+cd client\
+npm-s
+npm-s
+curl 'geocode.xyz/Hauptstr.,+57632+Berzhausen?json=1'
+curl 'https://geocode.xyz/Hauptstr.,+57632+Berzhausen?json=1'
+cd ibmcoach-ui
+git checkout .
+git checkout dev_oliver 
+teams-kill 
+cd server\
+cd "Queens Stuff\QSAT\
+cd 2020
+cd project_planning\
+e .
+e.
+zoom-kill 
+pu-h
+slack-kill 
+cd infectious-diseases-dashboard\
+vpn-d
+weather
+weather-full 
+status
+cd "Queens Stuff\QSAT\2020\
+cd 2020\
+git clone https://github.com/queens-satellite-team/moc_sat.git
+cd moc_sat\
+purge
+vpn-cac-c
+cd CAC\IBM_Coach\
+ibm_pull 
+cd ibmcoach-conversation-generation\
+gpl
+cd ibmcoach-deploy\
+ls
+git branch
+git pull
+cd local-dev\
+docker-compose up --build
+purge-hard 
+desk
+cd "Queens Stuff\QSAT\2020\moc_sat\
+cd ..
+cd CAC\infectious-diseases-dashboard\
+cd client\
+npm-s
+git stash
+git checkout test_env 
+cd local-dev\
+npm test
+zoom-kill 
+weather
+weather-today 
+desk
+cd "Queens Stuff\QSAT\2020\
+ls
+cd moc_sat\
+gs
+git add .
+git commit -m"create readme"
+gpu
+gpl
+purge-hard 
+vpn-cac-c
+teams-kill 
+purge-hard 
+status
+gs
+git add .
+git commit -m"create readme"
+gpu
+purge-hard 
+vpn-cac-c
+teams-kill 
+grep version
+grep --version
+steam-kill 
+slack-kill 
+zoom-kill 
+cd "Queens Stuff\QSAT\2020\
+ls
+git clone https://github.com/queens-satellite-team/ADCS-Simulink-Simulation.git
+cd ADCS-Simulink-Simulation\
+branch -a
+git branch -a
+gcd
+git checkout Dev
+git checkout calDev 
+gpl
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+gl
+purge-hard 
+desk
+status
+cd ..
+git diff
+git stash
+vpn-cac-c
+purge-hard 
+cd ..
+cd server\
+npm-s
+status
+desk
+cd CAC\infectious-diseases-dashboard\
+cd client\
+gs
+npm-s
+gs
+npm-s
+status
+purge-hard 
+cd client\
+gs
+npm-s
+teams-kill 
+vpn-cac-c
+vpn-d
+zoom-kill 
+purge-hard 
+ssh
+ssh pi@192.168.2.225
+cd ..
+cd ibmcoach-ui\
+gcd
+gpl
+gpl
+cd ..
+cd ibmcoach-ui
+npm-s
+vpn-cac-c
+vpn-d
+desk
+ssh pi@192.168.2.225
+cd ..
+cd client\
+npm-s
+ssh pi@192.168.2.225
+cd ..
+cd ibmcoach-ui\
+gcd
+gpl
+gpl
+cd ibmcoach-ui
+cd infectious-diseases-dashboard\
+cd server\
+npm-s
+cd ..
+vpn-cac-c
+alias
+git commit -m"Add file merging on subsequent uploads"
+gs
+ga.
+git commit -m"Add useful dummy data to repo"
+gpu
+git checkout Dev
+git checkout calDev 
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+gl
+purge-hard 
+desk
+status
+cd ..
+git diff
+vpn-cac-c
+purge-hard 
+npm-s
+status
+cd client\
+gs
+npm-s
+gs
+npm-s
+status
+purge-hard 
+teams-kill 
+zoom-kill 
+purge-hard 
+ssh
+ssh pi@192.168.2.225
+vpn-cac-c
+desk
+ibm_pull 
+cd ibmcoach-admin\
+cd ibmcoach-deploy\
+git stash
+cd ibmcoach-conversation-generation\
+gcd
+cd ibmcoach-deploy\local-dev\
+cd CAC\infectious-diseases-dashboard\
+gpl
+cd IBM_Coach\ibmcoach-deploy\local-dev\
+npm install 
+npm audit fix
+cd local-dev\
+dcub
+vpn-d
+docker
+docker-kill 
+cd infectious-diseases-dashboard\
+cd client\
+cd ..
+gs
+cd server\
+npm0s
+npm-s
+vpn-d
+cd server\
+npm-s
+git branch -a
+npm install 
+vpn-d
+vpn-cac-c
+cd ..
+cd infectious-diseases-dashboard\server\
+npm-s
+cd client\
+npm install 
+npm rebuild node-sass
+npm-s
+status
+cd client\
+gs
+npm-s
+gs
+npm-s
+status
+purge-hard 
+teams-kill 
+zoom-kill 
+ssh
+ssh pi@192.168.2.225
+ibm_pull 
+cd ibmcoach-admin\
+cd ibmcoach-deploy\
+git stash
+cd ibmcoach-conversation-generation\
+gcd
+cd ibmcoach-deploy\local-dev\
+cd IBM_Coach\ibmcoach-deploy\local-dev\
+cd local-dev\
+dcub
+docker
+docker-kill 
+gs
+cd server\
+npm0s
+cd CAC\infectious-diseases-dashboard\
+git clone http://joshua@172.28.49.153:7990/scm/idd/data-visualization-tool.git
+vpn-d
+cd data-visualization-tool\
+weather
+vpn-cac-c
+npm install 
+npm audit fix
+cd infectious-diseases-dashboard\
+cd client\
+npm-s
+purge-hard 
+cd "Queens Stuff\QSAT\
+cd 2020\
+ls
+cd moc_sat\
+gpl
+purge-hard
+cd ..
+desk
+desk
+cd infectious-diseases-dashboard\server\
+npm install 
+npm-s
+cd ..
+cd auto-graph\
+gs
+git branch -a
+gcd
+python app.py
+dash
+cd infectious-diseases-dashboard\client\
+vpn-cac-c
+gcd
+dash
+cd infectious-diseases-dashboard\client\
+vpn-cac-c
+desk
+cd CAC\
+cd auto-graph\
+python app.y
+ls
+python app.py
+gpl
+pip install xlrd
+dash
+cd infectious-diseases-dashboard\client\
+vpn-cac-c
+cd ..
+cd data-visualization-tool\
+gpl
+gs
+ks
+ls
+cd client\
+npm install 
+npm install 
+npm rebuild node-sass
+npm-s
+status
+cd client\
+gs
+npm-s
+gs
+npm-s
+status
+purge-hard 
+teams-kill 
+zoom-kill 
+ssh
+ssh pi@192.168.2.225
+ibm_pull 
+cd ibmcoach-admin\
+cd ibmcoach-deploy\
+cd ibmcoach-conversation-generation\
+gcd
+cd ibmcoach-deploy\local-dev\
+cd IBM_Coach\ibmcoach-deploy\local-dev\
+cd local-dev\
+dcub
+docker
+docker-kill 
+gs
+npm0s
+cd CAC\infectious-diseases-dashboard\
+git clone http://joshua@172.28.49.153:7990/scm/idd/data-visualization-tool.git
+vpn-d
+cd data-visualization-tool\
+weather
+vpn-cac-c
+npm install 
+npm audit fix
+cd infectious-diseases-dashboard\
+npm-s
+cd "Queens Stuff\QSAT\
+cd 2020\
+cd moc_sat\
+purge-hard
+cd ..
+desk
+desk
+cd infectious-diseases-dashboard\server\
+npm-s
+cd auto-graph\
+git branch -a
+gcd
+python app.py
+dash
+cd infectious-diseases-dashboard\client\
+python -v
+ppython --version
+python --version
+pyenv
+python3 -m venv venv
+venv\Scripts\activate
+cd venv\Scripts\
+venv
+activate.bat 
+cd venv\
+cd Scripts\
+activate
+py -m venv env
+python3 -m venv env
+virtualenv
+pip install virtualenv
+python -m pip install --upgrade pip
+env\Scripts\activate
+touch .flaskenv
+vim .flaskenv 
+ls
+ls -a
+vpn-cac-c
+touch .gitignore
+git commit -m"Add server gitignore"
+git stash
+gpl
+git stash pop
+git diff README.md 
+git reset
+cd server\
+git commit -m"include venv"
+git add .gitignore 
+git commit -m"include *env"
+ga.
+git commit -m"Initial backend commit"
+gpu
+cd ..
+cd client\
+gs
+vim .gitignore 
+npm install 
+npm star
+npm start
+purge-hard 
+cd client\
+npm install 
+npm install axios
+cd server\
+pip install -U flask-cors
+pipenv install flask_cors==3.0.7
+cd ..
+gs
+ga.
+git commit -m"Add proxy and axios for communication to backend"
+vpn-cac-c
+gpl
+gpu
+desk
+cd CAC\
+cd auto-graph\
+python app.y
+ls
+python app.py
+gpl
+pip install xlrd
+dash
+cd infectious-diseases-dashboard\client\
+vpn-cac-c
+ks
+ls
+npm install 
+gpl
+gs
+cat README.md 
+cd data-visualization-tool\
+vpn-d
+cd client\
+npm start-backend
+cd ..
+cd server\
+flask run
+desk
+ssh pi@192.168.2.225
+alias-v
+ssh pi@192.168.2.225
+alias-v
+desk
+cd "Queens Stuff\QSAT\2020\
+git clone https://github.com/JoshW7/nRF24-pi-arduino.git
+ls
+cd nRF24-pi-arduino\
+gpl
+gs
+ga.
+git commit -m"initial commit"
+gpu
+desk
+ssh pi@192.168.2.225
+alias-v
+ls
+vim -u NONE Readme.md 
+space-cowboy 
+ls
+vim -u NONE Readme.md 
+space-cowboy 
+space-cowboy 
+desk
+cd CAC\data-visualization-tool\
+bit branch -a
+git branch -a
+vpn-cac-c
+vpn-d
+space-cowboy 
+desk
+cd CAC\data-visualization-tool\
+cd server\
+pip install flask_cors
+flask run
+y
+vim -u NONE Readme.md 
+space-cowboy 
+vim -u NONE Readme.md 
+space-cowboy 
+purge-hard 
+cd CAC\
+cd data-visualization-tool\
+gs
+vpn-cac-c
+gpl
+cl
+cd client\
+ls
+npm install 
+npm-s
+desk
+purge
+weather-full 
+gpl
+cl
+cd client\
+npm install 
+npm-s
+purge
+cd nRF24-pi-arduino\
+ga.
+git commit -m"Add Ack package example"
+gpu
+purge-hard 
+gs
+desk
+status
+cd "Queens Stuff\QSAT\2020\
+ls
+alias-v
+alias-v
+qsat 
+cd nRF24-pi-arduino\
+gs
+vpn-cac-c
+vpn-d
+gpl
+cl
+cd client\
+ls
+npm install 
+npm-s
+weather
+cd C:
+cd C:\
+pu-h
+wweather
+weather-full 
+vpn-d
+vpn-cac-c
+purge
+purge-hard 
+desk
+qse
+alias
+qset
+alias-v
+qsat
+status
+npm-s
+weather
+cd C:
+cd C:\
+pu-h
+wweather
+weather-full 
+purge
+qse
+alias
+qset
+alias-v
+qsat
+git clone https://github.com/queens-satellite-team/documentation.git
+cd documentation\
+git commit -m"Add CSDC-5 CDR and Feedback"
+git add .
+git commit -m"Convert CDR feedback from word to pdf"
+gpu
+desk
+cd CAC\
+vpn-cac-c
+vpn-d
+purge-hard 
+qsat 
+ls
+cd nRF24-pi-arduino\
+gs
+gl
+cd ..
+echo hello > com4
+echo hello > COM4
+echo hello > COM4
+space-cowboy 
+wweather
+weather-full 
+purge
+qse
+alias
+qset
+alias-v
+qsat
+git clone https://github.com/queens-satellite-team/documentation.git
+cd documentation\
+git commit -m"Add CSDC-5 CDR and Feedback"
+git add .
+git commit -m"Convert CDR feedback from word to pdf"
+cd CAC\
+vpn-cac-c
+vpn-d
+gl
+echo hello > com4
+echo hello > COM4
+space-cowboy 
+desk
+qsat 
+cd "Read file\
+cd read-file\
+mkdir pi-to-arduino-comms
+cd pi-to-arduino-comms\
+vim serial-pi-2-arduino
+vim serial-pi-2-arduino.py 
+cd ..
+ls
+cd nRF24-pi-arduino\
+gs
+ga.
+git commit -m"Add pi-arduino serial communication example"
+gpu
+purge-hard 
+space-cowboy 
+:q
+space-cowboy 
+space-cowboy 
+:q
+space-cowboy 
+mods
+mode
+waether
+weather
+zoom-kill 
+teams-kill 
+slack-kill 
+space-cowboy 
+space-cowboy 
+space-cowboy 
+explorer.exe 
+alias
+purge
+vpn-d
+desk
+cd CAC\
+cd WellnessWorld\
+ls
+space-cowboy 
+e.
+ls
+git clone https://github.com/myWellnessWorld98/Wellness-World-Test-API.git
+cd Wellness-World-Test-API\
+pip install Django==3.0.6
+slack-kill 
+space-cowboy 
+space-cowboy 
+space-cowboy 
+explorer.exe 
+alias
+desk
+cd CAC\
+cd WellnessWorld\
+ls
+space-cowboy 
+e.
+git clone https://github.com/myWellnessWorld98/Wellness-World-Test-API.git
+pip install Django==3.0.6
+weather
+purge
+clear
+status
+vpn-cac-c
+cd CAC\WellnessWorld\
+cd wellness-frontend\
+teams-kill 
+vpn-d
+gcd
+gs
+cd ..
+ls
+cd Wellness-World-Test-API\
+gpl
+purge-hard 
+vpn-cac-c
+purge-hard 
+vpn-cac-c
+zoom-kill 
+desk
+cd CAC\WellnessWorld\
+cd fron
+cd wellness-frontend\
+gs
+git branch -a
+vpn-d
+slack-kill 
+teams-kill 
+purge
+cd wellness-frontend\
+gs
+slack-kill 
+teams-kill 
+purge
+vpn-d
+cd Wellness-World-Test-API\
+git branch -a
+git checkout develop
+gpl
+pip install -r requirement.txt
+ls
+pip install -r requirements.txt
+python -m pip install --upgrade pip
+cd ..
+gcd
+gcm
+cd wel
+cd wellnessworld\
+python manage.py runserver
+purge-hard 
+slack-kill 
+teams-kill 
+purge
+vpn-cac-c
+desk
+cd CAC\WellnessWorld\
+cd wellness-frontend\
+yarn install 
+ls
+git branch -a
+git checkout favourites
+git checkout feature/favourites
+gs
+gpl
+yarn install
+yarn start
+slack-kill 
+teams-kill 
+purge
+django --v
+Django 
+python
+cd Wellness-World-Test-API\
+gpl
+cd wellnessworld\
+ls
+python manage.py runserver
+cd ..
+vpn-cac-c
+vpn-d
+weather-full 
+vpn-cac-c
+purge-hard 
+purge-hard 
+desk
+weather
+weather-to
+weather-today 
+vpn-cac-c
+cd CAC\WellnessWorld\WellnessWorld-API\
+cd ..
+ls
+cd Wellness-World-Test-API\
+gpl
+purge-hard 
+vpn-cac-c
+cd CAC\WellnessWorld\
+vpn-d
+ls
+cd wellness-frontend\
+gcd
+gpl
+vpn-d
+vpn-cac-c
+cd CAC\WellnessWorld\
+vpn-d
+cd wellness-frontend\
+gcd
+vpn-d
+cd *end
+ibm_pull 
+ls
+cd ibmcoach-conversation-generation\
+git stash
+gpl
+cd ..
+cd ibmcoach-ui
+npm-s
+vpn-d
+weather
+weather-to
+weather-today 
+vpn-cac-c
+cd CAC\WellnessWorld\WellnessWorld-API\
+ls
+gpl
+vpn-d
+cd wellness-frontend\
+gcd
+purge-hard
+vpn-d
+desk
+cd CAC\WellnessWorld\
+cd Wellness-World-Test-API\
+git checkout develop
+cd IBM_Coach\
+gs
+gok
+cd ibmcoach-ui
+vpn-cac-c
+git branch -a
+git checkout dev_new_interns
+cd ..
+cd *deploy
+gpl
+docker-start 
+ls
+cd local-dev\
+dcub
+purge-hard 
+teams-kill 
+slack-kill 
+slack-kill 
+purge-hard 
+cddesk
+desk
+cd CAC\IBM_Coach\
+cd ibmcoach-ui
+vpn-cac-c
+cd ..
+cd ibmcoach-deploy\local-dev\
+gs
+docker-start 
+dcub
+slack-kill 
+teams-kill 
+gpl
+vpn-d
+npm install 
+npm install -g npm
+npm-s
+purge-hard 
+vpn-cac-c
+ga.
+git commit -m"Fix minor dashboard bugs"
+gpu
+gs
+vpn-d
+vpn-cac-c
+vpn-d
+teams-kill 
+teams-kill 
+cd ..
+cd ibmcoach-ui
+npm-s
+cd ibmcoach-ui
+npm-s
+desk
+cd CAC\WellnessWorld\Wellness-World-Test-API\
+gpl
+pip install -r requirement.txt
+
+pip install -r requirements.txt
+cd wellnessworld\
+python manage.py runserver
+y
+cd ..
+cd Wellness-World-Test-API\
+gpl
+cd wellnessworld\
+ls
+python manage.py runserver
+y
+teams-kill 
+vpn-d
+npm install 
+npm install -g npm
+npm-s
+vpn-cac-c
+ga.
+git commit -m"Fix minor dashboard bugs"
+gpu
+gs
+vpn-d
+cd CAC\IBM_Coach\ibmcoach-deploy\
+docker-start 
+cd local-dev\
+dcub
+vpn-cac-c
+vpn-d
+desk
+cd CAC\WellnessWorld\
+ls
+cd wellness-frontend\
+y
+slack-kill 
+purge-hard 
+gpl
+gl
+yarn install 
+yarn start
+zoom-kill 
+teams-kill 
+desk
+purge-hard 
+vpn-cac-c
+vpn-d
+cd CAC\WellnessWorld\
+ls
+cd wellness-frontend\
+gpl
+cd ..
+cd Wellness-World-Test-API\
+gpl
+cd wellnessworld\
+ls
+python manage.py runserver
+desk
+cd CAC\WellnessWorld\wellness-frontend\
+gpl
+gl
+yarn star
+yarn start
+y
+gpl
+gl
+yarn install 
+yarn start
+vpn-d
+cd CAC\WellnessWorld\
+cd wellness-frontend\
+teams-kill 
+zoom-kill 
+desk
+cd CAC\
+cd IBM_Coach\
+ls
+cd ibmcoach-response-extractor\
+vpn-cac-c
+gpl
+weather
+purge-hard 
+gs
+git branch -a
+yarn star
+yarn start
+y
+gpl
+yarn install 
+yarn start
+zoom-kill 
+cd CAC\
+ouppur-h
+teams-kill 
+purge-hard 
+desk
+cd CAC\WellnessWorld\
+cd wellness-frontend\
+weather
+weather-full 
+cd ..
+cd IBM_Coach\
+ls
+cd ibmcoach-response-extractor\
+gpl
+gs
+gl
+vpn-d
+vpn-cac-c
+alias-v
+zoom-kill 
+desk
+cd CAC\
+cd IBM_Coach\
+ls
+cd ibmcoach-response-extractor\
+vpn-cac-c
+gpl
+weather
+purge-hard 
+gs
+git branch -a
+yarn star
+yarn start
+y
+gpl
+yarn install 
+yarn start
+zoom-kill 
+cd CAC\
+ouppur-h
+teams-kill 
+purge-hard 
+desk
+cd CAC\WellnessWorld\
+cd wellness-frontend\
+weather
+weather-full 
+cd IBM_Coach\
+cd ibmcoach-response-extractor\
+gl
+vpn-d
+vpn-cac-c
+alias-v
+cd ibmcoach-admin\
+cd ibmcoach-coach\
+git stash
+cd ibmcoach-deploy\
+gb
+cd ibmcoach-objective\
+git checkout.
+gc.
+git checkout .
+cd ibmcoach-ui
+ls
+git checkout release/Phase0 
+gpl
+npm audit fix
+npm-s
+cd ..
+cd ibmcoach-core\
+gs
+npm start
+npm install 
+node
+nodemon
+cd CAC\WellnessWorld\
+cd wellness-frontend\
+weather
+weather-full 
+cd IBM_Coach\
+cd ibmcoach-response-extractor\
+gs
+gl
+vpn-d
+alias-v
+cd ibmcoach-auth\
+cd ibmcoach-core\
+npm install
+npm audit fix
+cd ibmcoach-student\
+git checkout release/Phase0 
+gpl
+npm install 
+vpn-cac-c
+teams-kill 
+cd ..
+cd ibmcoach-deploy\
+ls
+cd local-dev\
+dcub
+y
+cd Wellness-World-Test-API\
+gpl
+cd wellnessworld\
+ls
+python manage.py runserver
+desk
+cd CAC\WellnessWorld\wellness-frontend\
+gpl
+gl
+yarn star
+yarn start
+y
+gpl
+gl
+yarn install 
+yarn start
+vpn-d
+cd CAC\WellnessWorld\
+cd wellness-frontend\
+teams-kill 
+zoom-kill 
+desk
+cd CAC\
+cd IBM_Coach\
+ls
+cd ibmcoach-response-extractor\
+vpn-cac-c
+gpl
+weather
+purge-hard 
+gs
+git branch -a
+yarn star
+yarn start
+gpl
+yarn install 
+yarn start
+zoom-kill 
+cd CAC\
+ouppur-h
+teams-kill 
+cd CAC\WellnessWorld\
+cd wellness-frontend\
+weather
+weather-full 
+cd IBM_Coach\
+gl
+vpn-d
+vpn-cac-c
+alias-v
+desk
+cd CAC\IBM_Coach\ibmcoach-response-extractor\
+git checkout Phase0
+gcd
+cd ibmcoach-admin\
+gb
+cd ibmcoach-analytics\
+git stash
+cd ibmcoach-conversation-generation\
+cd ibmcoach-instructor\
+git checkout .
+git checkout release/Phase0 
+gpl
+npm install 
+npm audit fix
+l
+cd ibmcoach-deploy\
+cd local-dev\
+vim docker-compose.yaml 
+docker-start 
+purge-hard 
+dcub
+y
+cd ..
+cd ibmcoach-response-extractor\
+npm start
+nodemon
+git branch demoSep
+git checkout demoSep 
+ls
+ga.
+git commit -m"Add temporary question response simplification"
+gpu
+git push --set-upstream origin demoSep 
+gs
+vpn-d
+vpn-cac-c
+alias-v
+cd ibmcoach-objective\
+npm start 
+nodemon
+cd ..
+cd ibmcoach-ui
+npm-s
+purge-hard 
+npm start 
+nodemon
+npm-s
+cd ibmcoach-ui
+git diff client\src\components\
+:wq
+git add client\src\components\util\Panels\CoachProfile\CoachProfile.js
+git commit -m"Fix published status"
+vpn-cac-c
+gpu
+cd ..
+cd ibmcoach-conversation-generation\
+gs
+vpn-d
+purge-hard 
+cd ..
+cd ibmcoach-ui
+npm-s
+cd ibmcoach-ui
+npm-s
+weather
+zoom-kill 
+purge-hard 
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd local-dev\
+docker-start 
+dcub
+cd ..
+cd ..
+cd ibmcoach-objective\
+nodemon
+zoom-kill 
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd local-dev\
+docker-start 
+dcub
+teams-kill 
+status
+cd CAC\IBM_Coach\ibmcoach-ui
+cd ..
+cd ibmcoach-response-extractor\
+gl
+gs
+gd
+vpn-cac-c
+vpn-d
+purge-hard 
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd local-dev\
+docker-start 
+dcub
+cd ibmcoach-objective\
+nodemon
+cd ibmcoach-response-extractor\
+cd ..
+cd ibmcoach-ui
+npm-s
+cd local-dev\
+docker-start 
+dcub
+teams-kill 
+status
+cd CAC\IBM_Coach\ibmcoach-ui
+cd ..
+cd ibmcoach-response-extractor\
+vpn-cac-c
+vpn-d
+purge-hard 
+cd CAC\IBM_Coach\ibmcoach-deploy\
+cd local-dev\
+docker-start 
+dcub
+cd ibmcoach-objective\
+nodemon
+cd ibmcoach-response-extractor\
+cd ibmcoach-ui
+npm-s
+desk
+cd CAC\WellnessWorld
+cd wellness-frontend\
+gd
+ga.
+git commit -m"Add WW Hotjar tracking code"
+gpu
+gs
+gl
+npx browserslist --update-db
+cd Wellness-World-Test-API\
+gpl
+python manage.py runserver
+cd ..
+ls
+pip install mysqlclient-1.4.6-cp37-cp37m-win_amd64.whl 
+pip install -r requirements.txt
+cd wellnessworld\
+python manage.py runserver 
+y
+cd ibmcoach-ui
+npm-s
+desk
+weather-kingston 
+status
+python --v
+python -v
+Python version
+python -V
+cd CAC\WellnessWorld\
+cd wellness-frontend\
+ls
+npx browserslist --update-db
+yarn install 
+cd ..
+cd ibmcoach-ui
+npm-s
+purge-hard 
+npm start 
+npm-s
+cd ibmcoach-ui
+git diff client\src\components\
+:wq
+git add client\src\components\util\Panels\CoachProfile\CoachProfile.js
+git commit -m"Fix published status"
+vpn-cac-c
+gpu
+cd ..
+cd ibmcoach-conversation-generation\
+vpn-d
+cd ibmcoach-ui
+npm-s
+cd ibmcoach-core\
+nodemon
+cd ..
+cd ibmcoach-deploy\local-dev\
+docker-start 
+dcub
+purge-hard 
+desk
+cd CAC\WellnessWorld\
+cd wellness-frontend\
+gpl
+yarn install
+gs
+y
+yarn start
+purge-hard 
+desk
+cd CAC\WellnessWorld\
+cd wellness-frontend\
+yarn install
+y
+yarn start
+git clone https://github.com/myWellnessWorld98/Wellness-World-Test-API.git
+cd Wellness-World-Test-API\
+pip install -r requirement.txt
+pip install -r requirements.txt
+cd wellnessworld\
+ls
+gb
+git checkout develop
+gs
+gpl
+python manage.py runserver
+python manage.py runserver 127.0.0.1:3001
+python manage.py runserver 127.0.0.1:3000
+django-admin
+django-admin help
+django-admin help --commands
+cd ibmcoach-core\
+nodemon
+cd ..
+cd ibmcoach-deploy\local-dev\
+docker-start 
+dcub
+purge-hard 
+yarn install
+gs
+desk
+cd CAC\WellnessWorld\
+git clone https://github.com/myWellnessWorld98/wellness-frontend.git
+ls
+cd wellness-frontend\
+yarn install 
+gcd
+gpl
+yarn start
+y
+weather
+weather-full 
+purge-hard 
+yarn install
+git clone https://github.com/myWellnessWorld98/wellness-frontend.git
+yarn install 
+gcd
+yarn start
+y
+weather
+weather-full 
+purge-hard
+tzoom
+desk
+cd CAC\WellnessWorld\
+ls
+cd wellness-
+cd wellness-frontend\
+git stash
+gpl
+gs
+gd
+ga.
+git commit -m"Add google analytics tracking code"
+gpu
+zoom-kill 
+desk
+cd ibmcoach-ui
+npm-s
+vpn-cac-c
+y
+purge
+purge-hard 
+teams-kill 
+desk
+cd CAC\IBM_Coach\
+docker-start 
+cd ibmcoach-deploy\local-dev\
+dcub
+cd ibmcoach-deploy\local-dev\
+dcub
+teams-kill 
+vpn-cac-c
+vpn-d
+zoom-kill 
+desk
+cd CAC\IBM_Coach\ibmcoach-deploy\local-dev\
+docker-start 
+dcu
+zoom-kill 
+slack-kill 
+desk
+cd CAC\IBM_Coach\ibmcoach-ui
+npm-s
+docker-kill 
+docker
+docker-start 
+desk
+cd CAC\IBM_Coach\
+cd ibmcoach-deploy\local-dev\
+dcu
+cd ibmcoach-ui\
+npm-s
+weather
+purge-hard 
+status
+cd ibmcoach-ui\
+npm-s
+purge-hard 
+desk
+status
+teams-kill 
+slack-kill 
+weather
+weather-today 
+cd ibmcoach-ui\
+npm-s
+weather
+purge-hard 
+status
+cd ibmcoach-ui\
+npm-s
+desk
+pu
+zoom-kill 
+slack-kill 
+vpn-cac-c
+vpn-d
+purge
+clear
+weather
+weather-full 
+status
+weather-today 
+weather-kingston 
+purge-hard 
+chrome-kill 
+hcitool dev
+ipconfig
+($SysInfo = systeminfo) -match 'bluetooth'
+teams-kill 
+slack-kill 
+weather
+weather-today 
+teams-kill 
+zoom-kill 
+btinfo
+btinfo -n
+btinfo
+ls
+.\cmder.exe /REGISTER ALL
+btinfo
+desk
+cd CAC\IBM_Coach\ibmcoach-response-extractor\
+gd
+cd ..
+cd ibmcoach-deploy\
+vpn-cac-c
+btinfo -n
+btinfo
+.\cmder.exe /REGISTER ALL
+btinfo
+desk
+cd CAC\IBM_Coach\ibmcoach-response-extractor\
+gd
+cd ibmcoach-deploy\
+vpn-cac-c
+cd ibmcoach-analytics\
+cd ibmcoach-coach\
+gs
+ls
+cd ibmcoach-core\
+git stash
+gcd
+gpl
+cd ..
+cd ibmcoach-instructor\
+gc.
+slack-kill 
+weather
+weather-today 
+teams-kill 
+zoom-kill 
+btinfo
+btinfo -n
+btinfo
+ls
+.\cmder.exe /REGISTER ALL
+btinfo
+desk
+cd CAC\IBM_Coach\ibmcoach-response-extractor\
+gd
+cd ibmcoach-admin\
+vpn-cac-c
+ cd ibmcoach-auth\
+cd ibmcoach-conversation-generation\
+git stash
+cd ..
+cd ibmcoach-deploy\
+git checkout .
+gcd
+gpl
+.\cmder.exe /REGISTER ALL
+btinfo
+desk
+cd CAC\IBM_Coach\ibmcoach-response-extractor\
+gd
+cd ibmcoach-admin\
+vpn-cac-c
+ cd ibmcoach-auth\
+cd ibmcoach-conversation-generation\
+git stash
+cd ibmcoach-deploy\
+git checkout .
+gcd
+gpl
+cd ibmcoach-analytics\
+cd ibmcoach-auth\
+cd ibmcoach-coach\
+cd ibmcoach-core\
+cd ..
+ls
+cd ibmcoach-objective\
+npm install 
+npm audit fix
+slack-kill 
+weather
+weather-today 
+teams-kill 
+zoom-kill 
+btinfo
+btinfo -n
+btinfo
+.\cmder.exe /REGISTER ALL
+btinfo
+cd CAC\IBM_Coach\ibmcoach-response-extractor\
+gd
+vpn-cac-c
+ cd ibmcoach-auth\
+git stash
+cd ibmcoach-deploy\
+git checkout .
+desk
+cd CAC\IBM_Coach\ibmcoach-objective\
+cd ibmcoach-student\
+gcd
+vpn-d
+cd ibmcoach-admin\
+cd ibmcoach-conversation-generation\
+cd ibmcoach-response-extractor\
+npm install 
+npm audit fix
+cd ..
+cd ibmcoach-ui
+ls
+git branch
+gc.
+git checkout dev_new_interns 
+gpl
+purge-hard 
+.\cmder.exe /REGISTER ALL
+btinfo
+cd CAC\IBM_Coach\ibmcoach-response-extractor\
+gd
+cd ibmcoach-admin\
+ cd ibmcoach-auth\
+cd ibmcoach-conversation-generation\
+git stash
+cd ibmcoach-deploy\
+git checkout .
+desk
+cd CAC\IBM_Coach\ibmcoach-instructor\
+cd ibmcoach-response-extractor\
+cd ..
+cd ibmcoach-ui
+gc.
+gcd
+gpl
+npm install 
+npm audit fix
+4ls
+gs
+vpn-cac-c
+npm-s
+weather-today 
+weather-kingston 
+chrome-kill 
+hcitool dev
+ipconfig
+($SysInfo = systeminfo) -match 'bluetooth'
+teams-kill 
+slack-kill 
+weather
+weather-today 
+teams-kill 
+zoom-kill 
+btinfo
+btinfo -n
+btinfo
+.\cmder.exe /REGISTER ALL
+btinfo
+cd CAC\IBM_Coach\ibmcoach-response-extractor\
+gd
+vpn-cac-c
+status
+purge-hard 
+alias-v
+desk
+cd CAC\IBM_Coach\
+cd ibmcoach-admin\
+cd ibmcoach-analytics\
+cd ibmcoach-coach\
+gs
+gpl
+ibm_pull 
+docker-start 
+cd IBM_Coach\ibmcoach-deploy\
+nmp audit fix
+cd ibmcoach-instructor\
+npm audit fix
+s
+cd ibmcoach-student\
+npm install 
+cd ..
+cd ibmcoach-deploy\
+ls
+cd local-dev\
+dcub
+weather-today 
+weather-kingston 
+chrome-kill 
+hcitool dev
+ipconfig
+($SysInfo = systeminfo) -match 'bluetooth'
+teams-kill 
+weather-today 
+btinfo
+btinfo -n
+btinfo
+.\cmder.exe /REGISTER ALL
+btinfo
+cd CAC\IBM_Coach\ibmcoach-response-extractor\
+gd
+alias-v
+cd CAC\IBM_Coach\
+cd ibmcoach-admin\
+cd ibmcoach-analytics\
+cd ibmcoach-coach\
+gpl
+ibm_pull 
+docker-start 
+cd IBM_Coach\ibmcoach-deploy\
+nmp audit fix
+cd ibmcoach-instructor\
+npm audit fix
+s
+cd ibmcoach-student\
+npm install 
+cd ..
+cd ibmcoach-deploy\
+cd local-dev\
+dcub
+zoom-kill 
+teams-kill 
+vpn-cac-c
+purge-hard 
+weather
+status
+purge
+cd projects\
+cd screenshot-pdf-converter\
+gs
+ls
+cat README.md 
+python screenshot_keypress.py 
+python clean.py 
+slack-kill 
+desk
+ls
+cat README.md 
+python screenshot_keypress.py 
+python clean.py 
+desk
+vpn-cac-c
+vpn-d
+outlook-kill 
+zoom-kill 
+teams-kill 
+slack-kill 
+purge-hard 
+slack-kill 
+vpn-cac-c
+vvpn-d
+vpn-d
+weather
+slack-kill 
+teams-kill 
+teams-kill 
+purge-hard 
+slack-kill 
+vpn-cac-c
+vvpn-d
+vpn-d
+weather
+slack-kill 
+teams-kill 
+teams-kill 
+desk
+cd "Queens Stuff\
+cd School\
+cd "CPME 251\
+cd "CMPE 365\
+git clone https://github.com/barrelmaker/CMPE365.git
+cd CMPE365\
+cd assignment-1\
+cd ..
+ls
+git commit -m"clean Q1 intro and add Algo A"
+gs
+ga.
+git commit -m"Add rest of content for Q1"
+gpu
+slack-kill 
+teams-kill 
+ga.
+git commit -m"Add rest of content for Q1"
+gpu
+slack-kill 
+teams-kill 
+gcc -v
+desk
+cd projects\
+cd testing\
+vim hello_world.c
+gcc hello_world.c 
+a.exe 
+gcc hello hello_world.c 
+gcc -o hello hello_world.c 
+ls
+hello.exe 
+gcc -o hello hello_world.c 
+hello.exe 
+vpn-cac-c
+desk
+cd CAC\IBM_Coach\
+git clone http://joshua@172.28.49.153:7990/scm/ic/ibmcoach-documentation.git
+cd ibmcoach-documentation\
+npm-i
+gs
+ls
+npm install docify
+npm install docsify
+docsify -v
+docsify
+npm i docsify-cli -g
+docsify serve docs
+npm uninstall docsify
+vpn-d
+weather
+weather-full 
+desk
+cd Job\Stroud\
+ls
+vim pdfSplit.py
+python pdfSplit.py 
+explorer.exe -r
+purge
+status
+weather
+weather-to
+weather-today 
+weather-today 
+desk
+cd "Queens Stuff\School\
+cd "MTHE 474\
+ls
+vim entropyCalc.py 
+status
+weather
+weather-to
+weather-today 
+weather-today 
+cd "Queens Stuff\School\
+cd "MTHE 474\
+vim entropyCalc.py 
+desk
+cd "Queens Stuff\
+cd School\
+cd "CMPE 365\
+cd CMPE365\
+"ls
+cat README.md 
+cd assignment-
+cd assignment-2
+pandoc assignment-2.md -s -o assignment-2.pdf
+cd ..
+ls
+gs
+ga.
+git commit -m"add q4 and q4 graphs image"
+gpu
+gpl
+desk
+cd "Queens Stuff\School\MTHE 474\
+ls
+vim entropyCalc.py 
+gpl
+python3.exe entropyCalc.py 
+pip install prettytable
+purge-hard 
+purge-hard 
+desk
+cd "Queens Stuff\School\CMPE 365\CMPE365\
+cat README.md 
+pip install pandoc
+cd assignment-
+cd assignment-3\
+choco install pandoc
+scoop install pandoc
+pandoc assignment-3.md -s -o assignment-3.pdf
+scoop install pdflatex
+pandoc 
+pandoc --help
+desk
+cd "Queens Stuff\
+cd School\
+cd "CMPE 365\
+"ls
+cd assignment-2
+pandoc assignment-2.md -s -o assignment-2.pdf
+ls
+git commit -m"add q4 and q4 graphs image"
+gpl
+cd "Queens Stuff\School\MTHE 474\
+vim entropyCalc.py 
+python3.exe entropyCalc.py 
+pip install prettytable
+desk
+cd "Queens Stuff\School\CMPE 365\
+cd CMPE365\
+gpl
+git stash
+git checkout .
+cd assignment-2\
+dl debug.log 
+del debug.log 
+cd assignment-
+cd assignment-3
+ls
+cat README.md 
+cd assignment-3\
+pandoc assignment-3.md -s -o assignment-3.pdf
+cd ..
+git commit -m"add assignment 3 question 1 A,B"
+gs
+ga.
+git commit -m"add ass 3 q2 part a"
+gpu
+purge-hard 
+git commit -m"add ass 3 q2 part a"
+purge-hard 
+desk
+cd "Queens Stuff\School\CMPE 365\CMPE365\
+cd assignment-
+cd assignment-3
+cd ..
+git diff
+git stash
+gpl
+git stash pop
+gs
+ga.
+git commit -m"add a3q2b"
+gpu
+deks
+desk
+cd "Queens Stuff\School\CMPE 365\CMPE365\\
+gpl
+teams-kill 
+status
+teams-kill 
+pur-h
+purge-hard 
+clear
+status
+weather
+purge-hard 
+purge-hard 
+pur-h
+purge-hard 
+purge
+purge-hard 
+pur-h
+purge
+desk
+cd "Queens Stuff\
+l
+cd School\
+cd "MTHE 493\
+git clone https://github.com/spencerkelly143/capstone.git
+ls
+cd capstone\
+gpl
+gb
+purge-hard 
+desk
+git clone https://github.com/spencerkelly143/capstone.git
+purge-hard 
+desk
+cd "Queens Stuff\
+cd School\
+cd mthh 493
+cd *493
+ls
+cd capstone\
+gpl
+gb
+cat readme.md 
+cd capstone\
+gpl
+gb
+purge-hard 
+desk
+git clone https://github.com/spencerkelly143/capstone.git
+purge-hard 
+cd "Queens Stuff\
+cd School\
+cd mthh 493
+cd *493
+cat readme.md 
+desk
+cd "Queens Stuff\School\MTHE 493\
+ls
+cd capstone\
+gba
+git add .
+git commit -m"initial dev branch commit"
+gcm
+gpl
+git checkout -b joshDev
+git push --set-upstream origin joshDev
+gb
+git checkout joshDev 
+gs
+ga.
+git commit -m"update tasks in readme"
+gpu
+git commit -m"update tasks in readme"
+gpu
+desk
+cd "Queens Stuff\School\
+cd *93
+cd capstone\
+gs
+python3 main.py 
+python3 main.py 
+teams-kill 
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gpl
+gs
+git diff
+git diff
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gs
+gl
+python main.py 
+git checkout -b joshDev
+git push --set-upstream origin joshDev
+gb
+git checkout joshDev 
+gs
+git commit -m"update tasks in readme"
+gpu
+git commit -m"update tasks in readme"
+desk
+cd "Queens Stuff\School\
+cd *93
+cd capstone\
+gs
+python3 main.py 
+teams-kill 
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gpl
+gs
+git diff
+git diff
+desk
+ga.
+git commit -m"plot all agent trading activity"
+python3 main.py 
+purge
+status
+cd "Queens Stuff\School\*493
+cd capstone\
+pip install pyqle
+pip install pyqlearning
+python -m pip install --upgrade pip
+weather
+weather-full 
+python main.py 
+gs
+ga. create new environment class and simulation functions
+git commit -m"create new env class and simulation functions"
+gpu
+gl
+purge-hard 
+python -m pip install --upgrade pip
+weather
+weather-full 
+python main.py 
+ga. create new environment class and simulation functions
+git commit -m"create new env class and simulation functions"
+gl
+purge-hard 
+dek
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+python3 main.py 
+python simulation.py 
+gs
+ga.
+git commit -m"add graphing to simulation.py" -m"update readme"
+gpu
+python3.exe  simulation.py 
+pur-h
+purge-hard 
+clear
+status
+weather
+purge-hard 
+purge-hard 
+pur-h
+purge-hard 
+purge
+purge-hard 
+pur-h
+purge
+desk
+cd "Queens Stuff\
+l
+cd School\
+cd "MTHE 493\
+git clone https://github.com/spencerkelly143/capstone.git
+ls
+cd capstone\
+gpl
+gb
+purge-hard 
+desk
+git clone https://github.com/spencerkelly143/capstone.git
+purge-hard 
+desk
+cd "Queens Stuff\
+cd School\
+cd mthh 493
+cd *493
+ls
+cd capstone\
+gpl
+gb
+cat readme.md 
+cd capstone\
+gpl
+gb
+purge-hard 
+desk
+git clone https://github.com/spencerkelly143/capstone.git
+purge-hard 
+cd "Queens Stuff\
+cd School\
+cd mthh 493
+cd *493
+cat readme.md 
+desk
+cd "Queens Stuff\School\MTHE 493\
+ls
+cd capstone\
+gba
+git commit -m"initial dev branch commit"
+gcm
+gpl
+git checkout -b joshDev
+git push --set-upstream origin joshDev
+gb
+git checkout joshDev 
+gs
+ga.
+git commit -m"update tasks in readme"
+gpu
+git commit -m"update tasks in readme"
+gpu
+desk
+cd "Queens Stuff\School\
+cd *93
+cd capstone\
+gs
+python3 main.py 
+python3 main.py 
+teams-kill 
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gpl
+gs
+git diff
+git diff
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gs
+gl
+python main.py 
+git checkout -b joshDev
+git push --set-upstream origin joshDev
+gb
+git checkout joshDev 
+gs
+git commit -m"update tasks in readme"
+gpu
+git commit -m"update tasks in readme"
+desk
+cd "Queens Stuff\School\
+cd *93
+cd capstone\
+gs
+python3 main.py 
+teams-kill 
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gpl
+gs
+git diff
+git diff
+desk
+ga.
+git commit -m"plot all agent trading activity"
+python3 main.py 
+purge
+status
+cd "Queens Stuff\School\*493
+cd capstone\
+pip install pyqle
+pip install pyqlearning
+python -m pip install --upgrade pip
+weather
+weather-full 
+python main.py 
+gs
+ga. create new environment class and simulation functions
+git commit -m"create new env class and simulation functions"
+gpu
+gl
+purge-hard 
+python -m pip install --upgrade pip
+weather
+weather-full 
+ga. create new environment class and simulation functions
+git commit -m"create new env class and simulation functions"
+purge-hard 
+dek
+python3 main.py 
+git commit -m"add graphing to simulation.py" -m"update readme"
+python3.exe  simulation.py 
+desk
+cd "Queens Stuff\sco*493
+cd cap
+cd "Queens Stuff\School\*493
+cd capstone\
+python -v
+python --v
+python -h
+python -V
+python testing.py 
+git commit -m"update readme"
+python3 testing.py 
+git commit -m"add Qlearning agent to simulation"
+gl
+python main.py 
+git add readme.md 
+git add .
+gt commit -m"almost done, need to setup bellman equation to update Q-table"
+git commit -m"almost done, need to setup bellman equation to update Q-table"
+git commit -m"add temporal difference and bellman equation"
+git commit -m"hotfix: got bellman actually working (somewhat)"
+git commit -m"normalize temporal difference"
+git commit -m"update readme issues"
+git commit -m"update readme and profit bug"
+gpu
+gs
+ga.
+python simulation.py 
+git add .
+gt commit -m"almost done, need to setup bellman equation to update Q-table"
+git commit -m"almost done, need to setup bellman equation to update Q-table"
+git commit -m"add temporal difference and bellman equation"
+git commit -m"hotfix: got bellman actually working (somewhat)"
+git commit -m"normalize temporal difference"
+git commit -m"update readme issues"
+git commit -m"update readme and profit bug"
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+python simulation.py 
+git diff
+gs
+ga.
+git commit -m"add comments on issues and potential changes"
+gpu
+purge-hard 
+git commit -m"add comments on issues and potential changes"
+gpu
+purge-hard 
+ccd "Queens Stuff\
+desk
+cd "Queens Stuff\
+cd School\
+cd *493
+cd capstone\
+gs
+ls
+gl
+python simulation.py 
+cd capstone\
+gs
+python3 main.py 
+teams-kill 
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gpl
+gs
+git diff
+git diff
+desk
+ga.
+git commit -m"plot all agent trading activity"
+python3 main.py 
+purge
+status
+cd "Queens Stuff\School\*493
+cd capstone\
+pip install pyqle
+pip install pyqlearning
+python -m pip install --upgrade pip
+weather
+weather-full 
+python main.py 
+gs
+ga. create new environment class and simulation functions
+git commit -m"create new env class and simulation functions"
+gpu
+gl
+purge-hard 
+python -m pip install --upgrade pip
+weather
+weather-full 
+ga. create new environment class and simulation functions
+git commit -m"create new env class and simulation functions"
+purge-hard 
+dek
+python3 main.py 
+git commit -m"add graphing to simulation.py" -m"update readme"
+python3.exe  simulation.py 
+desk
+cd "Queens Stuff\sco*493
+cd cap
+cd "Queens Stuff\School\*493
+cd capstone\
+python -v
+python --v
+python -h
+python -V
+python testing.py 
+git commit -m"update readme"
+python3 testing.py 
+git commit -m"add Qlearning agent to simulation"
+gl
+python main.py 
+git add readme.md 
+git add .
+gt commit -m"almost done, need to setup bellman equation to update Q-table"
+git commit -m"almost done, need to setup bellman equation to update Q-table"
+git commit -m"add temporal difference and bellman equation"
+git commit -m"hotfix: got bellman actually working (somewhat)"
+git commit -m"normalize temporal difference"
+git commit -m"update readme issues"
+git commit -m"update readme and profit bug"
+gpu
+ga.
+python simulation.py 
+gt commit -m"almost done, need to setup bellman equation to update Q-table"
+git commit -m"almost done, need to setup bellman equation to update Q-table"
+git commit -m"add temporal difference and bellman equation"
+git commit -m"hotfix: got bellman actually working (somewhat)"
+git commit -m"normalize temporal difference"
+git commit -m"update readme issues"
+git commit -m"update readme and profit bug"
+ga.
+git commit -m"add comments on issues and potential changes"
+purge-hard 
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+git commit -m"fix 
+git commit -m"Fix QL buy/sell behavior when winning both bid and ask" -m"other minor fixes"
+git commit -m"Update nudge constant to be optimal"
+python simulation.py 
+gs
+git diff
+git add .
+git commit -m"plot learning curve"
+gpu
+purge
+purge-hard 
+git commit -m"fix 
+git commit -m"Fix QL buy/sell behavior when winning both bid and ask" -m"other minor fixes"
+git commit -m"Update nudge constant to be optimal"
+git diff
+git commit -m"plot learning curve"
+purge
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gpl
+python simulation.py 
+gs
+git add .
+git commit -m"minor changes from meeting today"
+gpu
+git diff
+git commit -m"plot learning curve"
+purge
+cd "Queens Stuff\School\*493
+gpl
+git add .
+git commit -m"minor changes from meeting today"
+gpu
+desk
+cd "Queens Stuff\School\
+cs
+cdd *493
+cd *493
+ls
+cd capstone\
+gs
+gl
+python simulation.py 
+git add .
+git commit -m"minor changes from meeting today"
+cd "Queens Stuff\School\
+cs
+cdd *493
+cd *493
+gl
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+python simulation
+ls
+python simulation.py 
+gs
+ga.
+git commit -m"Updates and Fixes discussed in March 10 meeting" -m"simulation QL bugs persist and code needs review"
+gpu
+purge-hard 
+gpu
+purge-hard 
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+python simulation
+ls
+python simulation.py 
+purge-hard 
+gs
+git add agent2.py 
+git commit -m"Create type 2 competitor class" -m"needs review"
+gpu
+ls
+purge-hard 
+git add agent2.py 
+git commit -m"Create type 2 competitor class" -m"needs review"
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gl
+gpl
+git add agentQ.py 
+git commit -m"fix temporal differnce calculation"
+gpu
+gs
+python simulation.py 
+git add agent2.py 
+git commit -m"Create type 2 competitor class" -m"needs review"
+git add agentQ.py 
+git commit -m"fix temporal differnce calculation"
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gpl
+g
+gl
+python simulation.py 
+git add .
+git commit -m"minor fixes from Willem" 
+gpu
+git status
+git add brownian.py 
+gs
+git commit -m"fixed thing" 
+git push
+git branch
+git commit -m"Create type 2 competitor class" -m"needs review"
+git add agentQ.py 
+git commit -m"fix temporal differnce calculation"
+gpl
+g
+gl
+git add .
+git commit -m"minor fixes from Willem" 
+git status
+git add brownian.py 
+git commit -m"fixed thing" 
+git push
+git branch
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+git add randWalk.py 
+git add environment.py 
+git commit -m"fix gmbrownian class"
+gs
+ga.
+git commit -m"add git ignore"
+gpu
+ls
+python simulation.py 
+gpu
+gs
+python simulation.py 
+git add agent2.py 
+git commit -m"Create type 2 competitor class" -m"needs review"
+git add agentQ.py 
+git commit -m"fix temporal differnce calculation"
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gpl
+g
+gl
+python simulation.py 
+git add .
+git commit -m"minor fixes from Willem" 
+gpu
+git status
+git add brownian.py 
+gs
+git commit -m"fixed thing" 
+git push
+git branch
+git commit -m"Create type 2 competitor class" -m"needs review"
+git add agentQ.py 
+git commit -m"fix temporal differnce calculation"
+g
+gl
+git add .
+git commit -m"minor fixes from Willem" 
+git status
+git add brownian.py 
+git commit -m"fixed thing" 
+git branch
+git add randWalk.py 
+git add environment.py 
+git commit -m"fix gmbrownian class"
+git commit -m"add git ignore"
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+git commit -m"add timestep print statement when done"
+gcm
+git pull origin master
+git merge joshDev
+git reset
+gti stash
+git checkout joshDev
+git reset 
+git stash 
+git reset --hard
+git checkout .
+git clean -f
+git reset --hard 
+git fetch --all
+git checkout joshDev 
+git merge -s ours master
+git checkout master
+git merge joshDev 
+ls
+git push
+gpl
+python simulation.py 
+gs
+ga.
+git commit -m"Add comments from Bora"
+gpu
+purge-hard 
+purge
+purge
+purge-hard 
+purge
+clear
+git commit -m"add git ignore"
+git commit -m"add timestep print statement when done"
+gcm
+git pull origin master
+git merge joshDev
+git reset
+gti stash
+git checkout joshDev
+git reset 
+git stash 
+git reset --hard
+git checkout .
+git clean -f
+git reset --hard 
+git fetch --all
+git checkout joshDev 
+git merge -s ours master
+git checkout master
+git merge joshDev 
+ls
+git push
+ga.
+git commit -m"Add comments from Bora"
+purge-hard 
+purge
+purge
+purge
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gpl
+gl
+python simulation.py 
+git add simulation.py 
+git commit -m "redo inventory cap logic for all agents"
+git diff
+gs
+git add agentQ.py 
+git commit -m"float decimal fix for quote()"
+gpu
+purge-hard 
+clear
+git push
+git commit -m"Add comments from Bora"
+purge-hard 
+purge
+purge
+purge
+gpl
+gl
+git add simulation.py 
+git commit -m "redo inventory cap logic for all agents"
+git diff
+git add agentQ.py 
+git commit -m"float decimal fix for quote()"
+purge-hard 
+clear
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+python simulation.py 
+git add randWalk.py 
+git commit -m"set negative ref prices to 0"
+gs
+ga.
+git commit -m"update readme"
+gpu
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gpl
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+cd "Queens Stuff\School\*493
+cd capstone\
+git add randWalk.py 
+git commit -m"set negative ref prices to 0"
+git commit -m"update readme"
+gpl
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+pip install h5py
+ga.gs
+ga.
+gs
+git commit -m"plot qmatrix convergence" 
+gpu
+purge
+python simulation.py 
+cd capstone\
+cd "Queens Stuff\School\*493
+cd capstone\
+git add randWalk.py 
+git commit -m"set negative ref prices to 0"
+git commit -m"update readme"
+ga.gs
+ga.
+git commit -m"plot qmatrix convergence" 
+gpu
+purge
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+git status
+git diff simulation.py 
+git stash
+gl
+python simulation
+gs
+git checkout .
+gpl
+pip install h5py
+python simulation.py 
+git checkout .
+pip install h5py
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gpl
+gs
+python simulation.py 
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gs
+python simulation.py 
+gs
+git checkout .
+gpl
+pip install h5py
+python simulation.py 
+git checkout .
+pip install h5py
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gs
+python simulation.py 
+python simulation.py 
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+git add simulation.py 
+git add randWalk.py 
+git add demand.py 
+git add QLAgent.py
+git commit -m"adjust configuration"
+git add traders.py 
+git commit -m"adjust buyfl/sellfl to 40 from 100"
+gpu
+git reset
+gs
+git push
+gpl
+cd capstone\
+gs
+python simulation.py 
+python simulation.py 
+python simulation.py 
+cd capstone\
+git add simulation.py 
+git add randWalk.py 
+git add demand.py 
+git add QLAgent.py
+git commit -m"adjust configuration"
+git add traders.py 
+git commit -m"adjust buyfl/sellfl to 40 from 100"
+git reset
+gs
+git push
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+git add agentQ.py 
+git commit -m"Change epsilon bins"
+git add .
+git commit -m"set hardcoded epsilon values"
+python simulation
+python simulation.py 
+git checkout .
+git branch final
+git pull
+git checkout final
+gpu
+git push --set-upstream origin final 
+gs
+git branch
+git checkout master
+gpl
+git push --set-upstream origin final 
+git branch
+git checkout master
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gpl
+gs
+python simulation.py 
+git checkout master
+gpl
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gs
+python simulation
+python simulation.py 
+python simulation.py 
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+git checkout .
+gpl
+gs
+gl
+purge-hard 
+desk
+explorer.exe 
+alias
+alias-v
+purge
+pur-h
+purge-hard 
+purge
+purge
+weather
+status
+purge
+weather
+status
+desk
+cd "Queens Stuff\School\*493
+cd capstone\
+gs
+gpl
+al
+gl
+ls
+python simulation.py 
+alias-v
+purge
+ls
+python simulation.py 
+alias
+S
+alias-v
+purge
+space-cowboy 
+status
+ping 192.168.2.225
+ssh -h
+ssh --help
+ssh -o
+ssh -l
+ssh -- l
+purge-hard 
+purge
+ssh -l
+ssh -- l
+purge
+purge-hard 
+purge-hard 
+purge
+purge-hard 
+curl wttr.in
+alias-v
+weather-full 
+clear
+status
+weather
+purge-hard 
+weather-full 
+clear
+status
+purge-hard 
+alias
+waea
+weather-small 
+weather
+weather-min 
+weather-min toro
+weather-toronto 
+desl
+desk
+list
+statuos
+stats
+status
+purge-hard 
+purge-hard 
+desk
+cd projects\
+l
+ls
+powerpoint
+purge-hard 
+purge-hard 
+S
+status
+weather
+ls
+dir
+alias-v 
+alias
+purge-hard 
+statjus
+alias
+status
+status
+alias-v 
+alias
+desk
+alias-v
+cd\
+dir
+status
+weather
+dir
+alias-v 
+alias
+purge-hard 
+statjus
+alias
+status
+status
+alias-v 
+alias-v
+cd\
+dir
+desk
+cd projects\line-study-app\
+touch README.md
+git-s
+alias
+git commit -m"initial commit"
+git branch -M main git remote add origin https://github.com/JoshW7/line-study-app.git git push -u origin main
+git branch -M main git remote add origin https://github.com/JoshW7/line-study-app.git git push -u origin mai
+git branch -M main
+git remote add origin https://github.com/JoshW7/line-study-app.git
+git push -u origin main
+git commit -m"add high level requirements"
+gs
+cat README.md 
+vim README.md 
+ls
+ga.
+git commit -m"md syntax fix"
+gpu
+git branch -M main git remote add origin https://github.com/JoshW7/line-study-app.git git push -u origin mai
+git branch -M main
+git remote add origin https://github.com/JoshW7/line-study-app.git
+git push -u origin main
+git commit -m"add high level requirements"
+cat README.md 
+git commit -m"md syntax fix"
+status
+desk
+github
+git -h
+cd projects\
+ls
+cd line-study-app\
+gpl
+git add .
+git commit -m"test"
+gs
+gl
+vim README.md 
+ga.
+git commit -m"test2"
+gpu
+purge
+weather
+desk
+alias-v
+vim README.md 
+ga.
+git commit -m"test2"
+gpu
+purge
+weather
+status
+desk
+cd Users\
+cd "Josh Wade\
+cd Desktop\
+cd code\cmder\
+ls
+gpu
+purge
+desk
+cd von
+cd config\
+ls
+vim user_aliases.cmd 
+alias-v
+git commit -m"test2"
+purge
+weather
+cd Users\
+cd "Josh Wade\
+cd Desktop\
+cd code\cmder\
+status
+desk
+clear
+cd code\
+cd Projcets\
+cd line-study-app\
+ls
+vim README.md 
+ga.
+git commit -m"add design reqs from Coop"
+gs
+gpu
+status
+node
+npx
+vim "git access token.txt" 
+cd von
+cd config\
+vim user_aliases.cmd 
+alias-v
+cd code\cmder\
+cd vim "git access token.txt" 
+vim "git access token.txt" 
+desk
+cd code\Projcets\line-study-app\
+git config
+gpu
+ls
+cd client\
+gs
+npx create-react-app ./
+npx create-react-app 
+node -v
+cd code\cmder\
+cd vim "git access token.txt" 
+vim "git access token.txt" 
+cd code\Projcets\line-study-app\
+git config
+npx create-react-app 
+node -v
+desk
+cd code\Projcets\
+cd line-study-app\
+ls
+cd client\
+npx create-react-app ./
+npm install 
+npm audit
+cd ..
+ga.
+git commit -m"create client skeleton" -m"update readme and add gitignore"
+gpu
+gs
+gl
+gs
+ls
+cat README.md 
+npm start
+gl
+cat README.md 
+npm start
+desk
+cd code\
+cd Projcets\
+cd line-study-app\
+gs
+ls
+cd client\
+npm-s 
+desk
+cd code\Projcets\line-study-app\
+ls
+cd client\
+npm-s
+desk
+cd code\Projcets\line-study-app\
+gs
+git add .
+git commit -m"updte readme"
+gpu

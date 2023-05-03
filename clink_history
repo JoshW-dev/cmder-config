@@ -1,0 +1,106 @@
+|CTAG_1641237681_1400856734_14928_0
+|lias
+|d ..
+|s
+|it
+|s
+cd code\
+|s
+|s
+|d Desktop\
+|s
+|d code\Projcets\
+|s
+git pull https://github.com/JoshW7/line-study-app.git
+|it clone https://github.com/JoshW7/line-study-app.git
+|d ../..
+|d code\Projcets\
+|s
+git clone https://github.com/JoshW7/line-study-app.git
+|s
+|d line-study-app\
+git 
+|d ../..
+|d code\Projcets\
+|d line-study-app\
+git
+|s
+|im README.md 
+|s
+|it status
+|it add .
+git commit -m""
+|it commit -m"test on new laptop"
+git config --global user.email "joshuafwade@gmail.com"
+git config --global user.name "Josh thinkpad"
+git commit -m"test on new laptop"
+|it push
+|it push
+|s
+git log
+|s
+|im "git access token.txt" 
+|im README.md 
+gs
+git status
+git add .
+git commit -m"add immediate actions"
+gpu
+|it push
+vim "git access token.txt" 
+|it push
+git push
+|url wttr.in
+curl wttr.in?format=1
+curl wttr.in?format=2
+curl wttr.in?format=3
+curl wttr.in/Calgary?format=3
+curl wttr.in/Calgary?format=4
+curl wttr.in/Calgary?format=5
+|url wttr.in/Calgary?format=v2
+|url wttr.in/Calgary?format=v2
+curl wttr.in/Calgary?format=v2
+|lear
+curl wttr.in/Calgary
+curl wttr.in
+|esk
+cd .
+cd C
+cd C:
+cd C:\
+tree
+|s
+cd Brother\
+|s
+|d D:
+cd D:\
+|d D:/
+|d ..
+|s
+cd D:/
+cd D:
+cd D
+clear
+|s
+cd Users\Default\Desktop\
+|s
+cd ../..
+|s
+cd "Josh Wade\
+cd Desktop\
+|s
+cd code\Projcets\
+|s
+|d line-study-app\
+|im README.md 
+|lias
+|esk
+alias-v
+alias
+desk
+cd ..
+ls
+cd Projcets\
+cd co
+cd line-study-app\
+vim README.md 
